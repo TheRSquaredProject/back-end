@@ -1,0 +1,4 @@
+clean scripts for data
+
+Python script can be replicated for another data file similar but some modification will make it smarter.Right now, it has to collect the column
+names manually to sort data from a excelsheet. 
