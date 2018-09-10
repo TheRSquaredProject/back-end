@@ -1,0 +1,7554 @@
+[
+  {
+    "division_name": "BARISAL",
+    "zila_name": "BARGUNA",
+    "disgeocode": 1004,
+    "shape": {
+      "leng": 320746.81,
+      "area": 1517787136
+    },
+    "_id": 1,
+    "total_population_(n)": 890340,
+    "rural_population_(%)": 88.53,
+    "working-age_population_(n)": 534220,
+    "number_of_households_(n)": 215860,
+    "poverty": {
+      "total": 169164.59,
+      "percent": 19,
+      "ratio": 87253.32
+    },
+    "national_avg_(%)": "0.125",
+    "rank": 2.59,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.1875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 17180,
+        "percent": 7.23,
+        "total": 67920
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 55520,
+        "percent": 25.72,
+        "total": 104160
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.78125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 239700,
+      "percent": 43.58,
+      "total": 236160
+    },
+    "households_with_non-flush": 2.35,
+    "latrine": {
+      "n": "0.0625",
+      "percent": 11.13,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 191120,
+      "percent": 77.33,
+      "total": 113160
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.078125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 18500,
+        "percent": 68.27,
+        "total": 11300
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.28125",
+        "total": 40
+      },
+      "university": {
+        "n": 28284.17,
+        "percent": 32.31,
+        "total": 6285.37
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 19109.98,
+        "percent": 21.83,
+        "total": 4020
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.53125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.609375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 132180,
+        "percent": 14.85,
+        "total": 171440
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 52500,
+      "percent": 5.9,
+      "total": 5580
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.265625"
+    }
+  },
+  {
+    "division_name": "BARISAL",
+    "zila_name": "BARISAL",
+    "disgeocode": 1006,
+    "shape": {
+      "leng": 394681.03,
+      "area": 2489303808
+    },
+    "_id": 2,
+    "total_population_(n)": 2308540,
+    "rural_population_(%)": 78.16,
+    "working-age_population_(n)": 1346080,
+    "number_of_households_(n)": 513760,
+    "poverty": {
+      "total": 1265079.88,
+      "percent": 54.8,
+      "ratio": 921107.44
+    },
+    "national_avg_(%)": "0.1875",
+    "rank": 1.41,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.984375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 60580,
+        "percent": 10.16,
+        "total": 229640
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.21875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 166000,
+        "percent": 32.31,
+        "total": 258060
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.8125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 538420,
+      "percent": 39.76,
+      "total": 558020
+    },
+    "households_with_non-flush": 3.79,
+    "latrine": {
+      "n": "0.09375",
+      "percent": 15.24,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 539280,
+      "percent": 75.1,
+      "total": 298940
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.171875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 58840,
+        "percent": 64.74,
+        "total": 35800
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.265625",
+        "total": 40
+      },
+      "university": {
+        "n": 72229.13,
+        "percent": 31.66,
+        "total": 16015.43
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 49072.91,
+        "percent": 21.51,
+        "total": 9020
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.25",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 346280,
+        "percent": 15,
+        "total": 483560
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 132620,
+      "percent": 5.74,
+      "total": 7220
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.046875"
+    }
+  },
+  {
+    "division_name": "BARISAL",
+    "zila_name": "BHOLA",
+    "disgeocode": 1009,
+    "shape": {
+      "leng": 361184.91,
+      "area": 3175582464
+    },
+    "_id": 3,
+    "total_population_(n)": 1778060,
+    "rural_population_(%)": 86.34,
+    "working-age_population_(n)": 972220,
+    "number_of_households_(n)": 372760,
+    "poverty": {
+      "total": 590315.88,
+      "percent": 33.2,
+      "ratio": 362724.22
+    },
+    "national_avg_(%)": "0.703125",
+    "rank": 6.22,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 30540,
+        "percent": 6.66,
+        "total": 118980
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.8125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 34960,
+        "percent": 9.38,
+        "total": 189000
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.828125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 583380,
+      "percent": 60.56,
+      "total": 275040
+    },
+    "households_with_non-flush": 2.06,
+    "latrine": {
+      "n": "0.8125",
+      "percent": 8.83,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 375640,
+      "percent": 64.75,
+      "total": 225640
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.953125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 33680,
+        "percent": 50.01,
+        "total": 18200
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.859375",
+        "total": 40
+      },
+      "university": {
+        "n": 82082.63,
+        "percent": 38.1,
+        "total": 20143.64
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 53989.26,
+        "percent": 25.06,
+        "total": 1020
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.046875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "1",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 324560,
+        "percent": 18.25,
+        "total": 397420
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 83860,
+      "percent": 4.72,
+      "total": 23180
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.5625"
+    }
+  },
+  {
+    "division_name": "BARISAL",
+    "zila_name": "JHALOKATI",
+    "disgeocode": 1042,
+    "shape": {
+      "leng": 210694.8,
+      "area": 738168768
+    },
+    "_id": 4,
+    "total_population_(n)": 671680,
+    "rural_population_(%)": 83.56,
+    "working-age_population_(n)": 395400,
+    "number_of_households_(n)": 157480,
+    "poverty": {
+      "total": 272030.41,
+      "percent": 40.5,
+      "ratio": 179338.55
+    },
+    "national_avg_(%)": "0.03125",
+    "rank": 1.27,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.8125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 17400,
+        "percent": 10.58,
+        "total": 68960
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.15625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 71700,
+        "percent": 45.53,
+        "total": 65180
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.578125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 136600,
+      "percent": 33.83,
+      "total": 185660
+    },
+    "households_with_non-flush": 3.08,
+    "latrine": {
+      "n": "0.015625",
+      "percent": 17.11,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 165080,
+      "percent": 80.83,
+      "total": 89400
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.015625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 19340,
+        "percent": 73.26,
+        "total": 12060
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.015625",
+        "total": 40
+      },
+      "university": {
+        "n": 18088.45,
+        "percent": 28.84,
+        "total": 3813.38
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 12951.68,
+        "percent": 20.65,
+        "total": 1020
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.3125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.953125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 93560,
+        "percent": 13.93,
+        "total": 138440
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 44280,
+      "percent": 6.59,
+      "total": 2000
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.03125"
+    }
+  },
+  {
+    "division_name": "BARISAL",
+    "zila_name": "PATUAKHALI",
+    "disgeocode": 1078,
+    "shape": {
+      "leng": 414700.19,
+      "area": 3159387392
+    },
+    "_id": 5,
+    "total_population_(n)": 1530060,
+    "rural_population_(%)": 87.08,
+    "working-age_population_(n)": 889180,
+    "number_of_households_(n)": 346580,
+    "poverty": {
+      "total": 394755.47,
+      "percent": 25.8,
+      "ratio": 224918.81
+    },
+    "national_avg_(%)": "0.171875",
+    "rank": 3.21,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.359375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 34540,
+        "percent": 8.49,
+        "total": 121760
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.5",
+        "total": 56.45
+      },
+      "services": {
+        "n": 83120,
+        "percent": 23.98,
+        "total": 164760
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.765625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 436460,
+      "percent": 48.11,
+      "total": 342740
+    },
+    "households_with_non-flush": 2.37,
+    "latrine": {
+      "n": "0.203125",
+      "percent": 11.73,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 331780,
+      "percent": 73.32,
+      "total": 190720
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.484375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 33140,
+        "percent": 64.27,
+        "total": 20980
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.328125",
+        "total": 40
+      },
+      "university": {
+        "n": 54811.28,
+        "percent": 34.33,
+        "total": 12629.11
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 37120.95,
+        "percent": 23.25,
+        "total": 2980
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.828125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 242680,
+        "percent": 15.86,
+        "total": 310080
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 88120,
+      "percent": 5.76,
+      "total": 11120
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.34375"
+    }
+  },
+  {
+    "division_name": "BARISAL",
+    "zila_name": "PIROJPUR",
+    "disgeocode": 1079,
+    "shape": {
+      "leng": 320655.28,
+      "area": 1271725824
+    },
+    "_id": 6,
+    "total_population_(n)": 1104760,
+    "rural_population_(%)": 83.88,
+    "working-age_population_(n)": 658880,
+    "number_of_households_(n)": 256100,
+    "poverty": {
+      "total": 487199.19,
+      "percent": 44.1,
+      "ratio": 341370.81
+    },
+    "national_avg_(%)": "0.015625",
+    "rank": 1.42,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.921875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 29500,
+        "percent": 10.07,
+        "total": 113520
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.203125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 78480,
+        "percent": 30.64,
+        "total": 112920
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.71875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 248220,
+      "percent": 36.59,
+      "total": 311600
+    },
+    "households_with_non-flush": 3.04,
+    "latrine": {
+      "n": "0.03125",
+      "percent": 14.43,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 244100,
+      "percent": 76.9,
+      "total": 137240
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.03125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 27120,
+        "percent": 67.53,
+        "total": 16480
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.140625",
+        "total": 40
+      },
+      "university": {
+        "n": 31913.05,
+        "percent": 29.67,
+        "total": 6754.77
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 23211.45,
+        "percent": 21.58,
+        "total": 11620
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.5625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.265625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 160580,
+        "percent": 14.54,
+        "total": 212180
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 73120,
+      "percent": 6.62,
+      "total": 3640
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.078125"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "BANDARBAN",
+    "disgeocode": 2003,
+    "shape": {
+      "leng": 577215.44,
+      "area": 4598388736
+    },
+    "_id": 7,
+    "total_population_(n)": 391860,
+    "rural_population_(%)": 75.16,
+    "working-age_population_(n)": 225400,
+    "number_of_households_(n)": 80100,
+    "poverty": {
+      "total": 157135.86,
+      "percent": 40.1,
+      "ratio": 84641.77
+    },
+    "national_avg_(%)": "0.96875",
+    "rank": 36.8,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.734375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 7840,
+        "percent": 5.9,
+        "total": 30340
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.9375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 6940,
+        "percent": 8.66,
+        "total": 14680
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.078125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 146560,
+      "percent": 69.98,
+      "total": 43820
+    },
+    "households_with_non-flush": 1.48,
+    "latrine": {
+      "n": "1",
+      "percent": 7.62,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 67820,
+      "percent": 57.3,
+      "total": 44400
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "1",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 5660,
+        "percent": 38.66,
+        "total": 2920
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.984375",
+        "total": 40
+      },
+      "university": {
+        "n": 19821.67,
+        "percent": 39.58,
+        "total": 5328.51
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 14548.24,
+        "percent": 29.05,
+        "total": 8740
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.359375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.09375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 74060,
+        "percent": 18.9,
+        "total": 79720
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 12680,
+      "percent": 3.24,
+      "total": 29480
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "1"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "BRAHMANBARIA",
+    "disgeocode": 2012,
+    "shape": {
+      "leng": 382093.97,
+      "area": 1921729920
+    },
+    "_id": 8,
+    "total_population_(n)": 2848260,
+    "rural_population_(%)": 84.15,
+    "working-age_population_(n)": 1500100,
+    "number_of_households_(n)": 538920,
+    "poverty": {
+      "total": 854478.06,
+      "percent": 30,
+      "ratio": 427239.03
+    },
+    "national_avg_(%)": "0.625",
+    "rank": 3.37,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 61140,
+        "percent": 9.8,
+        "total": 231960
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.28125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 115640,
+        "percent": 21.46,
+        "total": 260800
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.796875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 840180,
+      "percent": 56.84,
+      "total": 473820
+    },
+    "households_with_non-flush": 1.71,
+    "latrine": {
+      "n": "0.5625",
+      "percent": 9.4,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 623280,
+      "percent": 66.43,
+      "total": 386140
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.859375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 59120,
+        "percent": 51.62,
+        "total": 28980
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.890625",
+        "total": 40
+      },
+      "university": {
+        "n": 151056.48,
+        "percent": 38.83,
+        "total": 38746.39
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 94259.54,
+        "percent": 24.23,
+        "total": 11980
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.03125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.5",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 572220,
+        "percent": 20.09,
+        "total": 637740
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 138200,
+      "percent": 4.85,
+      "total": 18160
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.375"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "CHANDPUR",
+    "disgeocode": 2013,
+    "shape": {
+      "leng": 264917.91,
+      "area": 1697949568
+    },
+    "_id": 9,
+    "total_population_(n)": 2406900,
+    "rural_population_(%)": 82.07,
+    "working-age_population_(n)": 1369980,
+    "number_of_households_(n)": 506620,
+    "poverty": {
+      "total": 1227519,
+      "percent": 51,
+      "ratio": 729290.69
+    },
+    "national_avg_(%)": "0.09375",
+    "rank": 2.55,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.890625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 61900,
+        "percent": 11.35,
+        "total": 203460
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.265625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 68020,
+        "percent": 13.43,
+        "total": 283440
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.9375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 611500,
+      "percent": 44.72,
+      "total": 548320
+    },
+    "households_with_non-flush": 2.26,
+    "latrine": {
+      "n": "0.125",
+      "percent": 12.93,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 568680,
+      "percent": 73.71,
+      "total": 311980
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.234375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 66660,
+        "percent": 63.21,
+        "total": 37500
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.484375",
+        "total": 40
+      },
+      "university": {
+        "n": 98821.34,
+        "percent": 37.88,
+        "total": 24914.04
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 59689.34,
+        "percent": 22.88,
+        "total": 30460
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.234375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.1875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 387100,
+        "percent": 16.08,
+        "total": 506680
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 143140,
+      "percent": 5.95,
+      "total": 12940
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.25"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "CHITTAGONG",
+    "disgeocode": 2015,
+    "shape": {
+      "leng": 695380.75,
+      "area": 4779564032
+    },
+    "_id": 10,
+    "total_population_(n)": 7633760,
+    "rural_population_(%)": 58.72,
+    "working-age_population_(n)": 4742080,
+    "number_of_households_(n)": 1531600,
+    "poverty": {
+      "total": 877882.44,
+      "percent": 11.5,
+      "ratio": 305350.41
+    },
+    "national_avg_(%)": "0.90625",
+    "rank": 2.49,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.046875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 548740,
+        "percent": 24.29,
+        "total": 1314140
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.03125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 486060,
+        "percent": 31.74,
+        "total": 694740
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.734375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 1758900,
+      "percent": 38.85,
+      "total": 1641460
+    },
+    "households_with_non-flush": 5.84,
+    "latrine": {
+      "n": "0.265625",
+      "percent": 19.06,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 1610700,
+      "percent": 69.25,
+      "total": 887660
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.359375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 186720,
+        "percent": 56.53,
+        "total": 123540
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.640625",
+        "total": 40
+      },
+      "university": {
+        "n": 257104.23,
+        "percent": 33.54,
+        "total": 62091.36
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 176462.13,
+        "percent": 23.02,
+        "total": 356760
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.5",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.046875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 1124660,
+        "percent": 14.73,
+        "total": 1477620
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 289400,
+      "percent": 3.79,
+      "total": 38180
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.234375"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "COMILLA",
+    "disgeocode": 2019,
+    "shape": {
+      "leng": 408265.72,
+      "area": 3086433792
+    },
+    "_id": 11,
+    "total_population_(n)": 5390960,
+    "rural_population_(%)": 84.71,
+    "working-age_population_(n)": 3022520,
+    "number_of_households_(n)": 1053440,
+    "poverty": {
+      "total": 2043173.88,
+      "percent": 37.9,
+      "ratio": 1137492.5
+    },
+    "national_avg_(%)": "0.375",
+    "rank": 3.05,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.671875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 128100,
+        "percent": 10.47,
+        "total": 524240
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 231940,
+        "percent": 22.02,
+        "total": 578420
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.921875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 1405540,
+      "percent": 47.27,
+      "total": 1073880
+    },
+    "households_with_non-flush": 2.74,
+    "latrine": {
+      "n": "0.28125",
+      "percent": 13.88,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 1251380,
+      "percent": 71.16,
+      "total": 706560
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.53125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 137360,
+        "percent": 60.03,
+        "total": 75860
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.609375",
+        "total": 40
+      },
+      "university": {
+        "n": 231401.73,
+        "percent": 37.3,
+        "total": 58005.53
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 140888.28,
+        "percent": 22.71,
+        "total": 59880
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.140625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.21875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 928340,
+        "percent": 17.22,
+        "total": 1160920
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 279180,
+      "percent": 5.18,
+      "total": 32080
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.296875"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "COX'S BAZAR",
+    "disgeocode": 2022,
+    "shape": {
+      "leng": 575566.56,
+      "area": 2262971904
+    },
+    "_id": 12,
+    "total_population_(n)": 2285320,
+    "rural_population_(%)": 78.55,
+    "working-age_population_(n)": 1223600,
+    "number_of_households_(n)": 416060,
+    "poverty": {
+      "total": 747299.69,
+      "percent": 32.7,
+      "ratio": 370221.84
+    },
+    "national_avg_(%)": "0.984375",
+    "rank": 11.84,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.40625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 48480,
+        "percent": 8.23,
+        "total": 251720
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.140625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 59760,
+        "percent": 14.36,
+        "total": 157360
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.484375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 714880,
+      "percent": 62.28,
+      "total": 311080
+    },
+    "households_with_non-flush": 1.99,
+    "latrine": {
+      "n": "0.875",
+      "percent": 8.63,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 486440,
+      "percent": 60.67,
+      "total": 304960
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.9375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 42680,
+        "percent": 42.48,
+        "total": 21180
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.96875",
+        "total": 40
+      },
+      "university": {
+        "n": 113987.08,
+        "percent": 37.11,
+        "total": 28903.76
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 85605.49,
+        "percent": 27.87,
+        "total": 10200
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.015625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.46875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 447040,
+        "percent": 19.56,
+        "total": 540740
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 73940,
+      "percent": 3.24,
+      "total": 49280
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.796875"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "FENI",
+    "disgeocode": 2030,
+    "shape": {
+      "leng": 270483.03,
+      "area": 932124992
+    },
+    "_id": 13,
+    "total_population_(n)": 1441600,
+    "rural_population_(%)": 79.82,
+    "working-age_population_(n)": 853820,
+    "number_of_households_(n)": 277620,
+    "poverty": {
+      "total": 373374.41,
+      "percent": 25.9,
+      "ratio": 210473.59
+    },
+    "national_avg_(%)": "0.265625",
+    "rank": 1.8,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.34375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 40460,
+        "percent": 12.3,
+        "total": 188200
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.046875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 23580,
+        "percent": 8.49,
+        "total": 183080
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "1",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 324380,
+      "percent": 38.76,
+      "total": 343780
+    },
+    "households_with_non-flush": 3.15,
+    "latrine": {
+      "n": "0.109375",
+      "percent": 17.01,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 329680,
+      "percent": 73.31,
+      "total": 179460
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.046875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 40200,
+        "percent": 61.69,
+        "total": 24760
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.53125",
+        "total": 40
+      },
+      "university": {
+        "n": 51190.92,
+        "percent": 34.1,
+        "total": 12294.83
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 35263.19,
+        "percent": 23.49,
+        "total": 15300
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.4375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.234375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 221580,
+        "percent": 15.37,
+        "total": 287260
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 78940,
+      "percent": 5.48,
+      "total": 5000
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.109375"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "KHAGRACHHARI",
+    "disgeocode": 2046,
+    "shape": {
+      "leng": 397671.38,
+      "area": 2856084736
+    },
+    "_id": 14,
+    "total_population_(n)": 613080,
+    "rural_population_(%)": 65.03,
+    "working-age_population_(n)": 351740,
+    "number_of_households_(n)": 133780,
+    "poverty": {
+      "total": 156335.39,
+      "percent": 25.5,
+      "ratio": 61921.08
+    },
+    "national_avg_(%)": "0.8125",
+    "rank": 8.93,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.21875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 5200,
+        "percent": 2.85,
+        "total": 55160
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.453125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 12340,
+        "percent": 9.22,
+        "total": 38900
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.265625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 204040,
+      "percent": 59.27,
+      "total": 101700
+    },
+    "households_with_non-flush": 1.87,
+    "latrine": {
+      "n": "0.6875",
+      "percent": 9.32,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 135480,
+      "percent": 70.84,
+      "total": 83140
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 13140,
+        "percent": 56.69,
+        "total": 6560
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.765625",
+        "total": 40
+      },
+      "university": {
+        "n": 26433.29,
+        "percent": 37.59,
+        "total": 6736.66
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 18768.41,
+        "percent": 26.69,
+        "total": 980
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.1875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 104260,
+        "percent": 17.01,
+        "total": 129940
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 27140,
+      "percent": 4.43,
+      "total": 11940
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.65625"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "LAKSHMIPUR",
+    "disgeocode": 2051,
+    "shape": {
+      "leng": 289637.31,
+      "area": 1557567232
+    },
+    "_id": 15,
+    "total_population_(n)": 1726780,
+    "rural_population_(%)": 85.05,
+    "working-age_population_(n)": 958080,
+    "number_of_households_(n)": 365360,
+    "poverty": {
+      "total": 538755.38,
+      "percent": 31.2,
+      "ratio": 312547.16
+    },
+    "national_avg_(%)": "0.46875",
+    "rank": 4.19,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.515625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 34560,
+        "percent": 8.9,
+        "total": 142560
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.296875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 61740,
+        "percent": 16.9,
+        "total": 209960
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.953125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 498960,
+      "percent": 52.86,
+      "total": 328500
+    },
+    "households_with_non-flush": 1.96,
+    "latrine": {
+      "n": "0.34375",
+      "percent": 10.38,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 374720,
+      "percent": 66.16,
+      "total": 220040
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.84375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 38620,
+        "percent": 52.19,
+        "total": 20620
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.84375",
+        "total": 40
+      },
+      "university": {
+        "n": 81328.13,
+        "percent": 39.68,
+        "total": 21008.4
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 50358.67,
+        "percent": 24.57,
+        "total": 12760
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.296875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 308220,
+        "percent": 17.85,
+        "total": 371980
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 88500,
+      "percent": 5.13,
+      "total": 15320
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.421875"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "NOAKHALI",
+    "disgeocode": 2075,
+    "shape": {
+      "leng": 538777.06,
+      "area": 3147693312
+    },
+    "_id": 16,
+    "total_population_(n)": 3109820,
+    "rural_population_(%)": 84.15,
+    "working-age_population_(n)": 1697700,
+    "number_of_households_(n)": 593920,
+    "poverty": {
+      "total": 298542.72,
+      "percent": 9.6,
+      "ratio": 105733.88
+    },
+    "national_avg_(%)": "0.65625",
+    "rank": 5.47,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.03125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 55940,
+        "percent": 8.55,
+        "total": 298940
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.09375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 119540,
+        "percent": 20.13,
+        "total": 304040
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.84375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 789280,
+      "percent": 47.58,
+      "total": 634060
+    },
+    "households_with_non-flush": 2.16,
+    "latrine": {
+      "n": "0.1875",
+      "percent": 12.04,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 710420,
+      "percent": 67.87,
+      "total": 410220
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.8125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 74620,
+        "percent": 54.9,
+        "total": 41560
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.734375",
+        "total": 40
+      },
+      "university": {
+        "n": 150799.2,
+        "percent": 39.13,
+        "total": 39193.14
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 97963.6,
+        "percent": 25.42,
+        "total": 17000
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.0625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.4375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 574860,
+        "percent": 18.49,
+        "total": 686940
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 150320,
+      "percent": 4.83,
+      "total": 32480
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.484375"
+    }
+  },
+  {
+    "division_name": "CHITTAGONG",
+    "zila_name": "RANGAMATI",
+    "disgeocode": 2084,
+    "shape": {
+      "leng": 742573.56,
+      "area": 5766179840
+    },
+    "_id": 17,
+    "total_population_(n)": 602740,
+    "rural_population_(%)": 73.82,
+    "working-age_population_(n)": 366320,
+    "number_of_households_(n)": 128500,
+    "poverty": {
+      "total": 122356.22,
+      "percent": 20.3,
+      "ratio": 40986.32
+    },
+    "national_avg_(%)": "0.921875",
+    "rank": 8.5,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.109375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 13220,
+        "percent": 6.83,
+        "total": 52340
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.734375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 12900,
+        "percent": 10.04,
+        "total": 35060
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.203125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 196340,
+      "percent": 57.01,
+      "total": 99860
+    },
+    "households_with_non-flush": 2.47,
+    "latrine": {
+      "n": "0.765625",
+      "percent": 11.53,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 121600,
+      "percent": 68.46,
+      "total": 73140
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.65625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 12240,
+        "percent": 53.97,
+        "total": 6900
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.6875",
+        "total": 40
+      },
+      "university": {
+        "n": 20965.59,
+        "percent": 32.81,
+        "total": 4996.98
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 16064.46,
+        "percent": 25.14,
+        "total": 9840
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.515625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.140625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 97120,
+        "percent": 16.11,
+        "total": 116620
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 22680,
+      "percent": 3.76,
+      "total": 10920
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.625"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "DHAKA",
+    "disgeocode": 3026,
+    "shape": {
+      "leng": 339001.5,
+      "area": 1474930432
+    },
+    "_id": 18,
+    "total_population_(n)": 12095360,
+    "rural_population_(%)": 22.85,
+    "working-age_population_(n)": 8514660,
+    "number_of_households_(n)": 2785220,
+    "poverty": {
+      "total": 1898971.63,
+      "percent": 15.7,
+      "ratio": 592672.63
+    },
+    "national_avg_(%)": "1",
+    "rank": 0.42,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.0625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 1489460,
+        "percent": 29.58,
+        "total": 3335080
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.015625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 1446440,
+        "percent": 51.93,
+        "total": 1159160
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 2300940,
+      "percent": 28.8,
+      "total": 2782300
+    },
+    "households_with_non-flush": 13.07,
+    "latrine": {
+      "n": "0.328125",
+      "percent": 23.32,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 1865920,
+      "percent": 62.83,
+      "total": 1032200
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.609375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 202420,
+        "percent": 48.29,
+        "total": 181640
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.71875",
+        "total": 40
+      },
+      "university": {
+        "n": 227558.55,
+        "percent": 22.78,
+        "total": 42355.05
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 179209.84,
+        "percent": 17.94,
+        "total": 1868800
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "1",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.015625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 1454620,
+        "percent": 12.03,
+        "total": 1800840
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 325240,
+      "percent": 2.69,
+      "total": 11720
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.015625"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "FARIDPUR",
+    "disgeocode": 3029,
+    "shape": {
+      "leng": 355360.03,
+      "area": 2042080768
+    },
+    "_id": 19,
+    "total_population_(n)": 1912760,
+    "rural_population_(%)": 85.9,
+    "working-age_population_(n)": 1125900,
+    "number_of_households_(n)": 420320,
+    "poverty": {
+      "total": 694331.88,
+      "percent": 36.3,
+      "ratio": 378726.47
+    },
+    "national_avg_(%)": "0.3125",
+    "rank": 2.41,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.59375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 52540,
+        "percent": 10.1,
+        "total": 163400
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.359375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 138400,
+        "percent": 32.93,
+        "total": 197840
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.75",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 616360,
+      "percent": 54.53,
+      "total": 371080
+    },
+    "households_with_non-flush": 2.63,
+    "latrine": {
+      "n": "0.515625",
+      "percent": 10.02,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 411400,
+      "percent": 71.86,
+      "total": 237100
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.46875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 42620,
+        "percent": 59.86,
+        "total": 24740
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.515625",
+        "total": 40
+      },
+      "university": {
+        "n": 69126.91,
+        "percent": 34.56,
+        "total": 15981.6
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 45844.59,
+        "percent": 22.92,
+        "total": 12520
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.390625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.40625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 298160,
+        "percent": 15.59,
+        "total": 385100
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 103600,
+      "percent": 5.42,
+      "total": 10120
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.21875"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "GAZIPUR",
+    "disgeocode": 3033,
+    "shape": {
+      "leng": 261155.73,
+      "area": 1815784704
+    },
+    "_id": 20,
+    "total_population_(n)": 3408280,
+    "rural_population_(%)": 69.52,
+    "working-age_population_(n)": 2335380,
+    "number_of_households_(n)": 826460,
+    "poverty": {
+      "total": 661206.38,
+      "percent": 19.4,
+      "ratio": 279478.97
+    },
+    "national_avg_(%)": "0.953125",
+    "rank": 2.05,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.171875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 775460,
+        "percent": 53.18,
+        "total": 448800
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.390625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 247160,
+        "percent": 29.91,
+        "total": 428160
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.859375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 804700,
+      "percent": 35.43,
+      "total": 983720
+    },
+    "households_with_non-flush": 3.76,
+    "latrine": {
+      "n": "0.046875",
+      "percent": 17.5,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 547620,
+      "percent": 64.72,
+      "total": 321500
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.546875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 55260,
+        "percent": 52.16,
+        "total": 36100
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.9375",
+        "total": 40
+      },
+      "university": {
+        "n": 79976.77,
+        "percent": 26.99,
+        "total": 16238.34
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 63442.11,
+        "percent": 21.41,
+        "total": 309180
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.984375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.03125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 434400,
+        "percent": 12.75,
+        "total": 527960
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 110540,
+      "percent": 3.24,
+      "total": 16920
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.15625"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "GOPALGANJ",
+    "disgeocode": 3035,
+    "shape": {
+      "leng": 288302.47,
+      "area": 1474752000
+    },
+    "_id": 21,
+    "total_population_(n)": 1171660,
+    "rural_population_(%)": 89.2,
+    "working-age_population_(n)": 671160,
+    "number_of_households_(n)": 249920,
+    "poverty": {
+      "total": 500298.78,
+      "percent": 42.7,
+      "ratio": 314004.88
+    },
+    "national_avg_(%)": "0.296875",
+    "rank": 2.24,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.828125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 17440,
+        "percent": 5.72,
+        "total": 88040
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.59375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 109780,
+        "percent": 43.93,
+        "total": 103580
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.609375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 312740,
+      "percent": 46.37,
+      "total": 269860
+    },
+    "households_with_non-flush": 2.59,
+    "latrine": {
+      "n": "0.140625",
+      "percent": 11.02,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 270640,
+      "percent": 73.52,
+      "total": 155340
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.390625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 27700,
+        "percent": 62.08,
+        "total": 16320
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.421875",
+        "total": 40
+      },
+      "university": {
+        "n": 39984.14,
+        "percent": 32.09,
+        "total": 8871.52
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 25680.06,
+        "percent": 20.61,
+        "total": 14960
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.171875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.203125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 188100,
+        "percent": 16.05,
+        "total": 248340
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 64060,
+      "percent": 5.47,
+      "total": 5600
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.1875"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "JAMALPUR",
+    "disgeocode": 3039,
+    "shape": {
+      "leng": 377783.06,
+      "area": 2064043392
+    },
+    "_id": 22,
+    "total_population_(n)": 2292300,
+    "rural_population_(%)": 83.21,
+    "working-age_population_(n)": 1338520,
+    "number_of_households_(n)": 563380,
+    "poverty": {
+      "total": 1171365.25,
+      "percent": 51.1,
+      "ratio": 783966.63
+    },
+    "national_avg_(%)": "0.578125",
+    "rank": 9.29,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.953125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 39040,
+        "percent": 6.18,
+        "total": 153720
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 83460,
+        "percent": 14.81,
+        "total": 208580
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.453125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 915600,
+      "percent": 67.35,
+      "total": 289000
+    },
+    "households_with_non-flush": 2.26,
+    "latrine": {
+      "n": "0.984375",
+      "percent": 9.13,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 473300,
+      "percent": 72.03,
+      "total": 281560
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.796875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 45000,
+        "percent": 63.08,
+        "total": 27700
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.296875",
+        "total": 40
+      },
+      "university": {
+        "n": 98383.21,
+        "percent": 39.01,
+        "total": 24488.62
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 63831.82,
+        "percent": 25.31,
+        "total": 4240
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.40625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.859375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 380680,
+        "percent": 16.61,
+        "total": 458700
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 114400,
+      "percent": 4.99,
+      "total": 52340
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.671875"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "KISHOREGANJ",
+    "disgeocode": 3048,
+    "shape": {
+      "leng": 360726.38,
+      "area": 2563462656
+    },
+    "_id": 23,
+    "total_population_(n)": 2907500,
+    "rural_population_(%)": 83.48,
+    "working-age_population_(n)": 1578100,
+    "number_of_households_(n)": 627260,
+    "poverty": {
+      "total": 880972.5,
+      "percent": 30.3,
+      "ratio": 476830
+    },
+    "national_avg_(%)": "0.4375",
+    "rank": 10.38,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.421875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 68200,
+        "percent": 9.1,
+        "total": 229420
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.4375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 81860,
+        "percent": 13.05,
+        "total": 200980
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.359375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 985820,
+      "percent": 62.05,
+      "total": 447100
+    },
+    "households_with_non-flush": 1.75,
+    "latrine": {
+      "n": "0.828125",
+      "percent": 8.05,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 626160,
+      "percent": 68.37,
+      "total": 399220
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.75",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 53480,
+        "percent": 52.63,
+        "total": 29580
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.78125",
+        "total": 40
+      },
+      "university": {
+        "n": 139287.89,
+        "percent": 37.68,
+        "total": 34045.69
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 96296.42,
+        "percent": 26.05,
+        "total": 7440
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.09375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.71875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 544540,
+        "percent": 18.73,
+        "total": 634740
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 150120,
+      "percent": 5.16,
+      "total": 65080
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.765625"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "MADARIPUR",
+    "disgeocode": 3054,
+    "shape": {
+      "leng": 268226.84,
+      "area": 1134375808
+    },
+    "_id": 24,
+    "total_population_(n)": 1165560,
+    "rural_population_(%)": 86.57,
+    "working-age_population_(n)": 670900,
+    "number_of_households_(n)": 252180,
+    "poverty": {
+      "total": 406780.44,
+      "percent": 34.9,
+      "ratio": 202807.44
+    },
+    "national_avg_(%)": "0.234375",
+    "rank": 1.41,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.484375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 33840,
+        "percent": 10.65,
+        "total": 95360
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.484375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 31980,
+        "percent": 12.68,
+        "total": 144980
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.96875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 377300,
+      "percent": 56.02,
+      "total": 219860
+    },
+    "households_with_non-flush": 2.12,
+    "latrine": {
+      "n": "0.53125",
+      "percent": 9.21,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 259840,
+      "percent": 70.95,
+      "total": 151120
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.578125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 27100,
+        "percent": 58.84,
+        "total": 14840
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.5625",
+        "total": 40
+      },
+      "university": {
+        "n": 41171.8,
+        "percent": 34.75,
+        "total": 9573.18
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 27783.56,
+        "percent": 23.45,
+        "total": 2540
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.203125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.796875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 184060,
+        "percent": 15.79,
+        "total": 246300
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 64300,
+      "percent": 5.52,
+      "total": 3560
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.0625"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "MANIKGANJ",
+    "disgeocode": 3056,
+    "shape": {
+      "leng": 263315.78,
+      "area": 1373184384
+    },
+    "_id": 25,
+    "total_population_(n)": 1397120,
+    "rural_population_(%)": 90.74,
+    "working-age_population_(n)": 866140,
+    "number_of_households_(n)": 324820,
+    "poverty": {
+      "total": 258467.2,
+      "percent": 18.5,
+      "ratio": 111769.59
+    },
+    "national_avg_(%)": "0.0625",
+    "rank": 2.09,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.15625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 37960,
+        "percent": 9.78,
+        "total": 116120
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.515625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 63460,
+        "percent": 19.54,
+        "total": 171860
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 495260,
+      "percent": 56.12,
+      "total": 280900
+    },
+    "households_with_non-flush": 2.1,
+    "latrine": {
+      "n": "0.59375",
+      "percent": 9.96,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 275000,
+      "percent": 75.01,
+      "total": 158300
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.3125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 29480,
+        "percent": 66.04,
+        "total": 17140
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.453125",
+        "total": 40
+      },
+      "university": {
+        "n": 46175.71,
+        "percent": 35.04,
+        "total": 10832.32
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 30665.21,
+        "percent": 23.27,
+        "total": 11040
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.78125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.3125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 197200,
+        "percent": 14.11,
+        "total": 246740
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 87040,
+      "percent": 6.23,
+      "total": 6780
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.171875"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "MUNSHIGANJ",
+    "disgeocode": 3059,
+    "shape": {
+      "leng": 186949.95,
+      "area": 931978816
+    },
+    "_id": 26,
+    "total_population_(n)": 1440380,
+    "rural_population_(%)": 87.19,
+    "working-age_population_(n)": 888340,
+    "number_of_households_(n)": 313580,
+    "poverty": {
+      "total": 413389.06,
+      "percent": 28.7,
+      "ratio": 224699.28
+    },
+    "national_avg_(%)": "0.28125",
+    "rank": 1.73,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.390625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 76580,
+        "percent": 18.27,
+        "total": 170340
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.1875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 73220,
+        "percent": 23.35,
+        "total": 182140
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.984375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 431860,
+      "percent": 48.97,
+      "total": 338720
+    },
+    "households_with_non-flush": 1.77,
+    "latrine": {
+      "n": "0.171875",
+      "percent": 10.85,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 292380,
+      "percent": 70.97,
+      "total": 164760
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.21875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 32940,
+        "percent": 58.91,
+        "total": 18520
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.75",
+        "total": 40
+      },
+      "university": {
+        "n": 42800.94,
+        "percent": 30.42,
+        "total": 9201.78
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 31432.38,
+        "percent": 22.34,
+        "total": 9620
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.6875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 206000,
+        "percent": 14.3,
+        "total": 267240
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 78800,
+      "percent": 5.47,
+      "total": 5440
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.09375"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "MYMENSINGH",
+    "disgeocode": 3061,
+    "shape": {
+      "leng": 549315.63,
+      "area": 4345228288
+    },
+    "_id": 27,
+    "total_population_(n)": 5118180,
+    "rural_population_(%)": 84.46,
+    "working-age_population_(n)": 2871960,
+    "number_of_households_(n)": 1155380,
+    "poverty": {
+      "total": 2584681,
+      "percent": 50.5,
+      "ratio": 1653172.25
+    },
+    "national_avg_(%)": "0.328125",
+    "rank": 13.76,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.9375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 156760,
+        "percent": 11.25,
+        "total": 420480
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.46875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 147840,
+        "percent": 12.8,
+        "total": 358320
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.296875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 1692780,
+      "percent": 58.11,
+      "total": 846860
+    },
+    "households_with_non-flush": 2.6,
+    "latrine": {
+      "n": "0.75",
+      "percent": 10.22,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 1066040,
+      "percent": 69.21,
+      "total": 658160
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.78125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 96460,
+        "percent": 57.15,
+        "total": 59040
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.578125",
+        "total": 40
+      },
+      "university": {
+        "n": 226629.33,
+        "percent": 37.06,
+        "total": 54731.04
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 158505.98,
+        "percent": 25.92,
+        "total": 33100
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.265625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.421875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 906320,
+        "percent": 17.71,
+        "total": 1062860
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 277040,
+      "percent": 5.41,
+      "total": 159000
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.84375"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "NARAYANGANJ",
+    "disgeocode": 3067,
+    "shape": {
+      "leng": 185247.97,
+      "area": 703045184
+    },
+    "_id": 28,
+    "total_population_(n)": 2963760,
+    "rural_population_(%)": 66.4,
+    "working-age_population_(n)": 1930540,
+    "number_of_households_(n)": 675720,
+    "poverty": {
+      "total": 773541.38,
+      "percent": 26.1,
+      "ratio": 308231.03
+    },
+    "national_avg_(%)": "0.9375",
+    "rank": 1.81,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.234375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 470060,
+        "percent": 42.1,
+        "total": 539460
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.0625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 162940,
+        "percent": 24.11,
+        "total": 363900
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.90625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 790560,
+      "percent": 42.65,
+      "total": 724060
+    },
+    "households_with_non-flush": 3.52,
+    "latrine": {
+      "n": "0.15625",
+      "percent": 14.77,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 511060,
+      "percent": 62.22,
+      "total": 303140
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.703125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 51160,
+        "percent": 45.71,
+        "total": 33500
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.921875",
+        "total": 40
+      },
+      "university": {
+        "n": 79785.09,
+        "percent": 27.79,
+        "total": 16479.54
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 67152.69,
+        "percent": 23.39,
+        "total": 122180
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.84375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.0625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 418140,
+        "percent": 14.11,
+        "total": 518800
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 96280,
+      "percent": 3.25,
+      "total": 12220
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.125"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "NARSINGDI",
+    "disgeocode": 3068,
+    "shape": {
+      "leng": 226183.94,
+      "area": 1167035904
+    },
+    "_id": 29,
+    "total_population_(n)": 2227520,
+    "rural_population_(%)": 79.93,
+    "working-age_population_(n)": 1292180,
+    "number_of_households_(n)": 477860,
+    "poverty": {
+      "total": 527922.25,
+      "percent": 23.7,
+      "ratio": 269529.91
+    },
+    "national_avg_(%)": "0.796875",
+    "rank": 8.53,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.28125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 141840,
+        "percent": 23,
+        "total": 254780
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.171875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 95380,
+        "percent": 19.96,
+        "total": 196960
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.5625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 655920,
+      "percent": 51.69,
+      "total": 438900
+    },
+    "households_with_non-flush": 2.37,
+    "latrine": {
+      "n": "0.359375",
+      "percent": 11.34,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 471400,
+      "percent": 68.95,
+      "total": 278180
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.71875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 47540,
+        "percent": 55.93,
+        "total": 27300
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.671875",
+        "total": 40
+      },
+      "university": {
+        "n": 84699,
+        "percent": 33.75,
+        "total": 19549.78
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 63342.31,
+        "percent": 25.24,
+        "total": 15320
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.328125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.328125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 376660,
+        "percent": 16.91,
+        "total": 458600
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 100080,
+      "percent": 4.49,
+      "total": 40760
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.640625"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "NETRAKONA",
+    "disgeocode": 3072,
+    "shape": {
+      "leng": 469322.69,
+      "area": 2802644480
+    },
+    "_id": 30,
+    "total_population_(n)": 2226800,
+    "rural_population_(%)": 88.79,
+    "working-age_population_(n)": 1211940,
+    "number_of_households_(n)": 479260,
+    "poverty": {
+      "total": 786060.38,
+      "percent": 35.3,
+      "ratio": 434225.97
+    },
+    "national_avg_(%)": "0.25",
+    "rank": 14.37,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.5625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 29900,
+        "percent": 4.92,
+        "total": 122400
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "1",
+        "total": 56.45
+      },
+      "services": {
+        "n": 46340,
+        "percent": 9.67,
+        "total": 139240
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.25",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 794240,
+      "percent": 64.24,
+      "total": 323800
+    },
+    "households_with_non-flush": 1.92,
+    "latrine": {
+      "n": "0.890625",
+      "percent": 7.65,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 438340,
+      "percent": 64.31,
+      "total": 278640
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.96875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 37060,
+        "percent": 49.64,
+        "total": 20380
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.796875",
+        "total": 40
+      },
+      "university": {
+        "n": 110562.66,
+        "percent": 39.14,
+        "total": 27541.8
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 72399.63,
+        "percent": 25.63,
+        "total": 3360
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.21875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.890625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 422400,
+        "percent": 18.97,
+        "total": 469860
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 122600,
+      "percent": 5.51,
+      "total": 68880
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.875"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "RAJBARI",
+    "disgeocode": 3082,
+    "shape": {
+      "leng": 217190.67,
+      "area": 1138386560
+    },
+    "_id": 31,
+    "total_population_(n)": 1049440,
+    "rural_population_(%)": 86.91,
+    "working-age_population_(n)": 635120,
+    "number_of_households_(n)": 238160,
+    "poverty": {
+      "total": 439715.41,
+      "percent": 41.9,
+      "ratio": 269706.09
+    },
+    "national_avg_(%)": "0.140625",
+    "rank": 3.09,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.78125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 22840,
+        "percent": 7.63,
+        "total": 93300
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 94320,
+        "percent": 39.6,
+        "total": 92520
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.53125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 365480,
+      "percent": 56.66,
+      "total": 199660
+    },
+    "households_with_non-flush": 2.41,
+    "latrine": {
+      "n": "0.609375",
+      "percent": 9.98,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 227000,
+      "percent": 75.99,
+      "total": 124500
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.296875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 27340,
+        "percent": 70.36,
+        "total": 15140
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.21875",
+        "total": 40
+      },
+      "university": {
+        "n": 35043.37,
+        "percent": 33.78,
+        "total": 7967.23
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 23652.72,
+        "percent": 22.8,
+        "total": 2060
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.65625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.8125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 154520,
+        "percent": 14.72,
+        "total": 197940
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 61860,
+      "percent": 5.89,
+      "total": 7360
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.3125"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "SHARIATPUR",
+    "disgeocode": 3086,
+    "shape": {
+      "leng": 196541.84,
+      "area": 1250900480
+    },
+    "_id": 32,
+    "total_population_(n)": 1157120,
+    "rural_population_(%)": 88.62,
+    "working-age_population_(n)": 640720,
+    "number_of_households_(n)": 247960,
+    "poverty": {
+      "total": 608645.13,
+      "percent": 52.6,
+      "ratio": 398049.28
+    },
+    "national_avg_(%)": "0.078125",
+    "rank": 2.29,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.96875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 28140,
+        "percent": 9.3,
+        "total": 88840
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.5625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 71180,
+        "percent": 28.71,
+        "total": 131940
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.890625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 381840,
+      "percent": 58.93,
+      "total": 209180
+    },
+    "households_with_non-flush": 1.48,
+    "latrine": {
+      "n": "0.546875",
+      "percent": 7.3,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 261980,
+      "percent": 69.55,
+      "total": 155820
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.515625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 24740,
+        "percent": 51.24,
+        "total": 12160
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.875",
+        "total": 40
+      },
+      "university": {
+        "n": 46938.36,
+        "percent": 36.33,
+        "total": 11201.64
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 30336.16,
+        "percent": 23.48,
+        "total": 1720
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.078125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.921875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 192740,
+        "percent": 16.66,
+        "total": 253840
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 69820,
+      "percent": 6.03,
+      "total": 5680
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.203125"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "SHERPUR",
+    "disgeocode": 3089,
+    "shape": {
+      "leng": 197565.61,
+      "area": 1324981248
+    },
+    "_id": 33,
+    "total_population_(n)": 1360800,
+    "rural_population_(%)": 86.22,
+    "working-age_population_(n)": 779140,
+    "number_of_households_(n)": 341420,
+    "poverty": {
+      "total": 658627.25,
+      "percent": 48.4,
+      "ratio": 405518.41
+    },
+    "national_avg_(%)": "0.53125",
+    "rank": 9.91,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.859375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 26740,
+        "percent": 7.12,
+        "total": 87520
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.921875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 39500,
+        "percent": 11.57,
+        "total": 129600
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.5",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 529320,
+      "percent": 66.88,
+      "total": 181720
+    },
+    "households_with_non-flush": 1.81,
+    "latrine": {
+      "n": "0.96875",
+      "percent": 8.34,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 278260,
+      "percent": 69.47,
+      "total": 169460
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.890625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 24800,
+        "percent": 57.92,
+        "total": 13580
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.65625",
+        "total": 40
+      },
+      "university": {
+        "n": 58923.39,
+        "percent": 38.02,
+        "total": 14351.15
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 39085.96,
+        "percent": 25.22,
+        "total": 2060
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.28125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.96875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 230120,
+        "percent": 16.91,
+        "total": 282340
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 69200,
+      "percent": 5.09,
+      "total": 33840
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.734375"
+    }
+  },
+  {
+    "division_name": "DHAKA",
+    "zila_name": "TANGAIL",
+    "disgeocode": 3093,
+    "shape": {
+      "leng": 387813.16,
+      "area": 3363695104
+    },
+    "_id": 34,
+    "total_population_(n)": 3609880,
+    "rural_population_(%)": 85.16,
+    "working-age_population_(n)": 2222640,
+    "number_of_households_(n)": 870000,
+    "poverty": {
+      "total": 1072134.38,
+      "percent": 29.7,
+      "ratio": 649778.44
+    },
+    "national_avg_(%)": "0.109375",
+    "rank": 6.05,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.5",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 116820,
+        "percent": 11.63,
+        "total": 328420
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.328125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 176660,
+        "percent": 20.31,
+        "total": 374080
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.6875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 1294300,
+      "percent": 57.24,
+      "total": 658720
+    },
+    "households_with_non-flush": 2.61,
+    "latrine": {
+      "n": "0.71875",
+      "percent": 11.01,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 715000,
+      "percent": 73.48,
+      "total": 408520
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.4375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 74660,
+        "percent": 65.03,
+        "total": 46740
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.375",
+        "total": 40
+      },
+      "university": {
+        "n": 121279.53,
+        "percent": 35.18,
+        "total": 28441.05
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 83737.35,
+        "percent": 24.29,
+        "total": 20940
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.734375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.484375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 520400,
+        "percent": 14.42,
+        "total": 653700
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 213140,
+      "percent": 5.9,
+      "total": 52620
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.546875"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "BAGERHAT",
+    "disgeocode": 4001,
+    "shape": {
+      "leng": 451041.25,
+      "area": 3948955136
+    },
+    "_id": 35,
+    "total_population_(n)": 1474740,
+    "rural_population_(%)": 86.93,
+    "working-age_population_(n)": 905260,
+    "number_of_households_(n)": 354300,
+    "poverty": {
+      "total": 631188.75,
+      "percent": 42.8,
+      "ratio": 353937.59
+    },
+    "national_avg_(%)": "0.046875",
+    "rank": 1.93,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.765625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 21820,
+        "percent": 5.24,
+        "total": 160160
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.234375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 124740,
+        "percent": 35.21,
+        "total": 151620
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.65625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 396320,
+      "percent": 42.82,
+      "total": 383240
+    },
+    "households_with_non-flush": 3.02,
+    "latrine": {
+      "n": "0.078125",
+      "percent": 12.76,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 310200,
+      "percent": 75.75,
+      "total": 170460
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.15625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 34520,
+        "percent": 67.32,
+        "total": 19800
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.40625",
+        "total": 40
+      },
+      "university": {
+        "n": 41698.48,
+        "percent": 31.39,
+        "total": 9086.26
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 29012.26,
+        "percent": 21.84,
+        "total": 22420
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.671875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.15625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 198160,
+        "percent": 13.44,
+        "total": 276000
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 95320,
+      "percent": 6.46,
+      "total": 6840
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.140625"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "CHUADANGA",
+    "disgeocode": 4018,
+    "shape": {
+      "leng": 248278.88,
+      "area": 1164569472
+    },
+    "_id": 36,
+    "total_population_(n)": 1130640,
+    "rural_population_(%)": 73.01,
+    "working-age_population_(n)": 728460,
+    "number_of_households_(n)": 277440,
+    "poverty": {
+      "total": 313187.28,
+      "percent": 27.7,
+      "ratio": 122109.13
+    },
+    "national_avg_(%)": "0.546875",
+    "rank": 6.65,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.25",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 21860,
+        "percent": 6.15,
+        "total": 98920
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.6875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 53980,
+        "percent": 19.46,
+        "total": 73240
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.1875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 400480,
+      "percent": 54.96,
+      "total": 249820
+    },
+    "households_with_non-flush": 1.84,
+    "latrine": {
+      "n": "0.390625",
+      "percent": 8.91,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 214320,
+      "percent": 70.73,
+      "total": 116940
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 25100,
+        "percent": 62.66,
+        "total": 13860
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.625",
+        "total": 40
+      },
+      "university": {
+        "n": 33951.93,
+        "percent": 34.15,
+        "total": 7804.47
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 23562.54,
+        "percent": 23.7,
+        "total": 8520
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.828125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.359375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 147140,
+        "percent": 13.01,
+        "total": 198160
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 56880,
+      "percent": 5.03,
+      "total": 18440
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.578125"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "JESSORE",
+    "disgeocode": 4041,
+    "shape": {
+      "leng": 462841.38,
+      "area": 2583337472
+    },
+    "_id": 37,
+    "total_population_(n)": 2777420,
+    "rural_population_(%)": 81.72,
+    "working-age_population_(n)": 1778180,
+    "number_of_households_(n)": 656360,
+    "poverty": {
+      "total": 1083193.75,
+      "percent": 39,
+      "ratio": 511045.28
+    },
+    "national_avg_(%)": "0.390625",
+    "rank": 4.46,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.53125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 85220,
+        "percent": 10.27,
+        "total": 293500
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.3125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 189800,
+        "percent": 28.92,
+        "total": 208900
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.34375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 825980,
+      "percent": 46.54,
+      "total": 647820
+    },
+    "households_with_non-flush": 3.54,
+    "latrine": {
+      "n": "0.25",
+      "percent": 13.42,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 573120,
+      "percent": 76.86,
+      "total": 307140
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.0625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 70860,
+        "percent": 70.13,
+        "total": 46460
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.078125",
+        "total": 40
+      },
+      "university": {
+        "n": 74724.47,
+        "percent": 30.46,
+        "total": 16043.93
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 54510.1,
+        "percent": 22.22,
+        "total": 7720
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.765625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.734375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 363920,
+        "percent": 13.1,
+        "total": 491500
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 143820,
+      "percent": 5.18,
+      "total": 29280
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.453125"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "JHENAIDAH",
+    "disgeocode": 4044,
+    "shape": {
+      "leng": 389200.03,
+      "area": 1954972160
+    },
+    "_id": 38,
+    "total_population_(n)": 1768540,
+    "rural_population_(%)": 84.3,
+    "working-age_population_(n)": 1121320,
+    "number_of_households_(n)": 422360,
+    "poverty": {
+      "total": 436829.38,
+      "percent": 24.7,
+      "ratio": 176854
+    },
+    "national_avg_(%)": "0.34375",
+    "rank": 5.72,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.203125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 39300,
+        "percent": 7.37,
+        "total": 138600
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.796875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 101460,
+        "percent": 24.02,
+        "total": 139620
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 613120,
+      "percent": 54.26,
+      "total": 374420
+    },
+    "households_with_non-flush": 2.53,
+    "latrine": {
+      "n": "0.46875",
+      "percent": 10.08,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 359640,
+      "percent": 75.65,
+      "total": 196900
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.265625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 41580,
+        "percent": 67.92,
+        "total": 25980
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.09375",
+        "total": 40
+      },
+      "university": {
+        "n": 52741.65,
+        "percent": 33.15,
+        "total": 11868.86
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 35988.42,
+        "percent": 22.62,
+        "total": 10400
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.75",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.453125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 237740,
+        "percent": 13.44,
+        "total": 314700
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 94780,
+      "percent": 5.36,
+      "total": 24140
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.515625"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "KHULNA",
+    "disgeocode": 4047,
+    "shape": {
+      "leng": 520366.69,
+      "area": 4204035840
+    },
+    "_id": 39,
+    "total_population_(n)": 2311400,
+    "rural_population_(%)": 66.76,
+    "working-age_population_(n)": 1497100,
+    "number_of_households_(n)": 547280,
+    "poverty": {
+      "total": 896823.31,
+      "percent": 38.8,
+      "ratio": 490016.78
+    },
+    "national_avg_(%)": "0.359375",
+    "rank": 3.76,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.6875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 101980,
+        "percent": 14.56,
+        "total": 319040
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.109375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 228040,
+        "percent": 41.67,
+        "total": 198580
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.4375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 615080,
+      "percent": 41.1,
+      "total": 549780
+    },
+    "households_with_non-flush": 5.37,
+    "latrine": {
+      "n": "0.234375",
+      "percent": 16.8,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 463000,
+      "percent": 75.63,
+      "total": 248900
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.109375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 52340,
+        "percent": 67.64,
+        "total": 40840
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.0625",
+        "total": 40
+      },
+      "university": {
+        "n": 57630.75,
+        "percent": 29.08,
+        "total": 12188.07
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 42370.88,
+        "percent": 21.38,
+        "total": 11100
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.578125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 292120,
+        "percent": 12.64,
+        "total": 399520
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 122660,
+      "percent": 5.31,
+      "total": 20560
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.390625"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "KUSHTIA",
+    "disgeocode": 4050,
+    "shape": {
+      "leng": 330131.19,
+      "area": 1613841920
+    },
+    "_id": 40,
+    "total_population_(n)": 1939680,
+    "rural_population_(%)": 88.02,
+    "working-age_population_(n)": 1234980,
+    "number_of_households_(n)": 477300,
+    "poverty": {
+      "total": 69828.48,
+      "percent": 3.6,
+      "ratio": 15517.44
+    },
+    "national_avg_(%)": "0.40625",
+    "rank": 4.44,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.015625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 60460,
+        "percent": 10.3,
+        "total": 190800
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.34375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 122840,
+        "percent": 25.74,
+        "total": 159800
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.390625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 709580,
+      "percent": 56.99,
+      "total": 356460
+    },
+    "households_with_non-flush": 2.91,
+    "latrine": {
+      "n": "0.796875",
+      "percent": 11.47,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 374780,
+      "percent": 72.93,
+      "total": 203600
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.640625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 43260,
+        "percent": 66.9,
+        "total": 27900
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.25",
+        "total": 40
+      },
+      "university": {
+        "n": 60390.51,
+        "percent": 33.67,
+        "total": 13721.04
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 43028.46,
+        "percent": 23.99,
+        "total": 7220
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.859375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.640625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 266380,
+        "percent": 13.73,
+        "total": 338100
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 100220,
+      "percent": 5.17,
+      "total": 21200
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.4375"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "MAGURA",
+    "disgeocode": 4055,
+    "shape": {
+      "leng": 206580.03,
+      "area": 1048014144
+    },
+    "_id": 41,
+    "total_population_(n)": 920360,
+    "rural_population_(%)": 86.97,
+    "working-age_population_(n)": 554920,
+    "number_of_households_(n)": 205960,
+    "poverty": {
+      "total": 417843.47,
+      "percent": 45.4,
+      "ratio": 238373.25
+    },
+    "national_avg_(%)": "0.203125",
+    "rank": 3.16,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.796875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 15060,
+        "percent": 5.9,
+        "total": 71740
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.640625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 88200,
+        "percent": 42.82,
+        "total": 71180
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.40625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 297880,
+      "percent": 52.97,
+      "total": 187040
+    },
+    "households_with_non-flush": 2.57,
+    "latrine": {
+      "n": "0.4375",
+      "percent": 11.21,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 207540,
+      "percent": 78.43,
+      "total": 114180
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.203125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 25020,
+        "percent": 74.87,
+        "total": 14560
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.046875",
+        "total": 40
+      },
+      "university": {
+        "n": 30747.01,
+        "percent": 33.53,
+        "total": 6960.03
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 20054.79,
+        "percent": 21.87,
+        "total": 2700
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.59375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.703125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 137300,
+        "percent": 14.92,
+        "total": 176260
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 51880,
+      "percent": 5.64,
+      "total": 6500
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.328125"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "MEHERPUR",
+    "disgeocode": 4057,
+    "shape": {
+      "leng": 193336,
+      "area": 722257536
+    },
+    "_id": 42,
+    "total_population_(n)": 650940,
+    "rural_population_(%)": 87.34,
+    "working-age_population_(n)": 427880,
+    "number_of_households_(n)": 166320,
+    "poverty": {
+      "total": 98942.88,
+      "percent": 15.2,
+      "ratio": 33197.94
+    },
+    "national_avg_(%)": "0.484375",
+    "rank": 7.98,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.078125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 4220,
+        "percent": 2.12,
+        "total": 52120
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.78125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 33720,
+        "percent": 20.27,
+        "total": 42280
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.171875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 257500,
+      "percent": 59.8,
+      "total": 128940
+    },
+    "households_with_non-flush": 2.03,
+    "latrine": {
+      "n": "0.671875",
+      "percent": 8.22,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 121820,
+      "percent": 72.74,
+      "total": 64680
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.40625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 14900,
+        "percent": 67.12,
+        "total": 7580
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.703125",
+        "total": 40
+      },
+      "university": {
+        "n": 18699.39,
+        "percent": 33.79,
+        "total": 4244.58
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 12755.87,
+        "percent": 23.05,
+        "total": 5040
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.9375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.390625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 81600,
+        "percent": 12.54,
+        "total": 108120
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 33340,
+      "percent": 5.12,
+      "total": 13280
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.609375"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "NARAIL",
+    "disgeocode": 4065,
+    "shape": {
+      "leng": 228372.84,
+      "area": 994994624
+    },
+    "_id": 43,
+    "total_population_(n)": 722500,
+    "rural_population_(%)": 84.7,
+    "working-age_population_(n)": 428360,
+    "number_of_households_(n)": 162640,
+    "poverty": {
+      "total": 144500,
+      "percent": 20,
+      "ratio": 55632.5
+    },
+    "national_avg_(%)": "0.15625",
+    "rank": 2.87,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.140625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 12120,
+        "percent": 6.32,
+        "total": 53600
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.671875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 48780,
+        "percent": 29.99,
+        "total": 67340
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.59375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 213900,
+      "percent": 49.43,
+      "total": 159180
+    },
+    "households_with_non-flush": 2.51,
+    "latrine": {
+      "n": "0.21875",
+      "percent": 11.27,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 161280,
+      "percent": 76.52,
+      "total": 92280
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.09375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 18300,
+        "percent": 67.78,
+        "total": 9380
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.4375",
+        "total": 40
+      },
+      "university": {
+        "n": 23488.63,
+        "percent": 31.69,
+        "total": 5173.58
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 15253.9,
+        "percent": 20.58,
+        "total": 1900
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.46875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.75",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 111180,
+        "percent": 15.39,
+        "total": 140980
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 41980,
+      "percent": 5.81,
+      "total": 4660
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.28125"
+    }
+  },
+  {
+    "division_name": "KHULNA",
+    "zila_name": "SATKHIRA",
+    "disgeocode": 4087,
+    "shape": {
+      "leng": 513889.91,
+      "area": 3890415360
+    },
+    "_id": 44,
+    "total_population_(n)": 2000020,
+    "rural_population_(%)": 90.14,
+    "working-age_population_(n)": 1281300,
+    "number_of_households_(n)": 469820,
+    "poverty": {
+      "total": 926009.25,
+      "percent": 46.3,
+      "ratio": 594005.94
+    },
+    "national_avg_(%)": "0.21875",
+    "rank": 3.79,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.84375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 33240,
+        "percent": 5.7,
+        "total": 161300
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.703125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 97280,
+        "percent": 20.71,
+        "total": 175820
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.46875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 657720,
+      "percent": 51.29,
+      "total": 449760
+    },
+    "households_with_non-flush": 2.7,
+    "latrine": {
+      "n": "0.3125",
+      "percent": 10.93,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 411280,
+      "percent": 75.73,
+      "total": 220920
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 51760,
+        "percent": 69.61,
+        "total": 31800
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.234375",
+        "total": 40
+      },
+      "university": {
+        "n": 56212.2,
+        "percent": 33,
+        "total": 12622.19
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 38684.21,
+        "percent": 22.71,
+        "total": 28320
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.796875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.171875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 254700,
+        "percent": 12.73,
+        "total": 351700
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 112320,
+      "percent": 5.62,
+      "total": 17800
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.40625"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "BOGRA",
+    "disgeocode": 5010,
+    "shape": {
+      "leng": 453632.84,
+      "area": 2910568192
+    },
+    "_id": 45,
+    "total_population_(n)": 3410260,
+    "rural_population_(%)": 80.71,
+    "working-age_population_(n)": 2186660,
+    "number_of_households_(n)": 867100,
+    "poverty": {
+      "total": 566103.06,
+      "percent": 16.6,
+      "ratio": 228487.42
+    },
+    "national_avg_(%)": "0.609375",
+    "rank": 10.33,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.09375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 111940,
+        "percent": 10.87,
+        "total": 298300
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.578125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 291500,
+        "percent": 33.62,
+        "total": 275400
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.328125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 1180000,
+      "percent": 53.76,
+      "total": 660720
+    },
+    "households_with_non-flush": 3.12,
+    "latrine": {
+      "n": "0.65625",
+      "percent": 13.02,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 628440,
+      "percent": 71.92,
+      "total": 346920
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.671875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 67880,
+        "percent": 65.22,
+        "total": 49320
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.34375",
+        "total": 40
+      },
+      "university": {
+        "n": 105134.8,
+        "percent": 32.83,
+        "total": 23761.81
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 70644.95,
+        "percent": 22.06,
+        "total": 36960
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.90625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.28125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 472800,
+        "percent": 13.86,
+        "total": 584120
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 166680,
+      "percent": 4.89,
+      "total": 89560
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.75"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "CHAPAI NABABGANJ",
+    "disgeocode": 5070,
+    "shape": {
+      "leng": 352355.41,
+      "area": 1685414016
+    },
+    "_id": 49,
+    "total_population_(n)": 1649680,
+    "rural_population_(%)": 80.59,
+    "working-age_population_(n)": 999900,
+    "number_of_households_(n)": 358000,
+    "poverty": {
+      "total": 417369.03,
+      "percent": 25.3,
+      "ratio": 199611.28
+    },
+    "national_avg_(%)": "0.84375",
+    "rank": 12.53,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.265625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 30860,
+        "percent": 6.66,
+        "total": 133680
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.609375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 57320,
+        "percent": 16.01,
+        "total": 65220
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.0625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 587720,
+      "percent": 59.73,
+      "total": 287560
+    },
+    "households_with_non-flush": 2.35,
+    "latrine": {
+      "n": "0.703125",
+      "percent": 8.69,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 332000,
+      "percent": 67.09,
+      "total": 184740
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.828125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 35360,
+        "percent": 55.58,
+        "total": 19540
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.8125",
+        "total": 40
+      },
+      "university": {
+        "n": 62144.68,
+        "percent": 35.81,
+        "total": 14750.9
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 43766.79,
+        "percent": 25.22,
+        "total": 29940
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.546875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.109375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 261260,
+        "percent": 15.84,
+        "total": 317580
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 70940,
+      "percent": 4.3,
+      "total": 44840
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.828125"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "JOYPURHAT",
+    "disgeocode": 5038,
+    "shape": {
+      "leng": 234273.41,
+      "area": 959685888
+    },
+    "_id": 46,
+    "total_population_(n)": 916380,
+    "rural_population_(%)": 84.33,
+    "working-age_population_(n)": 606540,
+    "number_of_households_(n)": 242580,
+    "poverty": {
+      "total": 244673.45,
+      "percent": 26.7,
+      "ratio": 118213.02
+    },
+    "national_avg_(%)": "0.453125",
+    "rank": 20.52,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.3125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 12000,
+        "percent": 4.22,
+        "total": 74940
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.765625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 73820,
+        "percent": 30.43,
+        "total": 50060
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 306400,
+      "percent": 49.96,
+      "total": 209740
+    },
+    "households_with_non-flush": 3.1,
+    "latrine": {
+      "n": "0.40625",
+      "percent": 12.74,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 170020,
+      "percent": 75.75,
+      "total": 91460
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.28125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 20980,
+        "percent": 70.26,
+        "total": 12860
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.1875",
+        "total": 40
+      },
+      "university": {
+        "n": 23114.09,
+        "percent": 30.12,
+        "total": 4942.06
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 15816.11,
+        "percent": 20.61,
+        "total": 5080
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.96875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.5625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 115160,
+        "percent": 12.57,
+        "total": 147520
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 47160,
+      "percent": 5.15,
+      "total": 49780
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.890625"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "NAOGAON",
+    "disgeocode": 5064,
+    "shape": {
+      "leng": 539128.19,
+      "area": 3442526976
+    },
+    "_id": 47,
+    "total_population_(n)": 2592160,
+    "rural_population_(%)": 89.59,
+    "working-age_population_(n)": 1699400,
+    "number_of_households_(n)": 655780,
+    "poverty": {
+      "total": 438075.03,
+      "percent": 16.9,
+      "ratio": 181451.2
+    },
+    "national_avg_(%)": "0.515625",
+    "rank": 31.15,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 38660,
+        "percent": 4.73,
+        "total": 176860
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.984375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 118100,
+        "percent": 18.01,
+        "total": 122960
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.09375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 919600,
+      "percent": 53.72,
+      "total": 579720
+    },
+    "households_with_non-flush": 2.29,
+    "latrine": {
+      "n": "0.421875",
+      "percent": 10.12,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 466080,
+      "percent": 71.54,
+      "total": 259180
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.453125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 51860,
+        "percent": 62.02,
+        "total": 32000
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.546875",
+        "total": 40
+      },
+      "university": {
+        "n": 75636.3,
+        "percent": 33.5,
+        "total": 17136.7
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 52877.68,
+        "percent": 23.42,
+        "total": 21000
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.953125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.34375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 336520,
+        "percent": 12.98,
+        "total": 424180
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 132060,
+      "percent": 5.09,
+      "total": 204280
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.984375"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "NATORE",
+    "disgeocode": 5069,
+    "shape": {
+      "leng": 366334.47,
+      "area": 1903251840
+    },
+    "_id": 48,
+    "total_population_(n)": 1704260,
+    "rural_population_(%)": 86.77,
+    "working-age_population_(n)": 1094060,
+    "number_of_households_(n)": 423880,
+    "poverty": {
+      "total": 598195.25,
+      "percent": 35.1,
+      "ratio": 363007.38
+    },
+    "national_avg_(%)": "0.5",
+    "rank": 5.82,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.71875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 25260,
+        "percent": 4.94,
+        "total": 125120
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.84375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 113620,
+        "percent": 26.8,
+        "total": 181620
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.671875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 598700,
+      "percent": 54.42,
+      "total": 352360
+    },
+    "households_with_non-flush": 2.84,
+    "latrine": {
+      "n": "0.578125",
+      "percent": 10.72,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 334220,
+      "percent": 74.54,
+      "total": 183520
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.328125",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 38520,
+        "percent": 67.98,
+        "total": 26860
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.125",
+        "total": 40
+      },
+      "university": {
+        "n": 51057.57,
+        "percent": 33.31,
+        "total": 11541.98
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 33231.11,
+        "percent": 21.68,
+        "total": 8980
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.890625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.546875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 230100,
+        "percent": 13.5,
+        "total": 293120
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 86980,
+      "percent": 5.1,
+      "total": 24680
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.53125"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "PABNA",
+    "disgeocode": 5076,
+    "shape": {
+      "leng": 325972.41,
+      "area": 2387729920
+    },
+    "_id": 50,
+    "total_population_(n)": 2521220,
+    "rural_population_(%)": 84.76,
+    "working-age_population_(n)": 1547200,
+    "number_of_households_(n)": 590780,
+    "poverty": {
+      "total": 794184.31,
+      "percent": 31.5,
+      "ratio": 421043.72
+    },
+    "national_avg_(%)": "0.5625",
+    "rank": 3.32,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.453125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 96960,
+        "percent": 13.1,
+        "total": 221280
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.53125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 157860,
+        "percent": 26.72,
+        "total": 254780
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.703125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 883940,
+      "percent": 56.72,
+      "total": 453300
+    },
+    "households_with_non-flush": 2.84,
+    "latrine": {
+      "n": "0.734375",
+      "percent": 11.35,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 493920,
+      "percent": 71.48,
+      "total": 276740
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.6875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 53920,
+        "percent": 63.9,
+        "total": 35120
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.390625",
+        "total": 40
+      },
+      "university": {
+        "n": 91649.66,
+        "percent": 34.59,
+        "total": 21223.3
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 63722.88,
+        "percent": 24.05,
+        "total": 12580
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.71875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.53125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 390800,
+        "percent": 15.5,
+        "total": 457000
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 126220,
+      "percent": 5.01,
+      "total": 19620
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.359375"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "RAJSHAHI",
+    "disgeocode": 5081,
+    "shape": {
+      "leng": 370344.94,
+      "area": 2437618688
+    },
+    "_id": 51,
+    "total_population_(n)": 2579420,
+    "rural_population_(%)": 67.78,
+    "working-age_population_(n)": 1699720,
+    "number_of_households_(n)": 633680,
+    "poverty": {
+      "total": 809937.94,
+      "percent": 31.4,
+      "ratio": 425604.31
+    },
+    "national_avg_(%)": "0.734375",
+    "rank": 9.36,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.4375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 47960,
+        "percent": 6.28,
+        "total": 234300
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.40625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 155960,
+        "percent": 24.61,
+        "total": 180240
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.234375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 811740,
+      "percent": 48.45,
+      "total": 553280
+    },
+    "households_with_non-flush": 5.08,
+    "latrine": {
+      "n": "0.5",
+      "percent": 13.46,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 517480,
+      "percent": 76.27,
+      "total": 268160
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.25",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 67440,
+        "percent": 71.88,
+        "total": 47780
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.03125",
+        "total": 40
+      },
+      "university": {
+        "n": 68003.3,
+        "percent": 31.39,
+        "total": 15013.15
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 46599.27,
+        "percent": 21.51,
+        "total": 51680
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.921875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 325620,
+        "percent": 12.62,
+        "total": 433400
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 120680,
+      "percent": 4.68,
+      "total": 59320
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.6875"
+    }
+  },
+  {
+    "division_name": "RAJSHAHI",
+    "zila_name": "SIRAJGANJ",
+    "disgeocode": 5088,
+    "shape": {
+      "leng": 381620.59,
+      "area": 2492419072
+    },
+    "_id": 52,
+    "total_population_(n)": 3115620,
+    "rural_population_(%)": 85.85,
+    "working-age_population_(n)": 1848360,
+    "number_of_households_(n)": 714940,
+    "poverty": {
+      "total": 1205744.88,
+      "percent": 38.7,
+      "ratio": 707245.75
+    },
+    "national_avg_(%)": "0.765625",
+    "rank": 4.59,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.75",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 210860,
+        "percent": 23.71,
+        "total": 221680
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.828125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 129480,
+        "percent": 18.11,
+        "total": 304240
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.640625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 1125540,
+      "percent": 60.91,
+      "total": 502660
+    },
+    "households_with_non-flush": 2.2,
+    "latrine": {
+      "n": "0.859375",
+      "percent": 9.69,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 612880,
+      "percent": 68.61,
+      "total": 360780
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.90625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 62040,
+        "percent": 58.92,
+        "total": 36380
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.59375",
+        "total": 40
+      },
+      "university": {
+        "n": 127209.55,
+        "percent": 36.7,
+        "total": 30502.56
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 92755.52,
+        "percent": 26.76,
+        "total": 9680
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.578125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.6875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 526140,
+        "percent": 16.89,
+        "total": 597960
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 143160,
+      "percent": 4.59,
+      "total": 32820
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.46875"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "DINAJPUR",
+    "disgeocode": 5527,
+    "shape": {
+      "leng": 532655.88,
+      "area": 3458701568
+    },
+    "_id": 53,
+    "total_population_(n)": 2986280,
+    "rural_population_(%)": 85.08,
+    "working-age_population_(n)": 1877160,
+    "number_of_households_(n)": 715760,
+    "poverty": {
+      "total": 1131800.13,
+      "percent": 37.9,
+      "ratio": 636077.63
+    },
+    "national_avg_(%)": "0.671875",
+    "rank": 23.61,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.703125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 50460,
+        "percent": 5.58,
+        "total": 276960
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.421875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 232660,
+        "percent": 32.51,
+        "total": 110120
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.015625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 937460,
+      "percent": 50.4,
+      "total": 615100
+    },
+    "households_with_non-flush": 3.44,
+    "latrine": {
+      "n": "0.484375",
+      "percent": 13.08,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 606660,
+      "percent": 75.33,
+      "total": 334640
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.1875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 68860,
+        "percent": 66.85,
+        "total": 46760
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.109375",
+        "total": 40
+      },
+      "university": {
+        "n": 97874.74,
+        "percent": 32.99,
+        "total": 22013.66
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 56784.55,
+        "percent": 19.14,
+        "total": 10700
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.8125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.65625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 442040,
+        "percent": 14.8,
+        "total": 524260
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 142820,
+      "percent": 4.78,
+      "total": 169020
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.9375"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "GAIBANDHA",
+    "disgeocode": 5532,
+    "shape": {
+      "leng": 339894.78,
+      "area": 2164991232
+    },
+    "_id": 54,
+    "total_population_(n)": 2382380,
+    "rural_population_(%)": 91.19,
+    "working-age_population_(n)": 1431400,
+    "number_of_households_(n)": 612300,
+    "poverty": {
+      "total": 1143542.38,
+      "percent": 48,
+      "ratio": 721861.13
+    },
+    "national_avg_(%)": "0.640625",
+    "rank": 26.15,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.90625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 34280,
+        "percent": 5.17,
+        "total": 160480
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.890625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 65740,
+        "percent": 10.74,
+        "total": 122340
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.109375",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 905360,
+      "percent": 62.92,
+      "total": 343640
+    },
+    "households_with_non-flush": 2.52,
+    "latrine": {
+      "n": "0.953125",
+      "percent": 10.68,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 463860,
+      "percent": 70.78,
+      "total": 272860
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 45520,
+        "percent": 63.36,
+        "total": 27880
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.5",
+        "total": 40
+      },
+      "university": {
+        "n": 97427.6,
+        "percent": 37.3,
+        "total": 23560.24
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 53885.56,
+        "percent": 20.63,
+        "total": 6700
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.640625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.765625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 386220,
+        "percent": 16.21,
+        "total": 449520
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 115240,
+      "percent": 4.84,
+      "total": 160120
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.953125"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "KURIGRAM",
+    "disgeocode": 5549,
+    "shape": {
+      "leng": 535138.13,
+      "area": 2273961472
+    },
+    "_id": 55,
+    "total_population_(n)": 2069980,
+    "rural_population_(%)": 84.17,
+    "working-age_population_(n)": 1218980,
+    "number_of_households_(n)": 508100,
+    "poverty": {
+      "total": 1318577.25,
+      "percent": 63.7,
+      "ratio": 917001.13
+    },
+    "national_avg_(%)": "0.421875",
+    "rank": 10.96,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "1",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 23440,
+        "percent": 4.16,
+        "total": 133400
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.90625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 92080,
+        "percent": 18.12,
+        "total": 202440
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.546875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 787840,
+      "percent": 63.52,
+      "total": 307840
+    },
+    "households_with_non-flush": 2.28,
+    "latrine": {
+      "n": "0.9375",
+      "percent": 9.39,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 428180,
+      "percent": 72.82,
+      "total": 246720
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.765625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 41220,
+        "percent": 65.16,
+        "total": 25940
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.359375",
+        "total": 40
+      },
+      "university": {
+        "n": 88670.57,
+        "percent": 38.66,
+        "total": 21972.69
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 46193.1,
+        "percent": 20.14,
+        "total": 3380
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.484375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.9375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 340560,
+        "percent": 16.45,
+        "total": 403500
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 106940,
+      "percent": 5.17,
+      "total": 55700
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.78125"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "LALMONIRHAT",
+    "disgeocode": 5552,
+    "shape": {
+      "leng": 563338.69,
+      "area": 1275334272
+    },
+    "_id": 56,
+    "total_population_(n)": 1253840,
+    "rural_population_(%)": 89.59,
+    "working-age_population_(n)": 740720,
+    "number_of_households_(n)": 290480,
+    "poverty": {
+      "total": 432574.81,
+      "percent": 34.5,
+      "ratio": 209391.28
+    },
+    "national_avg_(%)": "0.71875",
+    "rank": 9.53,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.46875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 17240,
+        "percent": 4.78,
+        "total": 80420
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.953125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 85420,
+        "percent": 29.41,
+        "total": 87600
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.28125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 440560,
+      "percent": 59.45,
+      "total": 214620
+    },
+    "households_with_non-flush": 2.3,
+    "latrine": {
+      "n": "0.78125",
+      "percent": 9.28,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 272680,
+      "percent": 74.58,
+      "total": 158140
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.421875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 28160,
+        "percent": 66.64,
+        "total": 17160
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.15625",
+        "total": 40
+      },
+      "university": {
+        "n": 49864.41,
+        "percent": 36.52,
+        "total": 11851.67
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 26816.46,
+        "percent": 19.64,
+        "total": 2020
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.421875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.90625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 203980,
+        "percent": 16.27,
+        "total": 250040
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 59100,
+      "percent": 4.71,
+      "total": 27680
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.703125"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "NILPHAMARI",
+    "disgeocode": 5573,
+    "shape": {
+      "leng": 269425.44,
+      "area": 1587083264
+    },
+    "_id": 57,
+    "total_population_(n)": 1831100,
+    "rural_population_(%)": 84.42,
+    "working-age_population_(n)": 1082800,
+    "number_of_households_(n)": 421540,
+    "poverty": {
+      "total": 637222.81,
+      "percent": 34.8,
+      "ratio": 344246.78
+    },
+    "national_avg_(%)": "0.875",
+    "rank": 21.95,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.546875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 34920,
+        "percent": 6.68,
+        "total": 127900
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.859375",
+        "total": 56.45
+      },
+      "services": {
+        "n": 63400,
+        "percent": 15.04,
+        "total": 75520
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.046875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 652000,
+      "percent": 61.26,
+      "total": 277780
+    },
+    "households_with_non-flush": 2.51,
+    "latrine": {
+      "n": "0.90625",
+      "percent": 10.13,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 389120,
+      "percent": 71.62,
+      "total": 227560
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.5",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 39060,
+        "percent": 59.11,
+        "total": 24860
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.46875",
+        "total": 40
+      },
+      "university": {
+        "n": 76462.05,
+        "percent": 36.75,
+        "total": 18309.28
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 43442.93,
+        "percent": 20.88,
+        "total": 3200
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.453125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.84375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 312720,
+        "percent": 17.08,
+        "total": 360120
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 75460,
+      "percent": 4.12,
+      "total": 92520
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.921875"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "PANCHAGARH",
+    "disgeocode": 5577,
+    "shape": {
+      "leng": 432655.31,
+      "area": 1362715648
+    },
+    "_id": 58,
+    "total_population_(n)": 989360,
+    "rural_population_(%)": 90.52,
+    "working-age_population_(n)": 597900,
+    "number_of_households_(n)": 228620,
+    "poverty": {
+      "total": 264159.13,
+      "percent": 26.7,
+      "ratio": 121691.28
+    },
+    "national_avg_(%)": "0.859375",
+    "rank": 14.19,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.296875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 21540,
+        "percent": 7.46,
+        "total": 78700
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.71875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 85980,
+        "percent": 37.61,
+        "total": 62440
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.21875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 316100,
+      "percent": 53.86,
+      "total": 194680
+    },
+    "households_with_non-flush": 2.66,
+    "latrine": {
+      "n": "0.453125",
+      "percent": 10.32,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 218600,
+      "percent": 75.17,
+      "total": 122220
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.140625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 25480,
+        "percent": 65.07,
+        "total": 15460
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.171875",
+        "total": 40
+      },
+      "university": {
+        "n": 36581.04,
+        "percent": 33.84,
+        "total": 8302.08
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 20495.76,
+        "percent": 18.96,
+        "total": 3140
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.609375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.671875",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 160940,
+        "percent": 16.27,
+        "total": 188860
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 41660,
+      "percent": 4.21,
+      "total": 32440
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.859375"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "RANGPUR",
+    "disgeocode": 5585,
+    "shape": {
+      "leng": 374184.38,
+      "area": 2342459136
+    },
+    "_id": 59,
+    "total_population_(n)": 2857900,
+    "rural_population_(%)": 85.01,
+    "working-age_population_(n)": 1763000,
+    "number_of_households_(n)": 720220,
+    "poverty": {
+      "total": 1320349.88,
+      "percent": 46.2,
+      "ratio": 860227.88
+    },
+    "national_avg_(%)": "0.59375",
+    "rank": 21.26,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.875",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 60420,
+        "percent": 7.19,
+        "total": 250300
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.546875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 125600,
+        "percent": 17.44,
+        "total": 179600
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.140625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 1004020,
+      "percent": 56.69,
+      "total": 485600
+    },
+    "households_with_non-flush": 3.56,
+    "latrine": {
+      "n": "0.84375",
+      "percent": 12.33,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 564100,
+      "percent": 71.79,
+      "total": 319260
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.734375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 58700,
+        "percent": 62.63,
+        "total": 39800
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.3125",
+        "total": 40
+      },
+      "university": {
+        "n": 98522.64,
+        "percent": 34.74,
+        "total": 22858.16
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 56408.04,
+        "percent": 19.89,
+        "total": 14100
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.703125",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.59375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 428300,
+        "percent": 14.99,
+        "total": 525280
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 141320,
+      "percent": 4.94,
+      "total": 153100
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.90625"
+    }
+  },
+  {
+    "division_name": "RANGPUR",
+    "zila_name": "THAKURGAON",
+    "disgeocode": 5594,
+    "shape": {
+      "leng": 341231.63,
+      "area": 1813990528
+    },
+    "_id": 60,
+    "total_population_(n)": 1390120,
+    "rural_population_(%)": 88.44,
+    "working-age_population_(n)": 846340,
+    "number_of_households_(n)": 320820,
+    "poverty": {
+      "total": 375332.41,
+      "percent": 27,
+      "ratio": 191836.56
+    },
+    "national_avg_(%)": "0.828125",
+    "rank": 26.99,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.328125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 14560,
+        "percent": 3.63,
+        "total": 106760
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.75",
+        "total": 56.45
+      },
+      "services": {
+        "n": 38880,
+        "percent": 12.12,
+        "total": 50440
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.03125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 458660,
+      "percent": 55,
+      "total": 253720
+    },
+    "households_with_non-flush": 3.23,
+    "latrine": {
+      "n": "0.625",
+      "percent": 11.34,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 301160,
+      "percent": 74.43,
+      "total": 167500
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.34375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 34300,
+        "percent": 64.45,
+        "total": 20760
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.203125",
+        "total": 40
+      },
+      "university": {
+        "n": 50327.81,
+        "percent": 34.49,
+        "total": 11571.46
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 29621.76,
+        "percent": 20.3,
+        "total": 1320
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.984375",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 218460,
+        "percent": 15.72,
+        "total": 265320
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 60000,
+      "percent": 4.32,
+      "total": 86600
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.96875"
+    }
+  },
+  {
+    "division_name": "SYLHET",
+    "zila_name": "HABIGANJ",
+    "disgeocode": 6036,
+    "shape": {
+      "leng": 446169.34,
+      "area": 2581719040
+    },
+    "_id": 61,
+    "total_population_(n)": 2110320,
+    "rural_population_(%)": 88.04,
+    "working-age_population_(n)": 1164180,
+    "number_of_households_(n)": 393400,
+    "poverty": {
+      "total": 533910.94,
+      "percent": 25.3,
+      "ratio": 424174.34
+    },
+    "national_avg_(%)": "0.6875",
+    "rank": 7.97,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.609375",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 41340,
+        "percent": 7.44,
+        "total": 155940
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.65625",
+        "total": 56.45
+      },
+      "services": {
+        "n": 45220,
+        "percent": 11.49,
+        "total": 139740
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.421875",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 705880,
+      "percent": 61.64,
+      "total": 345440
+    },
+    "households_with_non-flush": 1.34,
+    "latrine": {
+      "n": "0.640625",
+      "percent": 6.85,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 404140,
+      "percent": 60.94,
+      "total": 267120
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.921875",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 32060,
+        "percent": 39.97,
+        "total": 19100
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.953125",
+        "total": 40
+      },
+      "university": {
+        "n": 109874.47,
+        "percent": 39.39,
+        "total": 27810.32
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 82370.98,
+        "percent": 29.53,
+        "total": 8600
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.296875",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.515625",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 409180,
+        "percent": 19.39,
+        "total": 436480
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 100480,
+      "percent": 4.76,
+      "total": 31360
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.59375"
+    }
+  },
+  {
+    "division_name": "SYLHET",
+    "zila_name": "MAULVIBAZAR",
+    "disgeocode": 6058,
+    "shape": {
+      "leng": 470238.66,
+      "area": 2679181312
+    },
+    "_id": 62,
+    "total_population_(n)": 1915340,
+    "rural_population_(%)": 89.28,
+    "working-age_population_(n)": 1114860,
+    "number_of_households_(n)": 361200,
+    "poverty": {
+      "total": 492242.38,
+      "percent": 25.7,
+      "ratio": 404136.72
+    },
+    "national_avg_(%)": "0.78125",
+    "rank": 9.67,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.65625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 62980,
+        "percent": 12.1,
+        "total": 198440
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.25",
+        "total": 56.45
+      },
+      "services": {
+        "n": 73220,
+        "percent": 20.27,
+        "total": 113780
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.3125",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 583400,
+      "percent": 53.9,
+      "total": 385520
+    },
+    "households_with_non-flush": 1.81,
+    "latrine": {
+      "n": "0.296875",
+      "percent": 8.67,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 396260,
+      "percent": 65.1,
+      "total": 240880
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.59375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 39060,
+        "percent": 47.33,
+        "total": 21660
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.90625",
+        "total": 40
+      },
+      "university": {
+        "n": 79552.2,
+        "percent": 36.66,
+        "total": 19269.6
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 63559.3,
+        "percent": 29.29,
+        "total": 17700
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.34375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.25",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 320380,
+        "percent": 16.73,
+        "total": 393820
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 86280,
+      "percent": 4.5,
+      "total": 34920
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.71875"
+    }
+  },
+  {
+    "division_name": "SYLHET",
+    "zila_name": "SUNAMGANJ",
+    "disgeocode": 6090,
+    "shape": {
+      "leng": 499216.47,
+      "area": 3692350208
+    },
+    "_id": 63,
+    "total_population_(n)": 2485160,
+    "rural_population_(%)": 89.72,
+    "working-age_population_(n)": 1314280,
+    "number_of_households_(n)": 440400,
+    "poverty": {
+      "total": 646141.56,
+      "percent": 26,
+      "ratio": 511942.97
+    },
+    "national_avg_(%)": "0.75",
+    "rank": 12.03,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.640625",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 31580,
+        "percent": 4.94,
+        "total": 141160
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.96875",
+        "total": 56.45
+      },
+      "services": {
+        "n": 33820,
+        "percent": 7.68,
+        "total": 110100
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.15625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 883940,
+      "percent": 68.68,
+      "total": 321980
+    },
+    "households_with_non-flush": 1.07,
+    "latrine": {
+      "n": "0.921875",
+      "percent": 5.24,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 468800,
+      "percent": 58.85,
+      "total": 315640
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.984375",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 33300,
+        "percent": 36.58,
+        "total": 17300
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "1",
+        "total": 40
+      },
+      "university": {
+        "n": 145306.33,
+        "percent": 40.86,
+        "total": 37446.79
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 110811.2,
+        "percent": 31.16,
+        "total": 4660
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.109375",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.78125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 516880,
+        "percent": 20.8,
+        "total": 539320
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 114680,
+      "percent": 4.61,
+      "total": 53000
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.8125"
+    }
+  },
+  {
+    "division_name": "SYLHET",
+    "zila_name": "SYLHET",
+    "disgeocode": 6091,
+    "shape": {
+      "leng": 455889.38,
+      "area": 3418625280
+    },
+    "_id": 64,
+    "total_population_(n)": 3418440,
+    "rural_population_(%)": 78.3,
+    "working-age_population_(n)": 1935660,
+    "number_of_households_(n)": 596060,
+    "poverty": {
+      "total": 823844,
+      "percent": 24.1,
+      "ratio": 666595.75
+    },
+    "national_avg_(%)": "0.890625",
+    "rank": 5.59,
+    "extreme_poverty": {
+      "total": 17.6,
+      "percent": "0.578125",
+      "ratio": 47.36
+    },
+    "primary_employment": {
+      "agriculture": {
+        "n": 134040,
+        "percent": 15.92,
+        "total": 387160
+      },
+      "industry": {
+        "n": 37.73,
+        "percent": "0.078125",
+        "total": 56.45
+      },
+      "services": {
+        "n": 137900,
+        "percent": 23.14,
+        "total": 230280
+      }
+    },
+    "households_with_electricity": {
+      "n": 38.68,
+      "percent": "0.515625",
+      "total": 50.52
+    },
+    "households_with_flush_toilet": {
+      "n": 934520,
+      "percent": 50.54,
+      "total": 639500
+    },
+    "households_with_non-flush": 3.15,
+    "latrine": {
+      "n": "0.375",
+      "percent": 11.72,
+      "total": 3.81
+    },
+    "literate_population": {
+      "n": 740300,
+      "percent": 65.37,
+      "total": 448940
+    },
+    "educational_attainment": {
+      "lt_primary": {
+        "n": 78.36,
+        "percent": "0.5625",
+        "total": 77.26
+      },
+      "primary": {
+        "n": 71960,
+        "percent": 46.87,
+        "total": 46240
+      },
+      "secondary": {
+        "n": 34.71,
+        "percent": "0.828125",
+        "total": 40
+      },
+      "university": {
+        "n": 152570.92,
+        "percent": 36.86,
+        "total": 37335.59
+      }
+    },
+    "student_school_attendance": {
+      "6-10": {
+        "n": 120906.02,
+        "percent": 29.21,
+        "total": 73720
+      },
+      "6-18": {
+        "n": 19.11,
+        "percent": "0.15625",
+        "total": 60.65
+      },
+      "11-13": {
+        "n": 10.68,
+        "percent": "0.078125",
+        "total": 83.49
+      },
+      "14-15": {
+        "n": 610420,
+        "percent": 17.86,
+        "total": 734280
+      },
+      "16-18": {}
+    },
+    "percentage_of_population_in_bottom_40%": {
+      "n": 138080,
+      "percent": 4.04,
+      "total": 33320
+    },
+    "underweight_children": {
+      "n": 7.72,
+      "percent": "0.5"
+    }
+  }
+]
