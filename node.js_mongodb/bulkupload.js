@@ -14,10 +14,10 @@ const rl = readline.createInterface({
 
 async function bulkUpload(){
     let jsonFileName, collectionName;
-    jsonFileName=["AllUpazilaData", "AllZilaData","UpazilaChildhealth","UpazilaEmployment","UpazilaHousehold","UpazilaLiteracyAttendance","UpazilaPopulation",
-    "UpazilaPoverty", "ZilaChildhealth","ZilaEmployment","ZilaHousehold","ZilaLiteracyAttendance","ZilaLocation","ZilaPopulation","ZilaPoverty"];
-    collectionName=["AllUpazilaData", "AllZilaData","UpazilaDataChildHealth","UpazilaDataEmployment","UpazilaDataHousehold","UpazilaDataLiteracyAttendance","UpazilaDataPopulation",
-    "UpazilaDataPoverty","ZilaDataChildHealth","ZilaDataEmployment","ZilaDataHousehold","ZilaDataLiteracyAttendance","ZilaLocation","ZilaPopulation","ZilaPoverty"];
+    jsonFileName=["AllUpazilaData", "AllZilaData","UpazilaChildhealth","UpazilaEmployment","UpazilaHousehold","UpazilaLiteracy","UpazilaAttendance","UpazilaPopulation",
+    "UpazilaPoverty", "ZilaChildhealth","ZilaEmployment","ZilaHousehold","ZilaLiteracy","ZilaAttendance","ZilaLocation","ZilaPopulation","ZilaPoverty"];
+    collectionName=["AllUpazilaData", "AllZilaData","UpazilaDataChildHealth","UpazilaDataEmployment","UpazilaDataHousehold","UpazilaDataLiteracy","UpazilaDataAttendance","UpazilaDataPopulation",
+    "UpazilaDataPoverty","ZilaDataChildHealth","ZilaDataEmployment","ZilaDataHousehold","ZilaDataLiteracy","ZilaDataAttendance","ZilaLocation","ZilaPopulation","ZilaPoverty"];
     for(var i=0;i<jsonFileName.length; i++){
         let db="rsquared_zilla_upazilla_db";
         var all_data = require('./data/'+jsonFileName[i]+".json");

@@ -27742,56 +27742,5 @@
             "upazila": "ZAKIGANJ",
             "zila": "SYLHET"
         }
-    },
-    {
-        "_id": "545",
-        "household_info": {
-            "electricity": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "number_of_household": null,
-            "toilet": {
-                "flush_toilet": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                },
-                "without_flush_toilet": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                },
-                "without_toilet": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                }
-            },
-            "water": {
-                "tapwater": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                },
-                "tubewell_water": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                }
-            }
-        },
-        "location_data": {
-            "division": null,
-            "upazila": null,
-            "zila": null
-        }
     }
 ]

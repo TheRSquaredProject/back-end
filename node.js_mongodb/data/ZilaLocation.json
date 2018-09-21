@@ -638,15 +638,5 @@
             "length": 455889.375,
             "zila": "SYLHET"
         }
-    },
-    {
-        "_id": "65",
-        "location_data": {
-            "area": null,
-            "disgeocode": null,
-            "division": null,
-            "length": null,
-            "zila": null
-        }
     }
 ]

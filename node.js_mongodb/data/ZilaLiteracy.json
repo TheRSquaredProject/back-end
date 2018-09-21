@@ -1,0 +1,2498 @@
+[
+    {
+        "_id": "1",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 314800,
+                "percentage": 57.23427963256836,
+                "rank": "11/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 239700,
+                "percentage": 43.58023452758789,
+                "rank": "54/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 236160,
+                "percentage": 42.93661880493164,
+                "rank": "4/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 61240,
+                "percentage": 11.134140968322754,
+                "rank": "29/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 12920,
+                "percentage": 2.3490054607391357,
+                "rank": "38/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARGUNA"
+        }
+    },
+    {
+        "_id": "2",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 830940,
+                "percentage": 61.36021041870117,
+                "rank": "5/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 538420,
+                "percentage": 39.7592658996582,
+                "rank": "58/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 558020,
+                "percentage": 41.20661544799805,
+                "rank": "6/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 206380,
+                "percentage": 15.239994049072266,
+                "rank": "7/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 51380,
+                "percentage": 3.7941222190856934,
+                "rank": "5/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARISAL"
+        }
+    },
+    {
+        "_id": "3",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 402520,
+                "percentage": 41.78813171386719,
+                "rank": "50/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 583380,
+                "percentage": 60.56434631347656,
+                "rank": "13/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 275040,
+                "percentage": 28.553632736206055,
+                "rank": "52/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 85020,
+                "percentage": 8.826460838317871,
+                "rank": "53/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 19800,
+                "percentage": 2.0555624961853027,
+                "rank": "49/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BHOLA"
+        }
+    },
+    {
+        "_id": "4",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 273360,
+                "percentage": 67.69688415527344,
+                "rank": "2/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 136600,
+                "percentage": 33.82862854003906,
+                "rank": "63/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 185660,
+                "percentage": 45.978206634521484,
+                "rank": "1/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 69100,
+                "percentage": 17.1124324798584,
+                "rank": "4/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 12440,
+                "percentage": 3.080733060836792,
+                "rank": "16/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "JHALOKATI"
+        }
+    },
+    {
+        "_id": "5",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 480120,
+                "percentage": 52.927947998046875,
+                "rank": "20/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 436460,
+                "percentage": 48.11491394042969,
+                "rank": "48/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 342740,
+                "percentage": 37.7833137512207,
+                "rank": "13/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 106380,
+                "percentage": 11.727224349975586,
+                "rank": "20/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 21540,
+                "percentage": 2.3745481967926025,
+                "rank": "36/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PATUAKHALI"
+        }
+    },
+    {
+        "_id": "6",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 443680,
+                "percentage": 65.41058349609375,
+                "rank": "3/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 248220,
+                "percentage": 36.594425201416016,
+                "rank": "61/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 311600,
+                "percentage": 45.938377380371094,
+                "rank": "2/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 97860,
+                "percentage": 14.427244186401367,
+                "rank": "9/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 20620,
+                "percentage": 3.0399527549743652,
+                "rank": "17/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PIROJPUR"
+        }
+    },
+    {
+        "_id": "7",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 68740,
+                "percentage": 32.820858001708984,
+                "rank": "63/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 146560,
+                "percentage": 69.97708129882812,
+                "rank": "1/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 43820,
+                "percentage": 20.922460556030273,
+                "rank": "64/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 15960,
+                "percentage": 7.620321273803711,
+                "rank": "61/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 3100,
+                "percentage": 1.4801374673843384,
+                "rank": "62/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BANDARBAN"
+        }
+    },
+    {
+        "_id": "8",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 650700,
+                "percentage": 44.021541595458984,
+                "rank": "42/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 840180,
+                "percentage": 56.840354919433594,
+                "rank": "23/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 473820,
+                "percentage": 32.055152893066406,
+                "rank": "36/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 138880,
+                "percentage": 9.395591735839844,
+                "rank": "46/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 25260,
+                "percentage": 1.708904504776001,
+                "rank": "60/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BRAHMANBARIA"
+        }
+    },
+    {
+        "_id": "9",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 766600,
+                "percentage": 56.056861877441406,
+                "rank": "14/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 611500,
+                "percentage": 44.715328216552734,
+                "rank": "53/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 548320,
+                "percentage": 40.09535217285156,
+                "rank": "8/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 176780,
+                "percentage": 12.926861763000488,
+                "rank": "15/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 30940,
+                "percentage": 2.2624566555023193,
+                "rank": "43/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHANDPUR"
+        }
+    },
+    {
+        "_id": "10",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 2755340,
+                "percentage": 60.85948181152344,
+                "rank": "7/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1758900,
+                "percentage": 38.850284576416016,
+                "rank": "59/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 1641460,
+                "percentage": 36.256290435791016,
+                "rank": "17/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 862820,
+                "percentage": 19.057823181152344,
+                "rank": "2/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 264200,
+                "percentage": 5.835604667663574,
+                "rank": "2/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHITTAGONG"
+        }
+    },
+    {
+        "_id": "11",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1582540,
+                "percentage": 53.222171783447266,
+                "rank": "19/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1405540,
+                "percentage": 47.26951217651367,
+                "rank": "50/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 1073880,
+                "percentage": 36.115501403808594,
+                "rank": "18/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 412660,
+                "percentage": 13.878108978271484,
+                "rank": "10/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 81380,
+                "percentage": 2.7368788719177246,
+                "rank": "22/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COMILLA"
+        }
+    },
+    {
+        "_id": "12",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 439040,
+                "percentage": 38.247901916503906,
+                "rank": "58/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 714880,
+                "percentage": 62.278289794921875,
+                "rank": "8/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 311080,
+                "percentage": 27.100393295288086,
+                "rank": "56/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 99060,
+                "percentage": 8.62982177734375,
+                "rank": "56/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 22860,
+                "percentage": 1.9914973974227905,
+                "rank": "51/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COX'S BAZAR"
+        }
+    },
+    {
+        "_id": "13",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 511880,
+                "percentage": 61.1696662902832,
+                "rank": "6/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 324380,
+                "percentage": 38.76341247558594,
+                "rank": "60/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 343780,
+                "percentage": 41.08171463012695,
+                "rank": "7/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 142340,
+                "percentage": 17.009632110595703,
+                "rank": "5/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 26320,
+                "percentage": 3.145240306854248,
+                "rank": "13/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "FENI"
+        }
+    },
+    {
+        "_id": "14",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 150540,
+                "percentage": 43.72857666015625,
+                "rank": "44/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 204040,
+                "percentage": 59.2691535949707,
+                "rank": "17/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 101700,
+                "percentage": 29.5416259765625,
+                "rank": "44/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 32080,
+                "percentage": 9.318537712097168,
+                "rank": "48/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 6440,
+                "percentage": 1.8706791400909424,
+                "rank": "54/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "KHAGRACHHARI"
+        }
+    },
+    {
+        "_id": "15",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 467520,
+                "percentage": 49.53171920776367,
+                "rank": "24/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 498960,
+                "percentage": 52.86265182495117,
+                "rank": "39/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 328500,
+                "percentage": 34.80315399169922,
+                "rank": "22/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 97940,
+                "percentage": 10.37631893157959,
+                "rank": "36/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 18480,
+                "percentage": 1.9578760862350464,
+                "rank": "52/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "LAKSHMIPUR"
+        }
+    },
+    {
+        "_id": "16",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 889000,
+                "percentage": 53.59037399291992,
+                "rank": "18/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 789280,
+                "percentage": 47.5790901184082,
+                "rank": "49/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 634060,
+                "percentage": 38.222171783447266,
+                "rank": "12/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 199720,
+                "percentage": 12.039448738098145,
+                "rank": "19/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 35820,
+                "percentage": 2.159288167953491,
+                "rank": "46/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "NOAKHALI"
+        }
+    },
+    {
+        "_id": "17",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 160620,
+                "percentage": 46.637630462646484,
+                "rank": "31/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 196340,
+                "percentage": 57.00929260253906,
+                "rank": "21/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 99860,
+                "percentage": 28.99535369873047,
+                "rank": "49/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 39700,
+                "percentage": 11.527294158935547,
+                "rank": "22/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 8500,
+                "percentage": 2.468060255050659,
+                "rank": "34/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "RANGAMATI"
+        }
+    },
+    {
+        "_id": "18",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 5832360,
+                "percentage": 72.99209594726562,
+                "rank": "1/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 2300940,
+                "percentage": 28.796306610107422,
+                "rank": "64/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 2782300,
+                "percentage": 34.82053756713867,
+                "rank": "21/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 1863120,
+                "percentage": 23.316980361938477,
+                "rank": "1/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 1044040,
+                "percentage": 13.066180229187012,
+                "rank": "1/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "DHAKA"
+        }
+    },
+    {
+        "_id": "19",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 530880,
+                "percentage": 46.963905334472656,
+                "rank": "29/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 616360,
+                "percentage": 54.52583312988281,
+                "rank": "31/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 371080,
+                "percentage": 32.82731628417969,
+                "rank": "33/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 113260,
+                "percentage": 10.019461631774902,
+                "rank": "42/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 29700,
+                "percentage": 2.6273884773254395,
+                "rank": "25/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "FARIDPUR"
+        }
+    },
+    {
+        "_id": "20",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1448620,
+                "percentage": 63.775962829589844,
+                "rank": "4/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 804700,
+                "percentage": 35.42717742919922,
+                "rank": "62/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 983720,
+                "percentage": 43.30859375,
+                "rank": "3/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 397520,
+                "percentage": 17.500946044921875,
+                "rank": "3/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 85480,
+                "percentage": 3.76328444480896,
+                "rank": "6/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GAZIPUR"
+        }
+    },
+    {
+        "_id": "21",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 384900,
+                "percentage": 57.07295608520508,
+                "rank": "13/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 312740,
+                "percentage": 46.37307357788086,
+                "rank": "52/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 269860,
+                "percentage": 40.014827728271484,
+                "rank": "9/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 74320,
+                "percentage": 11.020166397094727,
+                "rank": "30/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 17480,
+                "percentage": 2.591933488845825,
+                "rank": "28/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GOPALGANJ"
+        }
+    },
+    {
+        "_id": "22",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 451800,
+                "percentage": 33.23378372192383,
+                "rank": "62/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 915600,
+                "percentage": 67.35027313232422,
+                "rank": "3/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 289000,
+                "percentage": 21.258440017700195,
+                "rank": "63/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 124120,
+                "percentage": 9.130095481872559,
+                "rank": "51/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 30740,
+                "percentage": 2.2611920833587646,
+                "rank": "44/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "JAMALPUR"
+        }
+    },
+    {
+        "_id": "23",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 613100,
+                "percentage": 38.590816497802734,
+                "rank": "56/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 985820,
+                "percentage": 62.051212310791016,
+                "rank": "9/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 447100,
+                "percentage": 28.14215087890625,
+                "rank": "53/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 127940,
+                "percentage": 8.053024291992188,
+                "rank": "59/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 27860,
+                "percentage": 1.753612995147705,
+                "rank": "59/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "KISHOREGANJ"
+        }
+    },
+    {
+        "_id": "24",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 303460,
+                "percentage": 45.05716323852539,
+                "rank": "38/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 377300,
+                "percentage": 56.020782470703125,
+                "rank": "28/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 219860,
+                "percentage": 32.64439392089844,
+                "rank": "34/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 62060,
+                "percentage": 9.214550971984863,
+                "rank": "50/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 14280,
+                "percentage": 2.120267152786255,
+                "rank": "47/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MADARIPUR"
+        }
+    },
+    {
+        "_id": "25",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 405880,
+                "percentage": 45.98894119262695,
+                "rank": "35/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 495260,
+                "percentage": 56.116302490234375,
+                "rank": "27/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 280900,
+                "percentage": 31.827863693237305,
+                "rank": "38/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 87860,
+                "percentage": 9.955130577087402,
+                "rank": "44/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 18540,
+                "percentage": 2.1007070541381836,
+                "rank": "48/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MANIKGANJ"
+        }
+    },
+    {
+        "_id": "26",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 477140,
+                "percentage": 54.10731887817383,
+                "rank": "16/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 431860,
+                "percentage": 48.97260284423828,
+                "rank": "46/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 338720,
+                "percentage": 38.41059494018555,
+                "rank": "11/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 95660,
+                "percentage": 10.847772598266602,
+                "rank": "33/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15600,
+                "percentage": 1.7690284252166748,
+                "rank": "58/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MUNSHIGANJ"
+        }
+    },
+    {
+        "_id": "27",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1184680,
+                "percentage": 40.66816711425781,
+                "rank": "52/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1692780,
+                "percentage": 58.11042785644531,
+                "rank": "19/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 846860,
+                "percentage": 29.071348190307617,
+                "rank": "48/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 297620,
+                "percentage": 10.216817855834961,
+                "rank": "38/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 75780,
+                "percentage": 2.6014060974121094,
+                "rank": "27/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MYMENSINGH"
+        }
+    },
+    {
+        "_id": "28",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1087100,
+                "percentage": 58.65183639526367,
+                "rank": "9/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 790560,
+                "percentage": 42.652740478515625,
+                "rank": "56/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 724060,
+                "percentage": 39.06489181518555,
+                "rank": "10/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 273680,
+                "percentage": 14.765737533569336,
+                "rank": "8/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 65180,
+                "percentage": 3.5166282653808594,
+                "rank": "9/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARAYANGANJ"
+        }
+    },
+    {
+        "_id": "29",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 617620,
+                "percentage": 48.67442321777344,
+                "rank": "27/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 655920,
+                "percentage": 51.692832946777344,
+                "rank": "40/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 438900,
+                "percentage": 34.58955764770508,
+                "rank": "23/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 143940,
+                "percentage": 11.343862533569336,
+                "rank": "25/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 30120,
+                "percentage": 2.373746871948242,
+                "rank": "37/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARSINGDI"
+        }
+    },
+    {
+        "_id": "30",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 439800,
+                "percentage": 35.57158660888672,
+                "rank": "60/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 794240,
+                "percentage": 64.23915100097656,
+                "rank": "5/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 323800,
+                "percentage": 26.189359664916992,
+                "rank": "57/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 94620,
+                "percentage": 7.652987003326416,
+                "rank": "60/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 23720,
+                "percentage": 1.918503999710083,
+                "rank": "53/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NETRAKONA"
+        }
+    },
+    {
+        "_id": "31",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 300080,
+                "percentage": 46.52402877807617,
+                "rank": "32/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 365480,
+                "percentage": 56.66356658935547,
+                "rank": "26/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 199660,
+                "percentage": 30.95503807067871,
+                "rank": "39/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 64340,
+                "percentage": 9.97519302368164,
+                "rank": "43/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15520,
+                "percentage": 2.4062016010284424,
+                "rank": "35/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "RAJBARI"
+        }
+    },
+    {
+        "_id": "32",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 288080,
+                "percentage": 44.4622802734375,
+                "rank": "41/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 381840,
+                "percentage": 58.933204650878906,
+                "rank": "18/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 209180,
+                "percentage": 32.28485107421875,
+                "rank": "35/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 47280,
+                "percentage": 7.297196865081787,
+                "rank": "62/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 9620,
+                "percentage": 1.4847512245178223,
+                "rank": "61/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHARIATPUR"
+        }
+    },
+    {
+        "_id": "33",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 259380,
+                "percentage": 32.77317428588867,
+                "rank": "64/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 529320,
+                "percentage": 66.88062286376953,
+                "rank": "4/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 181720,
+                "percentage": 22.96068000793457,
+                "rank": "62/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 66040,
+                "percentage": 8.344284057617188,
+                "rank": "57/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 14360,
+                "percentage": 1.814414143562317,
+                "rank": "56/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHERPUR"
+        }
+    },
+    {
+        "_id": "34",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 977980,
+                "percentage": 43.25163269042969,
+                "rank": "46/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1294300,
+                "percentage": 57.24103927612305,
+                "rank": "20/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 658720,
+                "percentage": 29.1322078704834,
+                "rank": "46/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 249060,
+                "percentage": 11.01479721069336,
+                "rank": "31/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 59060,
+                "percentage": 2.611956834793091,
+                "rank": "26/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "TANGAIL"
+        }
+    },
+    {
+        "_id": "35",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 540000,
+                "percentage": 58.34305953979492,
+                "rank": "10/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 396320,
+                "percentage": 42.819480895996094,
+                "rank": "55/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 383240,
+                "percentage": 41.40628433227539,
+                "rank": "5/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 118080,
+                "percentage": 12.757680892944336,
+                "rank": "16/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 27920,
+                "percentage": 3.016552209854126,
+                "rank": "18/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "BAGERHAT"
+        }
+    },
+    {
+        "_id": "36",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 320080,
+                "percentage": 43.92841339111328,
+                "rank": "43/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 400480,
+                "percentage": 54.962669372558594,
+                "rank": "30/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 249820,
+                "percentage": 34.28579330444336,
+                "rank": "25/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 64920,
+                "percentage": 8.909749984741211,
+                "rank": "52/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 13420,
+                "percentage": 1.8417874574661255,
+                "rank": "55/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "CHUADANGA"
+        }
+    },
+    {
+        "_id": "37",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 970320,
+                "percentage": 54.66838073730469,
+                "rank": "15/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 825980,
+                "percentage": 46.53618240356445,
+                "rank": "51/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 647820,
+                "percentage": 36.4985466003418,
+                "rank": "16/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 238220,
+                "percentage": 13.4214506149292,
+                "rank": "12/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 62900,
+                "percentage": 3.5438218116760254,
+                "rank": "8/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JESSORE"
+        }
+    },
+    {
+        "_id": "38",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 513180,
+                "percentage": 45.41255187988281,
+                "rank": "37/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 613120,
+                "percentage": 54.25648498535156,
+                "rank": "33/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 374420,
+                "percentage": 33.133338928222656,
+                "rank": "30/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 113960,
+                "percentage": 10.084598541259766,
+                "rank": "41/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 28540,
+                "percentage": 2.5255744457244873,
+                "rank": "30/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JHENAIDAH"
+        }
+    },
+    {
+        "_id": "39",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 893080,
+                "percentage": 59.673927307128906,
+                "rank": "8/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 615080,
+                "percentage": 41.09849166870117,
+                "rank": "57/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 549780,
+                "percentage": 36.735267639160156,
+                "rank": "15/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 251440,
+                "percentage": 16.80074691772461,
+                "rank": "6/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 80300,
+                "percentage": 5.365495204925537,
+                "rank": "3/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KHULNA"
+        }
+    },
+    {
+        "_id": "40",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 528700,
+                "percentage": 42.46381759643555,
+                "rank": "47/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 709580,
+                "percentage": 56.99163055419922,
+                "rank": "22/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 356460,
+                "percentage": 28.629947662353516,
+                "rank": "51/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 142780,
+                "percentage": 11.467720985412598,
+                "rank": "23/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 36240,
+                "percentage": 2.91070294380188,
+                "rank": "19/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KUSHTIA"
+        }
+    },
+    {
+        "_id": "41",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 269120,
+                "percentage": 47.8520622253418,
+                "rank": "28/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 297880,
+                "percentage": 52.96586227416992,
+                "rank": "38/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 187040,
+                "percentage": 33.25746536254883,
+                "rank": "28/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 63020,
+                "percentage": 11.205547332763672,
+                "rank": "28/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 14460,
+                "percentage": 2.5711238384246826,
+                "rank": "29/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MAGURA"
+        }
+    },
+    {
+        "_id": "42",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 180980,
+                "percentage": 42.029727935791016,
+                "rank": "48/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 257500,
+                "percentage": 59.80027770996094,
+                "rank": "14/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 128940,
+                "percentage": 29.944265365600586,
+                "rank": "43/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 35400,
+                "percentage": 8.221086502075195,
+                "rank": "58/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 8760,
+                "percentage": 2.0343706607818604,
+                "rank": "50/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MEHERPUR"
+        }
+    },
+    {
+        "_id": "43",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 247440,
+                "percentage": 57.18511962890625,
+                "rank": "12/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 213900,
+                "percentage": 49.43378829956055,
+                "rank": "45/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 159180,
+                "percentage": 36.78761291503906,
+                "rank": "14/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 48760,
+                "percentage": 11.268777847290039,
+                "rank": "27/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 10860,
+                "percentage": 2.509822130203247,
+                "rank": "32/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "NARAIL"
+        }
+    },
+    {
+        "_id": "44",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 634500,
+                "percentage": 49.482173919677734,
+                "rank": "25/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 657720,
+                "percentage": 51.29301071166992,
+                "rank": "41/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 449760,
+                "percentage": 35.07502365112305,
+                "rank": "20/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 140160,
+                "percentage": 10.930529594421387,
+                "rank": "32/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 34640,
+                "percentage": 2.7014379501342773,
+                "rank": "23/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "SATKHIRA"
+        }
+    },
+    {
+        "_id": "45",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1013680,
+                "percentage": 46.18384552001953,
+                "rank": "33/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1180000,
+                "percentage": 53.76148223876953,
+                "rank": "36/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 660720,
+                "percentage": 30.102783203125,
+                "rank": "42/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 285780,
+                "percentage": 13.020302772521973,
+                "rank": "14/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 68380,
+                "percentage": 3.1154322624206543,
+                "rank": "14/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "BOGRA"
+        }
+    },
+    {
+        "_id": "46",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 401760,
+                "percentage": 40.83424758911133,
+                "rank": "51/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 587720,
+                "percentage": 59.734928131103516,
+                "rank": "15/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 287560,
+                "percentage": 29.227140426635742,
+                "rank": "45/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 85520,
+                "percentage": 8.692116737365723,
+                "rank": "54/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 23080,
+                "percentage": 2.3458144664764404,
+                "rank": "39/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "CHAPAI NABABGANJ"
+        }
+    },
+    {
+        "_id": "47",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 329160,
+                "percentage": 53.67556381225586,
+                "rank": "17/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 306400,
+                "percentage": 49.9641227722168,
+                "rank": "44/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 209740,
+                "percentage": 34.201942443847656,
+                "rank": "26/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 78120,
+                "percentage": 12.738895416259766,
+                "rank": "17/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 18980,
+                "percentage": 3.095036268234253,
+                "rank": "15/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "JOYPURHAT"
+        }
+    },
+    {
+        "_id": "48",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 783400,
+                "percentage": 45.76576232910156,
+                "rank": "36/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 919600,
+                "percentage": 53.72248458862305,
+                "rank": "37/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 579720,
+                "percentage": 33.86689758300781,
+                "rank": "27/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 173200,
+                "percentage": 10.118241310119629,
+                "rank": "40/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 39240,
+                "percentage": 2.292377471923828,
+                "rank": "41/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NAOGAON"
+        }
+    },
+    {
+        "_id": "49",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 507640,
+                "percentage": 46.14070129394531,
+                "rank": "34/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 598700,
+                "percentage": 54.41737747192383,
+                "rank": "32/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 352360,
+                "percentage": 32.02690505981445,
+                "rank": "37/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 117920,
+                "percentage": 10.718050956726074,
+                "rank": "34/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 31220,
+                "percentage": 2.8376660346984863,
+                "rank": "21/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NATORE"
+        }
+    },
+    {
+        "_id": "50",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 680760,
+                "percentage": 43.685508728027344,
+                "rank": "45/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 883940,
+                "percentage": 56.72391128540039,
+                "rank": "24/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 453300,
+                "percentage": 29.089017868041992,
+                "rank": "47/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 176820,
+                "percentage": 11.346835136413574,
+                "rank": "24/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 44260,
+                "percentage": 2.840238332748413,
+                "rank": "20/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "PABNA"
+        }
+    },
+    {
+        "_id": "51",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 839140,
+                "percentage": 50.08056640625,
+                "rank": "22/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 811740,
+                "percentage": 48.4453125,
+                "rank": "47/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 553280,
+                "percentage": 33.020206451416016,
+                "rank": "32/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 225500,
+                "percentage": 13.458026885986328,
+                "rank": "11/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 85060,
+                "percentage": 5.076451301574707,
+                "rank": "4/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "RAJSHAHI"
+        }
+    },
+    {
+        "_id": "52",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 718500,
+                "percentage": 38.884918212890625,
+                "rank": "55/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1125540,
+                "percentage": 60.913753509521484,
+                "rank": "12/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 502660,
+                "percentage": 27.203750610351562,
+                "rank": "55/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 178960,
+                "percentage": 9.685240745544434,
+                "rank": "45/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 40600,
+                "percentage": 2.1972548961639404,
+                "rank": "45/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "SIRAJGANJ"
+        }
+    },
+    {
+        "_id": "53",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 925840,
+                "percentage": 49.77848434448242,
+                "rank": "23/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 937460,
+                "percentage": 50.40324401855469,
+                "rank": "43/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 615100,
+                "percentage": 33.07131576538086,
+                "rank": "31/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 243300,
+                "percentage": 13.081208229064941,
+                "rank": "13/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 64060,
+                "percentage": 3.4442343711853027,
+                "rank": "10/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "DINAJPUR"
+        }
+    },
+    {
+        "_id": "54",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 551260,
+                "percentage": 38.31227493286133,
+                "rank": "57/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 905360,
+                "percentage": 62.922035217285156,
+                "rank": "7/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 343640,
+                "percentage": 23.882795333862305,
+                "rank": "61/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 153620,
+                "percentage": 10.676507949829102,
+                "rank": "35/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 36240,
+                "percentage": 2.518660545349121,
+                "rank": "31/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "GAIBANDHA"
+        }
+    },
+    {
+        "_id": "55",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 471460,
+                "percentage": 38.00993347167969,
+                "rank": "59/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 787840,
+                "percentage": 63.51704406738281,
+                "rank": "6/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 307840,
+                "percentage": 24.818601608276367,
+                "rank": "60/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 116460,
+                "percentage": 9.389209747314453,
+                "rank": "47/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 28220,
+                "percentage": 2.275146007537842,
+                "rank": "42/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "KURIGRAM"
+        }
+    },
+    {
+        "_id": "56",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 311000,
+                "percentage": 41.96917724609375,
+                "rank": "49/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 440560,
+                "percentage": 59.453182220458984,
+                "rank": "16/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 214620,
+                "percentage": 28.96278190612793,
+                "rank": "50/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 68800,
+                "percentage": 9.284500122070312,
+                "rank": "49/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 17040,
+                "percentage": 2.2995331287384033,
+                "rank": "40/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "LALMONIRHAT"
+        }
+    },
+    {
+        "_id": "57",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 422520,
+                "percentage": 39.70008087158203,
+                "rank": "53/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 652000,
+                "percentage": 61.26206970214844,
+                "rank": "11/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 277780,
+                "percentage": 26.10027503967285,
+                "rank": "58/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 107800,
+                "percentage": 10.128912925720215,
+                "rank": "39/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 26700,
+                "percentage": 2.5087382793426514,
+                "rank": "33/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "NILPHAMARI"
+        }
+    },
+    {
+        "_id": "58",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 274920,
+                "percentage": 46.839542388916016,
+                "rank": "30/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 316100,
+                "percentage": 53.8555908203125,
+                "rank": "35/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 194680,
+                "percentage": 33.168636322021484,
+                "rank": "29/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 60560,
+                "percentage": 10.317919731140137,
+                "rank": "37/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15600,
+                "percentage": 2.6578524112701416,
+                "rank": "24/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "PANCHAGARH"
+        }
+    },
+    {
+        "_id": "59",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 791920,
+                "percentage": 44.7144660949707,
+                "rank": "39/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1004020,
+                "percentage": 56.69034194946289,
+                "rank": "25/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 485600,
+                "percentage": 27.418607711791992,
+                "rank": "54/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 218460,
+                "percentage": 12.334985733032227,
+                "rank": "18/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 62980,
+                "percentage": 3.556062698364258,
+                "rank": "7/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "RANGPUR"
+        }
+    },
+    {
+        "_id": "60",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 371040,
+                "percentage": 44.496681213378906,
+                "rank": "40/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 458660,
+                "percentage": 55.00443649291992,
+                "rank": "29/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 253720,
+                "percentage": 30.427169799804688,
+                "rank": "40/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 94520,
+                "percentage": 11.335235595703125,
+                "rank": "26/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 26960,
+                "percentage": 3.233156681060791,
+                "rank": "11/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "THAKURGAON"
+        }
+    },
+    {
+        "_id": "61",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 449120,
+                "percentage": 39.21828842163086,
+                "rank": "54/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 705880,
+                "percentage": 61.63922119140625,
+                "rank": "10/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 345440,
+                "percentage": 30.164688110351562,
+                "rank": "41/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 78500,
+                "percentage": 6.8548173904418945,
+                "rank": "63/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15360,
+                "percentage": 1.3412737846374512,
+                "rank": "63/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "HABIGANJ"
+        }
+    },
+    {
+        "_id": "62",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 531260,
+                "percentage": 49.0834846496582,
+                "rank": "26/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 583400,
+                "percentage": 53.90073776245117,
+                "rank": "34/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 385520,
+                "percentage": 35.61846160888672,
+                "rank": "19/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 93860,
+                "percentage": 8.671791076660156,
+                "rank": "55/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 19580,
+                "percentage": 1.8090099096298218,
+                "rank": "57/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "MAULVIBAZAR"
+        }
+    },
+    {
+        "_id": "63",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 431040,
+                "percentage": 33.48976135253906,
+                "rank": "61/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 883940,
+                "percentage": 68.67794036865234,
+                "rank": "2/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 321980,
+                "percentage": 25.01631736755371,
+                "rank": "59/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 67380,
+                "percentage": 5.235105514526367,
+                "rank": "64/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 13780,
+                "percentage": 1.0706405639648438,
+                "rank": "64/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SUNAMGANJ"
+        }
+    },
+    {
+        "_id": "64",
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 931500,
+                "percentage": 50.37749481201172,
+                "rank": "21/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 934520,
+                "percentage": 50.54082107543945,
+                "rank": "42/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 639500,
+                "percentage": 34.585514068603516,
+                "rank": "24/64"
+            },
+            "secondary_ education": {
+                "national_average": 12.836710929870605,
+                "number": 216720,
+                "percentage": 11.72067642211914,
+                "rank": "21/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 58300,
+                "percentage": 3.152987480163574,
+                "rank": "12/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SYLHET"
+        }
+    }
+]

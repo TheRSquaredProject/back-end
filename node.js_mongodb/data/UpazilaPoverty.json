@@ -11966,27 +11966,5 @@
                 "rank": "393/544"
             }
         }
-    },
-    {
-        "_id": "545",
-        "location_data": {
-            "division": null,
-            "upazila": null,
-            "zila": null
-        },
-        "poverty_data": {
-            "extreme_poverty_data": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "poverty": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            }
-        }
     }
 ]

@@ -20,6 +20,10 @@
                 "percentage": 28.59307861328125,
                 "rank": "40/64"
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARGUNA"
         }
     },
     {
@@ -43,6 +47,10 @@
                 "percentage": 38.51856994628906,
                 "rank": "14/64"
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARISAL"
         }
     },
     {
@@ -66,6 +74,10 @@
                 "percentage": 25.941913604736328,
                 "rank": "52/64"
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BHOLA"
         }
     },
     {
@@ -89,6 +101,10 @@
                 "percentage": 41.92097091674805,
                 "rank": "10/64"
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "JHALOKATI"
         }
     },
     {
@@ -112,6 +128,10 @@
                 "percentage": 29.91352081298828,
                 "rank": "32/64"
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PATUAKHALI"
         }
     },
     {
@@ -135,6 +155,10 @@
                 "percentage": 38.767845153808594,
                 "rank": "13/64"
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PIROJPUR"
         }
     },
     {
@@ -158,6 +182,10 @@
                 "percentage": 22.829195022583008,
                 "rank": "60/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BANDARBAN"
         }
     },
     {
@@ -181,6 +209,10 @@
                 "percentage": 37.1873779296875,
                 "rank": "18/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BRAHMANBARIA"
         }
     },
     {
@@ -204,6 +236,10 @@
                 "percentage": 37.292423248291016,
                 "rank": "17/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHANDPUR"
         }
     },
     {
@@ -227,6 +263,10 @@
                 "percentage": 58.16580581665039,
                 "rank": "2/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHITTAGONG"
         }
     },
     {
@@ -250,6 +290,10 @@
                 "percentage": 42.84406661987305,
                 "rank": "8/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COMILLA"
         }
     },
     {
@@ -273,6 +317,10 @@
                 "percentage": 42.70638656616211,
                 "rank": "9/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COX'S BAZAR"
         }
     },
     {
@@ -296,6 +344,10 @@
                 "percentage": 57.196693420410156,
                 "rank": "3/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "FENI"
         }
     },
     {
@@ -319,6 +371,10 @@
                 "percentage": 30.26445770263672,
                 "rank": "29/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "KHAGRACHHARI"
         }
     },
     {
@@ -342,6 +398,10 @@
                 "percentage": 36.72333908081055,
                 "rank": "19/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "LAKSHMIPUR"
         }
     },
     {
@@ -365,6 +425,10 @@
                 "percentage": 45.702491760253906,
                 "rank": "6/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "NOAKHALI"
         }
     },
     {
@@ -388,6 +452,10 @@
                 "percentage": 27.043506622314453,
                 "rank": "47/64"
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "RANGAMATI"
         }
     },
     {
@@ -411,6 +479,10 @@
                 "percentage": 66.22662353515625,
                 "rank": "1/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "DHAKA"
         }
     },
     {
@@ -434,6 +506,10 @@
                 "percentage": 31.418243408203125,
                 "rank": "23/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "FARIDPUR"
         }
     },
     {
@@ -457,6 +533,10 @@
                 "percentage": 30.779781341552734,
                 "rank": "25/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GAZIPUR"
         }
     },
     {
@@ -480,6 +560,10 @@
                 "percentage": 28.8845157623291,
                 "rank": "38/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GOPALGANJ"
         }
     },
     {
@@ -503,6 +587,10 @@
                 "percentage": 24.314321517944336,
                 "rank": "56/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "JAMALPUR"
         }
     },
     {
@@ -526,6 +614,10 @@
                 "percentage": 30.613008499145508,
                 "rank": "28/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "KISHOREGANJ"
         }
     },
     {
@@ -549,6 +641,10 @@
                 "percentage": 30.004405975341797,
                 "rank": "31/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MADARIPUR"
         }
     },
     {
@@ -572,6 +668,10 @@
                 "percentage": 29.907793045043945,
                 "rank": "33/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MANIKGANJ"
         }
     },
     {
@@ -595,6 +695,10 @@
                 "percentage": 40.63260269165039,
                 "rank": "12/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MUNSHIGANJ"
         }
     },
     {
@@ -618,6 +722,10 @@
                 "percentage": 30.17351531982422,
                 "rank": "30/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MYMENSINGH"
         }
     },
     {
@@ -641,6 +749,10 @@
                 "percentage": 48.31619644165039,
                 "rank": "4/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARAYANGANJ"
         }
     },
     {
@@ -664,6 +776,10 @@
                 "percentage": 41.31612014770508,
                 "rank": "11/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARSINGDI"
         }
     },
     {
@@ -687,6 +803,10 @@
                 "percentage": 20.15279197692871,
                 "rank": "64/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NETRAKONA"
         }
     },
     {
@@ -710,6 +830,10 @@
                 "percentage": 31.16024398803711,
                 "rank": "24/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "RAJBARI"
         }
     },
     {
@@ -733,6 +857,10 @@
                 "percentage": 29.374420166015625,
                 "rank": "36/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHARIATPUR"
         }
     },
     {
@@ -756,6 +884,10 @@
                 "percentage": 23.320011138916016,
                 "rank": "59/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHERPUR"
         }
     },
     {
@@ -779,6 +911,10 @@
                 "percentage": 32.70008087158203,
                 "rank": "21/64"
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "TANGAIL"
         }
     },
     {
@@ -802,6 +938,10 @@
                 "percentage": 38.44455337524414,
                 "rank": "15/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "BAGERHAT"
         }
     },
     {
@@ -825,6 +965,10 @@
                 "percentage": 27.819337844848633,
                 "rank": "44/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "CHUADANGA"
         }
     },
     {
@@ -848,6 +992,10 @@
                 "percentage": 35.37423324584961,
                 "rank": "20/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JESSORE"
         }
     },
     {
@@ -871,6 +1019,10 @@
                 "percentage": 25.995948791503906,
                 "rank": "51/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JHENAIDAH"
         }
     },
     {
@@ -894,6 +1046,10 @@
                 "percentage": 45.538108825683594,
                 "rank": "7/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KHULNA"
         }
     },
     {
@@ -917,6 +1073,10 @@
                 "percentage": 32.5075798034668,
                 "rank": "22/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KUSHTIA"
         }
     },
     {
@@ -940,6 +1100,10 @@
                 "percentage": 28.115692138671875,
                 "rank": "41/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MAGURA"
         }
     },
     {
@@ -963,6 +1127,10 @@
                 "percentage": 26.135793685913086,
                 "rank": "50/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MEHERPUR"
         }
     },
     {
@@ -986,6 +1154,10 @@
                 "percentage": 27.966190338134766,
                 "rank": "43/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "NARAIL"
         }
     },
     {
@@ -1009,6 +1181,10 @@
                 "percentage": 27.639739990234375,
                 "rank": "45/64"
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "SATKHIRA"
         }
     },
     {
@@ -1032,6 +1208,10 @@
                 "percentage": 28.973541259765625,
                 "rank": "37/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "BOGRA"
         }
     },
     {
@@ -1055,6 +1235,10 @@
                 "percentage": 28.852630615234375,
                 "rank": "39/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "CHAPAI NABABGANJ"
         }
     },
     {
@@ -1078,6 +1262,10 @@
                 "percentage": 26.33724594116211,
                 "rank": "49/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "JOYPURHAT"
         }
     },
     {
@@ -1101,6 +1289,10 @@
                 "percentage": 21.615741729736328,
                 "rank": "63/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NAOGAON"
         }
     },
     {
@@ -1124,6 +1316,10 @@
                 "percentage": 24.485322952270508,
                 "rank": "54/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NATORE"
         }
     },
     {
@@ -1147,6 +1343,10 @@
                 "percentage": 29.901086807250977,
                 "rank": "34/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "PABNA"
         }
     },
     {
@@ -1170,6 +1370,10 @@
                 "percentage": 30.694860458374023,
                 "rank": "26/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "RAJSHAHI"
         }
     },
     {
@@ -1193,6 +1397,10 @@
                 "percentage": 24.927471160888672,
                 "rank": "53/64"
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "SIRAJGANJ"
         }
     },
     {
@@ -1216,6 +1424,10 @@
                 "percentage": 30.618879318237305,
                 "rank": "27/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "DINAJPUR"
         }
     },
     {
@@ -1239,6 +1451,10 @@
                 "percentage": 24.194181442260742,
                 "rank": "57/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "GAIBANDHA"
         }
     },
     {
@@ -1262,6 +1478,10 @@
                 "percentage": 23.664230346679688,
                 "rank": "58/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "KURIGRAM"
         }
     },
     {
@@ -1285,6 +1505,10 @@
                 "percentage": 22.319049835205078,
                 "rank": "61/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "LALMONIRHAT"
         }
     },
     {
@@ -1308,6 +1532,10 @@
                 "percentage": 24.46910285949707,
                 "rank": "55/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "NILPHAMARI"
         }
     },
     {
@@ -1331,6 +1559,10 @@
                 "percentage": 27.273357391357422,
                 "rank": "46/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "PANCHAGARH"
         }
     },
     {
@@ -1354,6 +1586,10 @@
                 "percentage": 29.76714324951172,
                 "rank": "35/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "RANGPUR"
         }
     },
     {
@@ -1377,6 +1613,10 @@
                 "percentage": 26.584989547729492,
                 "rank": "48/64"
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "THAKURGAON"
         }
     },
     {
@@ -1400,6 +1640,10 @@
                 "percentage": 28.080093383789062,
                 "rank": "42/64"
             }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "HABIGANJ"
         }
     },
     {
@@ -1423,6 +1667,10 @@
                 "percentage": 38.1263427734375,
                 "rank": "16/64"
             }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "MAULVIBAZAR"
         }
     },
     {
@@ -1446,6 +1694,10 @@
                 "percentage": 22.082473754882812,
                 "rank": "62/64"
             }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SUNAMGANJ"
         }
     },
     {
@@ -1469,29 +1721,10 @@
                 "percentage": 45.987552642822266,
                 "rank": "5/64"
             }
-        }
-    },
-    {
-        "_id": "65",
-        "employment_data": {
-            "agriculture_employment_info": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "industrial_employment_info": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "service_holders": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SYLHET"
         }
     }
 ]

@@ -18494,39 +18494,5 @@
             "upazila": "ZAKIGANJ",
             "zila": "SYLHET"
         }
-    },
-    {
-        "_id": "545",
-        "child_health_data": {
-            "severely_stunted_children": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "severely_underweight_children": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "stunted_children": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "underweight_children": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            }
-        },
-        "location_data": {
-            "division": null,
-            "upazila": null,
-            "zila": null
-        }
     }
 ]

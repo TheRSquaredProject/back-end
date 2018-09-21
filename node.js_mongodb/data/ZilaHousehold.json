@@ -43,6 +43,10 @@
                     "rank": "51/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARGUNA"
         }
     },
     {
@@ -89,6 +93,10 @@
                     "rank": "29/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARISAL"
         }
     },
     {
@@ -135,6 +143,10 @@
                     "rank": "12/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BHOLA"
         }
     },
     {
@@ -181,6 +193,10 @@
                     "rank": "34/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "JHALOKATI"
         }
     },
     {
@@ -227,6 +243,10 @@
                     "rank": "3/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PATUAKHALI"
         }
     },
     {
@@ -273,6 +293,10 @@
                     "rank": "56/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PIROJPUR"
         }
     },
     {
@@ -319,6 +343,10 @@
                     "rank": "62/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BANDARBAN"
         }
     },
     {
@@ -365,6 +393,10 @@
                     "rank": "32/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BRAHMANBARIA"
         }
     },
     {
@@ -411,6 +443,10 @@
                     "rank": "45/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHANDPUR"
         }
     },
     {
@@ -457,6 +493,10 @@
                     "rank": "57/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHITTAGONG"
         }
     },
     {
@@ -503,6 +543,10 @@
                     "rank": "42/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COMILLA"
         }
     },
     {
@@ -549,6 +593,10 @@
                     "rank": "46/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COX'S BAZAR"
         }
     },
     {
@@ -595,6 +643,10 @@
                     "rank": "40/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "FENI"
         }
     },
     {
@@ -641,6 +693,10 @@
                     "rank": "58/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "KHAGRACHHARI"
         }
     },
     {
@@ -687,6 +743,10 @@
                     "rank": "49/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "LAKSHMIPUR"
         }
     },
     {
@@ -733,6 +793,10 @@
                     "rank": "43/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "NOAKHALI"
         }
     },
     {
@@ -779,6 +843,10 @@
                     "rank": "63/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "RANGAMATI"
         }
     },
     {
@@ -825,6 +893,10 @@
                     "rank": "64/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "DHAKA"
         }
     },
     {
@@ -871,6 +943,10 @@
                     "rank": "24/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "FARIDPUR"
         }
     },
     {
@@ -917,6 +993,10 @@
                     "rank": "60/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GAZIPUR"
         }
     },
     {
@@ -963,6 +1043,10 @@
                     "rank": "38/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GOPALGANJ"
         }
     },
     {
@@ -1009,6 +1093,10 @@
                     "rank": "11/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "JAMALPUR"
         }
     },
     {
@@ -1055,6 +1143,10 @@
                     "rank": "28/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "KISHOREGANJ"
         }
     },
     {
@@ -1101,6 +1193,10 @@
                     "rank": "13/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MADARIPUR"
         }
     },
     {
@@ -1147,6 +1243,10 @@
                     "rank": "27/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MANIKGANJ"
         }
     },
     {
@@ -1193,6 +1293,10 @@
                     "rank": "36/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MUNSHIGANJ"
         }
     },
     {
@@ -1239,6 +1343,10 @@
                     "rank": "37/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MYMENSINGH"
         }
     },
     {
@@ -1285,6 +1393,10 @@
                     "rank": "54/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARAYANGANJ"
         }
     },
     {
@@ -1331,6 +1443,10 @@
                     "rank": "23/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARSINGDI"
         }
     },
     {
@@ -1377,6 +1493,10 @@
                     "rank": "39/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NETRAKONA"
         }
     },
     {
@@ -1423,6 +1543,10 @@
                     "rank": "6/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "RAJBARI"
         }
     },
     {
@@ -1469,6 +1593,10 @@
                     "rank": "18/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHARIATPUR"
         }
     },
     {
@@ -1515,6 +1643,10 @@
                     "rank": "25/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHERPUR"
         }
     },
     {
@@ -1561,6 +1693,10 @@
                     "rank": "26/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "TANGAIL"
         }
     },
     {
@@ -1607,6 +1743,10 @@
                     "rank": "61/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "BAGERHAT"
         }
     },
     {
@@ -1653,6 +1793,10 @@
                     "rank": "22/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "CHUADANGA"
         }
     },
     {
@@ -1699,6 +1843,10 @@
                     "rank": "2/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JESSORE"
         }
     },
     {
@@ -1745,6 +1893,10 @@
                     "rank": "17/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JHENAIDAH"
         }
     },
     {
@@ -1791,6 +1943,10 @@
                     "rank": "52/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KHULNA"
         }
     },
     {
@@ -1837,6 +1993,10 @@
                     "rank": "14/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KUSHTIA"
         }
     },
     {
@@ -1883,6 +2043,10 @@
                     "rank": "10/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MAGURA"
         }
     },
     {
@@ -1929,6 +2093,10 @@
                     "rank": "33/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MEHERPUR"
         }
     },
     {
@@ -1975,6 +2143,10 @@
                     "rank": "7/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "NARAIL"
         }
     },
     {
@@ -2021,6 +2193,10 @@
                     "rank": "53/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "SATKHIRA"
         }
     },
     {
@@ -2067,6 +2243,10 @@
                     "rank": "35/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "BOGRA"
         }
     },
     {
@@ -2113,6 +2293,10 @@
                     "rank": "47/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "CHAPAI NABABGANJ"
         }
     },
     {
@@ -2159,6 +2343,10 @@
                     "rank": "20/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "JOYPURHAT"
         }
     },
     {
@@ -2205,6 +2393,10 @@
                     "rank": "41/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NAOGAON"
         }
     },
     {
@@ -2251,6 +2443,10 @@
                     "rank": "31/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NATORE"
         }
     },
     {
@@ -2297,6 +2493,10 @@
                     "rank": "30/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "PABNA"
         }
     },
     {
@@ -2343,6 +2543,10 @@
                     "rank": "44/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "RAJSHAHI"
         }
     },
     {
@@ -2389,6 +2593,10 @@
                     "rank": "16/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "SIRAJGANJ"
         }
     },
     {
@@ -2435,6 +2643,10 @@
                     "rank": "8/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "DINAJPUR"
         }
     },
     {
@@ -2481,6 +2693,10 @@
                     "rank": "19/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "GAIBANDHA"
         }
     },
     {
@@ -2527,6 +2743,10 @@
                     "rank": "5/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "KURIGRAM"
         }
     },
     {
@@ -2573,6 +2793,10 @@
                     "rank": "4/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "LALMONIRHAT"
         }
     },
     {
@@ -2619,6 +2843,10 @@
                     "rank": "9/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "NILPHAMARI"
         }
     },
     {
@@ -2665,6 +2893,10 @@
                     "rank": "21/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "PANCHAGARH"
         }
     },
     {
@@ -2711,6 +2943,10 @@
                     "rank": "15/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "RANGPUR"
         }
     },
     {
@@ -2757,6 +2993,10 @@
                     "rank": "1/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "THAKURGAON"
         }
     },
     {
@@ -2803,6 +3043,10 @@
                     "rank": "50/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "HABIGANJ"
         }
     },
     {
@@ -2849,6 +3093,10 @@
                     "rank": "55/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "MAULVIBAZAR"
         }
     },
     {
@@ -2895,6 +3143,10 @@
                     "rank": "48/64"
                 }
             }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SUNAMGANJ"
         }
     },
     {
@@ -2941,52 +3193,10 @@
                     "rank": "59/64"
                 }
             }
-        }
-    },
-    {
-        "_id": "65",
-        "household_info": {
-            "electricity": {
-                "national_average": null,
-                "number": null,
-                "percentage": null,
-                "rank": null
-            },
-            "number_of_household": null,
-            "toilet": {
-                "flush_toilet": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                },
-                "without_flush_toilet": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                },
-                "without_toilet": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                }
-            },
-            "water": {
-                "tapwater": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                },
-                "tubewell_water": {
-                    "national_average": null,
-                    "number": null,
-                    "percentage": null,
-                    "rank": null
-                }
-            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SYLHET"
         }
     }
 ]
