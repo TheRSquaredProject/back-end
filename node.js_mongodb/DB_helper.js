@@ -69,5 +69,17 @@ module.exports = {
                 resolve(results.toArray());
             });
         });
+    },
+    getAllCollectionNames : function(db_name) {
+        return new Promise(async (resolve, reject)=>{
+            if(!CloudDB || CloudDB.s.databaseName!=db_name){await initDB(db_name);}
+            await CloudDB.listCollections().toArray(function(err, collInfos) {
+                var allCollections=[];
+                for(var i=0; i <collInfos.length; i++){
+                    allCollections.push(collInfos[i].name);
+                }
+                resolve(allCollections);
+            });
+        });
     }
 }

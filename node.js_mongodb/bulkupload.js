@@ -1,15 +1,15 @@
 const DBHelper=require('./DB_helper');
 const readline = require('readline');
-const rl = readline.createInterface({
+const input_reader = readline.createInterface({
     input: process.stdin,
     output: process.stdout
   });
   console.log("Attempting to upload all files in '/data' directory to mongoDB cloud.")
-  rl.question('Are you sure you want to upload and overwrite all data? (Y/N) ', async (reply) => {
+  input_reader.question('Are you sure you want to upload and overwrite all data? (Y/N) ', async (reply) => {
       if(reply.indexOf("Y")>=0){
          await bulkUpload();
       }
-      rl.close();
+      input_reader.close();
   });
 
 async function bulkUpload(){
@@ -18,13 +18,26 @@ async function bulkUpload(){
     "UpazilaPoverty", "ZilaChildhealth","ZilaEmployment","ZilaHousehold","ZilaLiteracy","ZilaAttendance","ZilaLocation","ZilaPopulation","ZilaPoverty"];
     collectionName=["AllUpazilaData", "AllZilaData","UpazilaDataChildHealth","UpazilaDataEmployment","UpazilaDataHousehold","UpazilaDataLiteracy","UpazilaDataAttendance","UpazilaDataPopulation",
     "UpazilaDataPoverty","ZilaDataChildHealth","ZilaDataEmployment","ZilaDataHousehold","ZilaDataLiteracy","ZilaDataAttendance","ZilaLocation","ZilaPopulation","ZilaPoverty"];
-    for(var i=0;i<jsonFileName.length; i++){
+    
+    var allExistingCollections=await DBHelper.getAllCollectionNames();
+     for(var i=0;i<jsonFileName.length; i++){
+        var all_data;
+        try{
+            all_data = require('./data/'+jsonFileName[i]);
+        }catch(e){
+            console.error('File not found. Skipping update for this collection: ', jsonFileName[i]);
+            continue;
+        }
         let db="rsquared_zilla_upazilla_db";
-        var all_data = require('./data/'+jsonFileName[i]+".json");
-        let deleteExisting= await DBHelper.deleteData(db,collectionName[i],{});
-        console.log("Existing data from "+collectionName[i]+" deleted.", deleteExisting);
-        var newData_id=await DBHelper.addData(db,collectionName[i],all_data);
-        console.log("Data added to collection: "+collectionName[i]+" from: "+jsonFileName[i], newData_id);
+        if(allExistingCollections.indexOf(collectionName[i])>=0){
+            console.log("Overwriting data in: ", collectionName[i]);
+            let deleteExisting= await DBHelper.deleteData(db,collectionName[i],{});
+            console.log("Existing data from "+collectionName[i]+" deleted.", deleteExisting);
+        }else{
+            console.log("Creating new collection: ", collectionName[i]);
+        }
+        await DBHelper.addData(db,collectionName[i],all_data);
+        console.log("Data added to collection '"+collectionName[i]+"' from '"+jsonFileName[i]+"'");
     }
     console.log('TASK COMPLETED');
 }
