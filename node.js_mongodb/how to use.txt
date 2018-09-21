@@ -1,0 +1,29 @@
+The update comes with two additions to upload data into MongoDB: SingleUpload.js & BulkUpload.js
+
+SingleUpload.js:--
+   Uploads a single json file (located inside the /data directory) to MongoDB Cloud DB.
+   How to run the code:
+	1) open cmd and change directory to the location where 'singleupload.js' is located
+	2) run command 'node singleupload.js'
+	3) You'll be prompted to input the filename. Input the name of the file you want to upload. Eg "AllZilaData.json". Press enter.
+	   Note: The file must be present inside the /data directory.
+	4) Now, you'll be promted to enter the name of the collection you want to insert the data into.
+	   So, for the 'AllZilaData.json' we want to insert the data into the collection 'AllZilaData'. Then press enter.
+	   Note: Make sure the collection name exists in the mongoDB cloud. Otherwise, a new collection will be made with the name you entered.
+	
+	The data will now be uploaded and you'll see the progress and the data is being uploaded.
+	On successful completion you'll be shown the message "TASK COMPLETE".
+
+
+BulkUpload.js
+    Uploads all files in /data directory to mongoDB cloud.
+    How to run the code:
+	1) open cmd and change directory to the location where 'bulkupload.js' is located
+	2) run command 'node bulkupload.js'
+	3) You'll be asked to confirm whether or not you're sure to upload and overwite all the data. Enter "Y" and press enter.
+	
+	The data will now be uploaded and you'll see the progress and the data is being uploaded.
+	On successful completion you'll be shown the message "TASK COMPLETE".
+   
+    Note: The file names along with their respective collection name are predefined in the code.
+    Please see the code in the bulkupload.json to see the file names and their corresponding collections.
