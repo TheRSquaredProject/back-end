@@ -1,0 +1,4357 @@
+[
+    {
+        "_id": "1",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 18500,
+                "percentage": 68.26568603515625,
+                "rank": "8/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 48160,
+                "percentage": 82.89156341552734,
+                "rank": "17/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 11300,
+                "percentage": 41.45267868041992,
+                "rank": "18/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 113160,
+                "percentage": 84.0089111328125,
+                "rank": "5/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 191120,
+                "percentage": 77.32643127441406,
+                "rank": "3/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 314800,
+                "percentage": 57.23427963256836,
+                "rank": "11/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 239700,
+                "percentage": 43.58023452758789,
+                "rank": "54/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 236160,
+                "percentage": 42.93661880493164,
+                "rank": "4/64"
+            },
+            "secondary_ education": {
+                "mumber": 61240,
+                "national_average": 12.836710929870605,
+                "percentage": 11.134140968322754,
+                "rank": "29/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 12920,
+                "percentage": 2.3490054607391357,
+                "rank": "38/64"
+            }
+        }
+    },
+    {
+        "_id": "2",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 58840,
+                "percentage": 64.74472045898438,
+                "rank": "24/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 145700,
+                "percentage": 81.67040252685547,
+                "rank": "25/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 35800,
+                "percentage": 41.686073303222656,
+                "rank": "17/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 298940,
+                "percentage": 82.37531280517578,
+                "rank": "11/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 539280,
+                "percentage": 75.10235595703125,
+                "rank": "16/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 830940,
+                "percentage": 61.36021041870117,
+                "rank": "5/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 538420,
+                "percentage": 39.7592658996582,
+                "rank": "58/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 558020,
+                "percentage": 41.20661544799805,
+                "rank": "6/64"
+            },
+            "secondary_ education": {
+                "mumber": 206380,
+                "national_average": 12.836710929870605,
+                "percentage": 15.239994049072266,
+                "rank": "7/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 51380,
+                "percentage": 3.7941222190856934,
+                "rank": "5/64"
+            }
+        }
+    },
+    {
+        "_id": "3",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 33680,
+                "percentage": 50.01484680175781,
+                "rank": "55/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 98120,
+                "percentage": 71.46395111083984,
+                "rank": "55/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 18200,
+                "percentage": 28.715682983398438,
+                "rank": "55/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 225640,
+                "percentage": 72.29270935058594,
+                "rank": "61/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 375640,
+                "percentage": 64.74989318847656,
+                "rank": "56/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 402520,
+                "percentage": 41.78813171386719,
+                "rank": "50/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 583380,
+                "percentage": 60.56434631347656,
+                "rank": "13/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 275040,
+                "percentage": 28.553632736206055,
+                "rank": "52/64"
+            },
+            "secondary_ education": {
+                "mumber": 85020,
+                "national_average": 12.836710929870605,
+                "percentage": 8.826460838317871,
+                "rank": "53/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 19800,
+                "percentage": 2.0555624961853027,
+                "rank": "49/64"
+            }
+        }
+    },
+    {
+        "_id": "4",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 19340,
+                "percentage": 73.25757598876953,
+                "rank": "2/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 44280,
+                "percentage": 87.54447937011719,
+                "rank": "1/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 12060,
+                "percentage": 49.06427764892578,
+                "rank": "1/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 89400,
+                "percentage": 87.06661224365234,
+                "rank": "1/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 165080,
+                "percentage": 80.82647705078125,
+                "rank": "1/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 273360,
+                "percentage": 67.69688415527344,
+                "rank": "2/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 136600,
+                "percentage": 33.82862854003906,
+                "rank": "63/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 185660,
+                "percentage": 45.978206634521484,
+                "rank": "1/64"
+            },
+            "secondary_ education": {
+                "mumber": 69100,
+                "national_average": 12.836710929870605,
+                "percentage": 17.1124324798584,
+                "rank": "4/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 12440,
+                "percentage": 3.080733060836792,
+                "rank": "16/64"
+            }
+        }
+    },
+    {
+        "_id": "5",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 33140,
+                "percentage": 64.2746353149414,
+                "rank": "26/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 86940,
+                "percentage": 79.73220825195312,
+                "rank": "37/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 20980,
+                "percentage": 40.912635803222656,
+                "rank": "21/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 190720,
+                "percentage": 79.25531768798828,
+                "rank": "31/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 331780,
+                "percentage": 73.31830596923828,
+                "rank": "24/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 480120,
+                "percentage": 52.927947998046875,
+                "rank": "20/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 436460,
+                "percentage": 48.11491394042969,
+                "rank": "48/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 342740,
+                "percentage": 37.7833137512207,
+                "rank": "13/64"
+            },
+            "secondary_ education": {
+                "mumber": 106380,
+                "national_average": 12.836710929870605,
+                "percentage": 11.727224349975586,
+                "rank": "20/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 21540,
+                "percentage": 2.3745481967926025,
+                "rank": "36/64"
+            }
+        }
+    },
+    {
+        "_id": "6",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 27120,
+                "percentage": 67.5298843383789,
+                "rank": "13/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 63260,
+                "percentage": 83.58879852294922,
+                "rank": "12/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 16480,
+                "percentage": 42.3868293762207,
+                "rank": "9/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 137240,
+                "percentage": 84.35157012939453,
+                "rank": "2/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 244100,
+                "percentage": 76.9012680053711,
+                "rank": "4/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 443680,
+                "percentage": 65.41058349609375,
+                "rank": "3/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 248220,
+                "percentage": 36.594425201416016,
+                "rank": "61/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 311600,
+                "percentage": 45.938377380371094,
+                "rank": "2/64"
+            },
+            "secondary_ education": {
+                "mumber": 97860,
+                "national_average": 12.836710929870605,
+                "percentage": 14.427244186401367,
+                "rank": "9/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 20620,
+                "percentage": 3.0399527549743652,
+                "rank": "17/64"
+            }
+        }
+    },
+    {
+        "_id": "7",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 5660,
+                "percentage": 38.66120147705078,
+                "rank": "63/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 14840,
+                "percentage": 58.98250961303711,
+                "rank": "64/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 2920,
+                "percentage": 21.0982666015625,
+                "rank": "63/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 44400,
+                "percentage": 68.60321044921875,
+                "rank": "64/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 67820,
+                "percentage": 57.29976272583008,
+                "rank": "64/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 68740,
+                "percentage": 32.820858001708984,
+                "rank": "63/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 146560,
+                "percentage": 69.97708129882812,
+                "rank": "1/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 43820,
+                "percentage": 20.922460556030273,
+                "rank": "64/64"
+            },
+            "secondary_ education": {
+                "mumber": 15960,
+                "national_average": 12.836710929870605,
+                "percentage": 7.620321273803711,
+                "rank": "61/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 3100,
+                "percentage": 1.4801374673843384,
+                "rank": "62/64"
+            }
+        }
+    },
+    {
+        "_id": "8",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 59120,
+                "percentage": 51.62417221069336,
+                "rank": "53/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 149040,
+                "percentage": 72.31441497802734,
+                "rank": "54/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 28980,
+                "percentage": 28.114086151123047,
+                "rank": "57/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 386140,
+                "percentage": 75.03400421142578,
+                "rank": "55/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 623280,
+                "percentage": 66.42510223388672,
+                "rank": "52/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 650700,
+                "percentage": 44.021541595458984,
+                "rank": "42/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 840180,
+                "percentage": 56.840354919433594,
+                "rank": "23/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 473820,
+                "percentage": 32.055152893066406,
+                "rank": "36/64"
+            },
+            "secondary_ education": {
+                "mumber": 138880,
+                "national_average": 12.836710929870605,
+                "percentage": 9.395591735839844,
+                "rank": "46/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 25260,
+                "percentage": 1.708904504776001,
+                "rank": "60/64"
+            }
+        }
+    },
+    {
+        "_id": "9",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 66660,
+                "percentage": 63.20880126953125,
+                "rank": "29/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 152540,
+                "percentage": 82.33833312988281,
+                "rank": "23/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 37500,
+                "percentage": 37.75674819946289,
+                "rank": "31/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 311980,
+                "percentage": 81.79434204101562,
+                "rank": "15/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 568680,
+                "percentage": 73.71477508544922,
+                "rank": "21/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 766600,
+                "percentage": 56.056861877441406,
+                "rank": "14/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 611500,
+                "percentage": 44.715328216552734,
+                "rank": "53/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 548320,
+                "percentage": 40.09535217285156,
+                "rank": "8/64"
+            },
+            "secondary_ education": {
+                "mumber": 176780,
+                "national_average": 12.836710929870605,
+                "percentage": 12.926861763000488,
+                "rank": "15/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 30940,
+                "percentage": 2.2624566555023193,
+                "rank": "43/64"
+            }
+        }
+    },
+    {
+        "_id": "10",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 186720,
+                "percentage": 56.53384780883789,
+                "rank": "45/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 412780,
+                "percentage": 77.67198944091797,
+                "rank": "43/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 123540,
+                "percentage": 33.67496871948242,
+                "rank": "41/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 887660,
+                "percentage": 80.90377044677734,
+                "rank": "23/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 1610700,
+                "percentage": 69.25477600097656,
+                "rank": "44/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 2755340,
+                "percentage": 60.85948181152344,
+                "rank": "7/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1758900,
+                "percentage": 38.850284576416016,
+                "rank": "59/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 1641460,
+                "percentage": 36.256290435791016,
+                "rank": "17/64"
+            },
+            "secondary_ education": {
+                "mumber": 862820,
+                "national_average": 12.836710929870605,
+                "percentage": 19.057823181152344,
+                "rank": "2/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 264200,
+                "percentage": 5.835604667663574,
+                "rank": "2/64"
+            }
+        }
+    },
+    {
+        "_id": "11",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 137360,
+                "percentage": 60.02971649169922,
+                "rank": "36/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 331600,
+                "percentage": 79.93443298339844,
+                "rank": "35/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 75860,
+                "percentage": 34.276161193847656,
+                "rank": "39/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 706560,
+                "percentage": 79.0671615600586,
+                "rank": "34/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 1251380,
+                "percentage": 71.15774536132812,
+                "rank": "36/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1582540,
+                "percentage": 53.222171783447266,
+                "rank": "19/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1405540,
+                "percentage": 47.26951217651367,
+                "rank": "50/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 1073880,
+                "percentage": 36.115501403808594,
+                "rank": "18/64"
+            },
+            "secondary_ education": {
+                "mumber": 412660,
+                "national_average": 12.836710929870605,
+                "percentage": 13.878108978271484,
+                "rank": "10/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 81380,
+                "percentage": 2.7368788719177246,
+                "rank": "22/64"
+            }
+        }
+    },
+    {
+        "_id": "12",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 42680,
+                "percentage": 42.48456954956055,
+                "rank": "61/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 117620,
+                "percentage": 64.09809112548828,
+                "rank": "61/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 21180,
+                "percentage": 21.99833869934082,
+                "rank": "62/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 304960,
+                "percentage": 72.35112762451172,
+                "rank": "60/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 486440,
+                "percentage": 60.67303466796875,
+                "rank": "62/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 439040,
+                "percentage": 38.247901916503906,
+                "rank": "58/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 714880,
+                "percentage": 62.278289794921875,
+                "rank": "8/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 311080,
+                "percentage": 27.100393295288086,
+                "rank": "56/64"
+            },
+            "secondary_ education": {
+                "mumber": 99060,
+                "national_average": 12.836710929870605,
+                "percentage": 8.62982177734375,
+                "rank": "56/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 22860,
+                "percentage": 1.9914973974227905,
+                "rank": "51/64"
+            }
+        }
+    },
+    {
+        "_id": "13",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 40200,
+                "percentage": 61.69429016113281,
+                "rank": "35/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 85260,
+                "percentage": 82.60027313232422,
+                "rank": "19/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 24760,
+                "percentage": 36.15653991699219,
+                "rank": "34/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 179460,
+                "percentage": 84.32478332519531,
+                "rank": "3/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 329680,
+                "percentage": 73.3143539428711,
+                "rank": "25/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 511880,
+                "percentage": 61.1696662902832,
+                "rank": "6/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 324380,
+                "percentage": 38.76341247558594,
+                "rank": "60/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 343780,
+                "percentage": 41.08171463012695,
+                "rank": "7/64"
+            },
+            "secondary_ education": {
+                "mumber": 142340,
+                "national_average": 12.836710929870605,
+                "percentage": 17.009632110595703,
+                "rank": "5/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 26320,
+                "percentage": 3.145240306854248,
+                "rank": "13/64"
+            }
+        }
+    },
+    {
+        "_id": "14",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 13140,
+                "percentage": 56.68680191040039,
+                "rank": "44/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 32640,
+                "percentage": 74.58866882324219,
+                "rank": "51/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 6560,
+                "percentage": 30.856067657470703,
+                "rank": "49/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 83140,
+                "percentage": 80.67145538330078,
+                "rank": "24/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 135480,
+                "percentage": 70.83551025390625,
+                "rank": "39/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 150540,
+                "percentage": 43.72857666015625,
+                "rank": "44/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 204040,
+                "percentage": 59.2691535949707,
+                "rank": "17/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 101700,
+                "percentage": 29.5416259765625,
+                "rank": "44/64"
+            },
+            "secondary_ education": {
+                "mumber": 32080,
+                "national_average": 12.836710929870605,
+                "percentage": 9.318537712097168,
+                "rank": "48/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 6440,
+                "percentage": 1.8706791400909424,
+                "rank": "54/64"
+            }
+        }
+    },
+    {
+        "_id": "15",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 38620,
+                "percentage": 52.18918991088867,
+                "rank": "51/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 95440,
+                "percentage": 74.7610855102539,
+                "rank": "49/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 20620,
+                "percentage": 28.839162826538086,
+                "rank": "54/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 220040,
+                "percentage": 75.03750610351562,
+                "rank": "54/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 374720,
+                "percentage": 66.15819549560547,
+                "rank": "53/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 467520,
+                "percentage": 49.53171920776367,
+                "rank": "24/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 498960,
+                "percentage": 52.86265182495117,
+                "rank": "39/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 328500,
+                "percentage": 34.80315399169922,
+                "rank": "22/64"
+            },
+            "secondary_ education": {
+                "mumber": 97940,
+                "national_average": 12.836710929870605,
+                "percentage": 10.37631893157959,
+                "rank": "36/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 18480,
+                "percentage": 1.9578760862350464,
+                "rank": "52/64"
+            }
+        }
+    },
+    {
+        "_id": "16",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 74620,
+                "percentage": 54.89994430541992,
+                "rank": "48/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 184020,
+                "percentage": 76.7133560180664,
+                "rank": "46/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 41560,
+                "percentage": 31.475311279296875,
+                "rank": "47/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 410220,
+                "percentage": 76.12455749511719,
+                "rank": "52/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 710420,
+                "percentage": 67.87106323242188,
+                "rank": "50/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 889000,
+                "percentage": 53.59037399291992,
+                "rank": "18/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 789280,
+                "percentage": 47.5790901184082,
+                "rank": "49/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 634060,
+                "percentage": 38.222171783447266,
+                "rank": "12/64"
+            },
+            "secondary_ education": {
+                "mumber": 199720,
+                "national_average": 12.836710929870605,
+                "percentage": 12.039448738098145,
+                "rank": "19/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 35820,
+                "percentage": 2.159288167953491,
+                "rank": "46/64"
+            }
+        }
+    },
+    {
+        "_id": "17",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 12240,
+                "percentage": 53.968257904052734,
+                "rank": "49/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 29320,
+                "percentage": 73.66834259033203,
+                "rank": "52/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 6900,
+                "percentage": 32.67045211791992,
+                "rank": "44/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 73140,
+                "percentage": 77.79196166992188,
+                "rank": "42/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 121600,
+                "percentage": 68.46075439453125,
+                "rank": "48/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 160620,
+                "percentage": 46.637630462646484,
+                "rank": "31/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 196340,
+                "percentage": 57.00929260253906,
+                "rank": "21/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 99860,
+                "percentage": 28.99535369873047,
+                "rank": "49/64"
+            },
+            "secondary_ education": {
+                "mumber": 39700,
+                "national_average": 12.836710929870605,
+                "percentage": 11.527294158935547,
+                "rank": "22/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 8500,
+                "percentage": 2.468060255050659,
+                "rank": "34/64"
+            }
+        }
+    },
+    {
+        "_id": "18",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 202420,
+                "percentage": 48.29182052612305,
+                "rank": "57/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 449660,
+                "percentage": 67.87525177001953,
+                "rank": "60/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 181640,
+                "percentage": 31.843202590942383,
+                "rank": "46/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 1032200,
+                "percentage": 78.33821868896484,
+                "rank": "39/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 1865920,
+                "percentage": 62.83236312866211,
+                "rank": "59/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 5832360,
+                "percentage": 72.99209594726562,
+                "rank": "1/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 2300940,
+                "percentage": 28.796306610107422,
+                "rank": "64/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 2782300,
+                "percentage": 34.82053756713867,
+                "rank": "21/64"
+            },
+            "secondary_ education": {
+                "mumber": 1863120,
+                "national_average": 12.836710929870605,
+                "percentage": 23.316980361938477,
+                "rank": "1/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 1044040,
+                "percentage": 13.066180229187012,
+                "rank": "1/64"
+            }
+        }
+    },
+    {
+        "_id": "19",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 42620,
+                "percentage": 59.85955047607422,
+                "rank": "37/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 106940,
+                "percentage": 79.5447769165039,
+                "rank": "38/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 24740,
+                "percentage": 36.48967361450195,
+                "rank": "33/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 237100,
+                "percentage": 79.27114868164062,
+                "rank": "30/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 411400,
+                "percentage": 71.85523986816406,
+                "rank": "31/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 530880,
+                "percentage": 46.963905334472656,
+                "rank": "29/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 616360,
+                "percentage": 54.52583312988281,
+                "rank": "31/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 371080,
+                "percentage": 32.82731628417969,
+                "rank": "33/64"
+            },
+            "secondary_ education": {
+                "mumber": 113260,
+                "national_average": 12.836710929870605,
+                "percentage": 10.019461631774902,
+                "rank": "42/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 29700,
+                "percentage": 2.6273884773254395,
+                "rank": "25/64"
+            }
+        }
+    },
+    {
+        "_id": "20",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 55260,
+                "percentage": 52.161598205566406,
+                "rank": "52/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 134760,
+                "percentage": 75.74190521240234,
+                "rank": "48/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 36100,
+                "percentage": 23.45374298095703,
+                "rank": "60/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 321500,
+                "percentage": 78.73340606689453,
+                "rank": "35/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 547620,
+                "percentage": 64.7213134765625,
+                "rank": "57/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1448620,
+                "percentage": 63.775962829589844,
+                "rank": "4/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 804700,
+                "percentage": 35.42717742919922,
+                "rank": "62/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 983720,
+                "percentage": 43.30859375,
+                "rank": "3/64"
+            },
+            "secondary_ education": {
+                "mumber": 397520,
+                "national_average": 12.836710929870605,
+                "percentage": 17.500946044921875,
+                "rank": "3/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 85480,
+                "percentage": 3.76328444480896,
+                "rank": "6/64"
+            }
+        }
+    },
+    {
+        "_id": "21",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 27700,
+                "percentage": 62.07978820800781,
+                "rank": "33/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 71280,
+                "percentage": 80.36076354980469,
+                "rank": "31/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 16320,
+                "percentage": 38.82017135620117,
+                "rank": "27/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 155340,
+                "percentage": 80.59561920166016,
+                "rank": "25/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 270640,
+                "percentage": 73.52349853515625,
+                "rank": "22/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 384900,
+                "percentage": 57.07295608520508,
+                "rank": "13/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 312740,
+                "percentage": 46.37307357788086,
+                "rank": "52/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 269860,
+                "percentage": 40.014827728271484,
+                "rank": "9/64"
+            },
+            "secondary_ education": {
+                "mumber": 74320,
+                "national_average": 12.836710929870605,
+                "percentage": 11.020166397094727,
+                "rank": "30/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 17480,
+                "percentage": 2.591933488845825,
+                "rank": "28/64"
+            }
+        }
+    },
+    {
+        "_id": "22",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 45000,
+                "percentage": 63.07822036743164,
+                "rank": "30/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 119040,
+                "percentage": 79.82833099365234,
+                "rank": "36/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 27700,
+                "percentage": 41.29397964477539,
+                "rank": "19/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 281560,
+                "percentage": 76.18377685546875,
+                "rank": "51/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 473300,
+                "percentage": 72.02642059326172,
+                "rank": "29/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 451800,
+                "percentage": 33.23378372192383,
+                "rank": "62/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 915600,
+                "percentage": 67.35027313232422,
+                "rank": "3/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 289000,
+                "percentage": 21.258440017700195,
+                "rank": "63/64"
+            },
+            "secondary_ education": {
+                "mumber": 124120,
+                "national_average": 12.836710929870605,
+                "percentage": 9.130095481872559,
+                "rank": "51/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 30740,
+                "percentage": 2.2611920833587646,
+                "rank": "44/64"
+            }
+        }
+    },
+    {
+        "_id": "23",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 53480,
+                "percentage": 52.627437591552734,
+                "rank": "50/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 143880,
+                "percentage": 73.31838989257812,
+                "rank": "53/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 29580,
+                "percentage": 30.4383602142334,
+                "rank": "50/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 399220,
+                "percentage": 76.66397857666016,
+                "rank": "48/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 626160,
+                "percentage": 68.37450408935547,
+                "rank": "49/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 613100,
+                "percentage": 38.590816497802734,
+                "rank": "56/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 985820,
+                "percentage": 62.051212310791016,
+                "rank": "9/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 447100,
+                "percentage": 28.14215087890625,
+                "rank": "53/64"
+            },
+            "secondary_ education": {
+                "mumber": 127940,
+                "national_average": 12.836710929870605,
+                "percentage": 8.053024291992188,
+                "rank": "59/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 27860,
+                "percentage": 1.753612995147705,
+                "rank": "59/64"
+            }
+        }
+    },
+    {
+        "_id": "24",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 27100,
+                "percentage": 58.836299896240234,
+                "rank": "41/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 66780,
+                "percentage": 78.43551635742188,
+                "rank": "39/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 14840,
+                "percentage": 35.082740783691406,
+                "rank": "36/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 151120,
+                "percentage": 78.41427612304688,
+                "rank": "37/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 259840,
+                "percentage": 70.9518814086914,
+                "rank": "38/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 303460,
+                "percentage": 45.05716323852539,
+                "rank": "38/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 377300,
+                "percentage": 56.020782470703125,
+                "rank": "28/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 219860,
+                "percentage": 32.64439392089844,
+                "rank": "34/64"
+            },
+            "secondary_ education": {
+                "mumber": 62060,
+                "national_average": 12.836710929870605,
+                "percentage": 9.214550971984863,
+                "rank": "50/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 14280,
+                "percentage": 2.120267152786255,
+                "rank": "47/64"
+            }
+        }
+    },
+    {
+        "_id": "25",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 29480,
+                "percentage": 66.0394287109375,
+                "rank": "19/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 70080,
+                "percentage": 84.65812683105469,
+                "rank": "7/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 17140,
+                "percentage": 38.55150604248047,
+                "rank": "29/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 158300,
+                "percentage": 81.28787231445312,
+                "rank": "20/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 275000,
+                "percentage": 75.00955200195312,
+                "rank": "17/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 405880,
+                "percentage": 45.98894119262695,
+                "rank": "35/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 495260,
+                "percentage": 56.116302490234375,
+                "rank": "27/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 280900,
+                "percentage": 31.827863693237305,
+                "rank": "38/64"
+            },
+            "secondary_ education": {
+                "mumber": 87860,
+                "national_average": 12.836710929870605,
+                "percentage": 9.955130577087402,
+                "rank": "44/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 18540,
+                "percentage": 2.1007070541381836,
+                "rank": "48/64"
+            }
+        }
+    },
+    {
+        "_id": "26",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 32940,
+                "percentage": 58.90557861328125,
+                "rank": "40/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 76160,
+                "percentage": 80.01680755615234,
+                "rank": "34/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 18520,
+                "percentage": 31.03217124938965,
+                "rank": "48/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 164760,
+                "percentage": 81.89681243896484,
+                "rank": "14/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 292380,
+                "percentage": 70.97290802001953,
+                "rank": "37/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 477140,
+                "percentage": 54.10731887817383,
+                "rank": "16/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 431860,
+                "percentage": 48.97260284423828,
+                "rank": "46/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 338720,
+                "percentage": 38.41059494018555,
+                "rank": "11/64"
+            },
+            "secondary_ education": {
+                "mumber": 95660,
+                "national_average": 12.836710929870605,
+                "percentage": 10.847772598266602,
+                "rank": "33/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15600,
+                "percentage": 1.7690284252166748,
+                "rank": "58/64"
+            }
+        }
+    },
+    {
+        "_id": "27",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 96460,
+                "percentage": 57.15132522583008,
+                "rank": "43/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 252380,
+                "percentage": 74.65980529785156,
+                "rank": "50/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 59040,
+                "percentage": 34.749855041503906,
+                "rank": "37/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 658160,
+                "percentage": 76.21297454833984,
+                "rank": "50/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 1066040,
+                "percentage": 69.20989227294922,
+                "rank": "45/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1184680,
+                "percentage": 40.66816711425781,
+                "rank": "52/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1692780,
+                "percentage": 58.11042785644531,
+                "rank": "19/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 846860,
+                "percentage": 29.071348190307617,
+                "rank": "48/64"
+            },
+            "secondary_ education": {
+                "mumber": 297620,
+                "national_average": 12.836710929870605,
+                "percentage": 10.216817855834961,
+                "rank": "38/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 75780,
+                "percentage": 2.6014060974121094,
+                "rank": "27/64"
+            }
+        }
+    },
+    {
+        "_id": "28",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 51160,
+                "percentage": 45.71122360229492,
+                "rank": "60/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 123260,
+                "percentage": 67.90436553955078,
+                "rank": "59/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 33500,
+                "percentage": 24.723247528076172,
+                "rank": "59/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 303140,
+                "percentage": 77.237060546875,
+                "rank": "45/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 511060,
+                "percentage": 62.216651916503906,
+                "rank": "60/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1087100,
+                "percentage": 58.65183639526367,
+                "rank": "9/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 790560,
+                "percentage": 42.652740478515625,
+                "rank": "56/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 724060,
+                "percentage": 39.06489181518555,
+                "rank": "10/64"
+            },
+            "secondary_ education": {
+                "mumber": 273680,
+                "national_average": 12.836710929870605,
+                "percentage": 14.765737533569336,
+                "rank": "8/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 65180,
+                "percentage": 3.5166282653808594,
+                "rank": "9/64"
+            }
+        }
+    },
+    {
+        "_id": "29",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 47540,
+                "percentage": 55.92940902709961,
+                "rank": "46/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 118380,
+                "percentage": 76.08946990966797,
+                "rank": "47/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 27300,
+                "percentage": 33.01886749267578,
+                "rank": "43/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 278180,
+                "percentage": 77.18646240234375,
+                "rank": "46/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 471400,
+                "percentage": 68.95240783691406,
+                "rank": "46/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 617620,
+                "percentage": 48.67442321777344,
+                "rank": "27/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 655920,
+                "percentage": 51.692832946777344,
+                "rank": "40/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 438900,
+                "percentage": 34.58955764770508,
+                "rank": "23/64"
+            },
+            "secondary_ education": {
+                "mumber": 143940,
+                "national_average": 12.836710929870605,
+                "percentage": 11.343862533569336,
+                "rank": "25/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 30120,
+                "percentage": 2.373746871948242,
+                "rank": "37/64"
+            }
+        }
+    },
+    {
+        "_id": "30",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 37060,
+                "percentage": 49.63835906982422,
+                "rank": "56/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 102260,
+                "percentage": 68.26435089111328,
+                "rank": "58/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 20380,
+                "percentage": 29.323741912841797,
+                "rank": "51/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 278640,
+                "percentage": 71.88483428955078,
+                "rank": "62/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 438340,
+                "percentage": 64.31233215332031,
+                "rank": "58/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 439800,
+                "percentage": 35.57158660888672,
+                "rank": "60/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 794240,
+                "percentage": 64.23915100097656,
+                "rank": "5/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 323800,
+                "percentage": 26.189359664916992,
+                "rank": "57/64"
+            },
+            "secondary_ education": {
+                "mumber": 94620,
+                "national_average": 12.836710929870605,
+                "percentage": 7.652987003326416,
+                "rank": "60/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 23720,
+                "percentage": 1.918503999710083,
+                "rank": "53/64"
+            }
+        }
+    },
+    {
+        "_id": "31",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 27340,
+                "percentage": 70.3551254272461,
+                "rank": "4/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 60020,
+                "percentage": 84.79796600341797,
+                "rank": "6/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 15140,
+                "percentage": 41.962303161621094,
+                "rank": "14/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 124500,
+                "percentage": 81.37254333496094,
+                "rank": "19/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 227000,
+                "percentage": 75.99089813232422,
+                "rank": "8/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 300080,
+                "percentage": 46.52402877807617,
+                "rank": "32/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 365480,
+                "percentage": 56.66356658935547,
+                "rank": "26/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 199660,
+                "percentage": 30.95503807067871,
+                "rank": "39/64"
+            },
+            "secondary_ education": {
+                "mumber": 64340,
+                "national_average": 12.836710929870605,
+                "percentage": 9.97519302368164,
+                "rank": "43/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15520,
+                "percentage": 2.4062016010284424,
+                "rank": "35/64"
+            }
+        }
+    },
+    {
+        "_id": "32",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 24740,
+                "percentage": 51.24275207519531,
+                "rank": "54/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 69260,
+                "percentage": 78.20686340332031,
+                "rank": "41/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 12160,
+                "percentage": 28.397945404052734,
+                "rank": "56/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 155820,
+                "percentage": 79.08039093017578,
+                "rank": "33/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 261980,
+                "percentage": 69.54605865478516,
+                "rank": "42/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 288080,
+                "percentage": 44.4622802734375,
+                "rank": "41/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 381840,
+                "percentage": 58.933204650878906,
+                "rank": "18/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 209180,
+                "percentage": 32.28485107421875,
+                "rank": "35/64"
+            },
+            "secondary_ education": {
+                "mumber": 47280,
+                "national_average": 12.836710929870605,
+                "percentage": 7.297196865081787,
+                "rank": "62/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 9620,
+                "percentage": 1.4847512245178223,
+                "rank": "61/64"
+            }
+        }
+    },
+    {
+        "_id": "33",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 24800,
+                "percentage": 57.91686248779297,
+                "rank": "42/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 70420,
+                "percentage": 77.57215881347656,
+                "rank": "45/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 13580,
+                "percentage": 33.073551177978516,
+                "rank": "42/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 169460,
+                "percentage": 75.02877807617188,
+                "rank": "57/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 278260,
+                "percentage": 69.47468566894531,
+                "rank": "43/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 259380,
+                "percentage": 32.77317428588867,
+                "rank": "64/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 529320,
+                "percentage": 66.88062286376953,
+                "rank": "4/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 181720,
+                "percentage": 22.96068000793457,
+                "rank": "62/64"
+            },
+            "secondary_ education": {
+                "mumber": 66040,
+                "national_average": 12.836710929870605,
+                "percentage": 8.344284057617188,
+                "rank": "57/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 14360,
+                "percentage": 1.814414143562317,
+                "rank": "56/64"
+            }
+        }
+    },
+    {
+        "_id": "34",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 74660,
+                "percentage": 65.03484344482422,
+                "rank": "23/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 185080,
+                "percentage": 82.22123718261719,
+                "rank": "24/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 46740,
+                "percentage": 39.63703918457031,
+                "rank": "24/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 408520,
+                "percentage": 79.2904052734375,
+                "rank": "28/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 715000,
+                "percentage": 73.48104858398438,
+                "rank": "23/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 977980,
+                "percentage": 43.25163269042969,
+                "rank": "46/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1294300,
+                "percentage": 57.24103927612305,
+                "rank": "20/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 658720,
+                "percentage": 29.1322078704834,
+                "rank": "46/64"
+            },
+            "secondary_ education": {
+                "mumber": 249060,
+                "national_average": 12.836710929870605,
+                "percentage": 11.01479721069336,
+                "rank": "31/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 59060,
+                "percentage": 2.611956834793091,
+                "rank": "26/64"
+            }
+        }
+    },
+    {
+        "_id": "35",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 34520,
+                "percentage": 67.31669616699219,
+                "rank": "14/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 85420,
+                "percentage": 83.48319244384766,
+                "rank": "14/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 19800,
+                "percentage": 39.4265251159668,
+                "rank": "26/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 170460,
+                "percentage": 82.87631225585938,
+                "rank": "10/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 310200,
+                "percentage": 75.75091552734375,
+                "rank": "9/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 540000,
+                "percentage": 58.34305953979492,
+                "rank": "10/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 396320,
+                "percentage": 42.819480895996094,
+                "rank": "55/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 383240,
+                "percentage": 41.40628433227539,
+                "rank": "5/64"
+            },
+            "secondary_ education": {
+                "mumber": 118080,
+                "national_average": 12.836710929870605,
+                "percentage": 12.757680892944336,
+                "rank": "16/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 27920,
+                "percentage": 3.016552209854126,
+                "rank": "18/64"
+            }
+        }
+    },
+    {
+        "_id": "36",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 25100,
+                "percentage": 62.65601348876953,
+                "rank": "31/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 58420,
+                "percentage": 80.31344604492188,
+                "rank": "32/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 13860,
+                "percentage": 34.00392532348633,
+                "rank": "40/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 116940,
+                "percentage": 78.24166870117188,
+                "rank": "40/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 214320,
+                "percentage": 70.7280044555664,
+                "rank": "41/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 320080,
+                "percentage": 43.92841339111328,
+                "rank": "43/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 400480,
+                "percentage": 54.962669372558594,
+                "rank": "30/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 249820,
+                "percentage": 34.28579330444336,
+                "rank": "25/64"
+            },
+            "secondary_ education": {
+                "mumber": 64920,
+                "national_average": 12.836710929870605,
+                "percentage": 8.909749984741211,
+                "rank": "52/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 13420,
+                "percentage": 1.8417874574661255,
+                "rank": "55/64"
+            }
+        }
+    },
+    {
+        "_id": "37",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 70860,
+                "percentage": 70.1306381225586,
+                "rank": "6/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 148660,
+                "percentage": 85.21150970458984,
+                "rank": "4/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 46460,
+                "percentage": 44.39984893798828,
+                "rank": "5/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 307140,
+                "percentage": 84.01904296875,
+                "rank": "4/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 573120,
+                "percentage": 76.85664367675781,
+                "rank": "5/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 970320,
+                "percentage": 54.66838073730469,
+                "rank": "15/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 825980,
+                "percentage": 46.53618240356445,
+                "rank": "51/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 647820,
+                "percentage": 36.4985466003418,
+                "rank": "16/64"
+            },
+            "secondary_ education": {
+                "mumber": 238220,
+                "national_average": 12.836710929870605,
+                "percentage": 13.4214506149292,
+                "rank": "12/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 62900,
+                "percentage": 3.5438218116760254,
+                "rank": "8/64"
+            }
+        }
+    },
+    {
+        "_id": "38",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 41580,
+                "percentage": 67.91898345947266,
+                "rank": "10/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 95180,
+                "percentage": 84.64958953857422,
+                "rank": "8/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 25980,
+                "percentage": 42.95634841918945,
+                "rank": "6/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 196900,
+                "percentage": 81.61996459960938,
+                "rank": "17/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 359640,
+                "percentage": 75.65316009521484,
+                "rank": "12/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 513180,
+                "percentage": 45.41255187988281,
+                "rank": "37/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 613120,
+                "percentage": 54.25648498535156,
+                "rank": "33/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 374420,
+                "percentage": 33.133338928222656,
+                "rank": "30/64"
+            },
+            "secondary_ education": {
+                "mumber": 113960,
+                "national_average": 12.836710929870605,
+                "percentage": 10.084598541259766,
+                "rank": "41/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 28540,
+                "percentage": 2.5255744457244873,
+                "rank": "30/64"
+            }
+        }
+    },
+    {
+        "_id": "39",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 52340,
+                "percentage": 67.64021301269531,
+                "rank": "12/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 120920,
+                "percentage": 82.5617904663086,
+                "rank": "21/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 40840,
+                "percentage": 45.69254684448242,
+                "rank": "4/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 248900,
+                "percentage": 83.24971771240234,
+                "rank": "7/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 463000,
+                "percentage": 75.62887573242188,
+                "rank": "13/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 893080,
+                "percentage": 59.673927307128906,
+                "rank": "8/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 615080,
+                "percentage": 41.09849166870117,
+                "rank": "57/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 549780,
+                "percentage": 36.735267639160156,
+                "rank": "15/64"
+            },
+            "secondary_ education": {
+                "mumber": 251440,
+                "national_average": 12.836710929870605,
+                "percentage": 16.80074691772461,
+                "rank": "6/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 80300,
+                "percentage": 5.365495204925537,
+                "rank": "3/64"
+            }
+        }
+    },
+    {
+        "_id": "40",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 43260,
+                "percentage": 66.90380859375,
+                "rank": "16/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 100020,
+                "percentage": 82.56562805175781,
+                "rank": "20/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 27900,
+                "percentage": 41.72898483276367,
+                "rank": "16/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 203600,
+                "percentage": 77.93599700927734,
+                "rank": "41/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 374780,
+                "percentage": 72.92858123779297,
+                "rank": "26/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 528700,
+                "percentage": 42.46381759643555,
+                "rank": "47/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 709580,
+                "percentage": 56.99163055419922,
+                "rank": "22/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 356460,
+                "percentage": 28.629947662353516,
+                "rank": "51/64"
+            },
+            "secondary_ education": {
+                "mumber": 142780,
+                "national_average": 12.836710929870605,
+                "percentage": 11.467720985412598,
+                "rank": "23/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 36240,
+                "percentage": 2.91070294380188,
+                "rank": "19/64"
+            }
+        }
+    },
+    {
+        "_id": "41",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 25020,
+                "percentage": 74.86534881591797,
+                "rank": "1/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 53780,
+                "percentage": 87.13545227050781,
+                "rank": "2/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 14560,
+                "percentage": 47.95783996582031,
+                "rank": "3/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 114180,
+                "percentage": 82.07303619384766,
+                "rank": "13/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 207540,
+                "percentage": 78.42945098876953,
+                "rank": "2/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 269120,
+                "percentage": 47.8520622253418,
+                "rank": "28/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 297880,
+                "percentage": 52.96586227416992,
+                "rank": "38/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 187040,
+                "percentage": 33.25746536254883,
+                "rank": "28/64"
+            },
+            "secondary_ education": {
+                "mumber": 63020,
+                "national_average": 12.836710929870605,
+                "percentage": 11.205547332763672,
+                "rank": "28/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 14460,
+                "percentage": 2.5711238384246826,
+                "rank": "29/64"
+            }
+        }
+    },
+    {
+        "_id": "42",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 14900,
+                "percentage": 67.11711883544922,
+                "rank": "15/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 34660,
+                "percentage": 83.59864807128906,
+                "rank": "11/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 7580,
+                "percentage": 32.64427185058594,
+                "rank": "45/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 64680,
+                "percentage": 80.24813842773438,
+                "rank": "26/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 121820,
+                "percentage": 72.73704528808594,
+                "rank": "28/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 180980,
+                "percentage": 42.029727935791016,
+                "rank": "48/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 257500,
+                "percentage": 59.80027770996094,
+                "rank": "14/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 128940,
+                "percentage": 29.944265365600586,
+                "rank": "43/64"
+            },
+            "secondary_ education": {
+                "mumber": 35400,
+                "national_average": 12.836710929870605,
+                "percentage": 8.221086502075195,
+                "rank": "58/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 8760,
+                "percentage": 2.0343706607818604,
+                "rank": "50/64"
+            }
+        }
+    },
+    {
+        "_id": "43",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 18300,
+                "percentage": 67.77777862548828,
+                "rank": "11/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 41320,
+                "percentage": 83.5422592163086,
+                "rank": "13/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 9380,
+                "percentage": 38.76033020019531,
+                "rank": "28/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 92280,
+                "percentage": 83.81471252441406,
+                "rank": "6/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 161280,
+                "percentage": 76.52305603027344,
+                "rank": "6/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 247440,
+                "percentage": 57.18511962890625,
+                "rank": "12/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 213900,
+                "percentage": 49.43378829956055,
+                "rank": "45/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 159180,
+                "percentage": 36.78761291503906,
+                "rank": "14/64"
+            },
+            "secondary_ education": {
+                "mumber": 48760,
+                "national_average": 12.836710929870605,
+                "percentage": 11.268777847290039,
+                "rank": "27/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 10860,
+                "percentage": 2.509822130203247,
+                "rank": "32/64"
+            }
+        }
+    },
+    {
+        "_id": "44",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 51760,
+                "percentage": 69.60731506347656,
+                "rank": "7/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 106800,
+                "percentage": 83.89630889892578,
+                "rank": "10/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 31800,
+                "percentage": 41.87516403198242,
+                "rank": "15/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 220920,
+                "percentage": 83.20277404785156,
+                "rank": "8/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 411280,
+                "percentage": 75.72543334960938,
+                "rank": "11/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 634500,
+                "percentage": 49.482173919677734,
+                "rank": "25/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 657720,
+                "percentage": 51.29301071166992,
+                "rank": "41/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 449760,
+                "percentage": 35.07502365112305,
+                "rank": "20/64"
+            },
+            "secondary_ education": {
+                "mumber": 140160,
+                "national_average": 12.836710929870605,
+                "percentage": 10.930529594421387,
+                "rank": "32/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 34640,
+                "percentage": 2.7014379501342773,
+                "rank": "23/64"
+            }
+        }
+    },
+    {
+        "_id": "45",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 67880,
+                "percentage": 65.21906280517578,
+                "rank": "20/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 164320,
+                "percentage": 81.20181274414062,
+                "rank": "29/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 49320,
+                "percentage": 40.787296295166016,
+                "rank": "22/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 346920,
+                "percentage": 77.70460510253906,
+                "rank": "43/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 628440,
+                "percentage": 71.918701171875,
+                "rank": "30/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 1013680,
+                "percentage": 46.18384552001953,
+                "rank": "33/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1180000,
+                "percentage": 53.76148223876953,
+                "rank": "36/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 660720,
+                "percentage": 30.102783203125,
+                "rank": "42/64"
+            },
+            "secondary_ education": {
+                "mumber": 285780,
+                "national_average": 12.836710929870605,
+                "percentage": 13.020302772521973,
+                "rank": "14/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 68380,
+                "percentage": 3.1154322624206543,
+                "rank": "14/64"
+            }
+        }
+    },
+    {
+        "_id": "46",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 35360,
+                "percentage": 55.58000946044922,
+                "rank": "47/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 92360,
+                "percentage": 77.67871856689453,
+                "rank": "42/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 19540,
+                "percentage": 28.982500076293945,
+                "rank": "52/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 184740,
+                "percentage": 75.43486785888672,
+                "rank": "53/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 332000,
+                "percentage": 67.09239196777344,
+                "rank": "51/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 401760,
+                "percentage": 40.83424758911133,
+                "rank": "51/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 587720,
+                "percentage": 59.734928131103516,
+                "rank": "15/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 287560,
+                "percentage": 29.227140426635742,
+                "rank": "45/64"
+            },
+            "secondary_ education": {
+                "mumber": 85520,
+                "national_average": 12.836710929870605,
+                "percentage": 8.692116737365723,
+                "rank": "54/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 23080,
+                "percentage": 2.3458144664764404,
+                "rank": "39/64"
+            }
+        }
+    },
+    {
+        "_id": "47",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 20980,
+                "percentage": 70.26121520996094,
+                "rank": "5/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 44720,
+                "percentage": 86.33204650878906,
+                "rank": "3/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 12860,
+                "percentage": 42.19160079956055,
+                "rank": "12/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 91460,
+                "percentage": 81.42806243896484,
+                "rank": "18/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 170020,
+                "percentage": 75.7462387084961,
+                "rank": "10/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 329160,
+                "percentage": 53.67556381225586,
+                "rank": "17/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 306400,
+                "percentage": 49.9641227722168,
+                "rank": "44/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 209740,
+                "percentage": 34.201942443847656,
+                "rank": "26/64"
+            },
+            "secondary_ education": {
+                "mumber": 78120,
+                "national_average": 12.836710929870605,
+                "percentage": 12.738895416259766,
+                "rank": "17/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 18980,
+                "percentage": 3.095036268234253,
+                "rank": "15/64"
+            }
+        }
+    },
+    {
+        "_id": "48",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 51860,
+                "percentage": 62.01865768432617,
+                "rank": "34/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 123040,
+                "percentage": 81.54824829101562,
+                "rank": "26/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 32000,
+                "percentage": 35.50033187866211,
+                "rank": "35/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 259180,
+                "percentage": 79.2890396118164,
+                "rank": "29/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 466080,
+                "percentage": 71.5373306274414,
+                "rank": "34/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 783400,
+                "percentage": 45.76576232910156,
+                "rank": "36/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 919600,
+                "percentage": 53.72248458862305,
+                "rank": "37/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 579720,
+                "percentage": 33.86689758300781,
+                "rank": "27/64"
+            },
+            "secondary_ education": {
+                "mumber": 173200,
+                "national_average": 12.836710929870605,
+                "percentage": 10.118241310119629,
+                "rank": "40/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 39240,
+                "percentage": 2.292377471923828,
+                "rank": "41/64"
+            }
+        }
+    },
+    {
+        "_id": "49",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 38520,
+                "percentage": 67.98446655273438,
+                "rank": "9/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 85320,
+                "percentage": 83.17411041259766,
+                "rank": "16/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 26860,
+                "percentage": 42.594356536865234,
+                "rank": "8/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 183520,
+                "percentage": 81.1748046875,
+                "rank": "21/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 334220,
+                "percentage": 74.5394515991211,
+                "rank": "19/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 507640,
+                "percentage": 46.14070129394531,
+                "rank": "34/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 598700,
+                "percentage": 54.41737747192383,
+                "rank": "32/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 352360,
+                "percentage": 32.02690505981445,
+                "rank": "37/64"
+            },
+            "secondary_ education": {
+                "mumber": 117920,
+                "national_average": 12.836710929870605,
+                "percentage": 10.718050956726074,
+                "rank": "34/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 31220,
+                "percentage": 2.8376660346984863,
+                "rank": "21/64"
+            }
+        }
+    },
+    {
+        "_id": "50",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 53920,
+                "percentage": 63.90140151977539,
+                "rank": "27/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 128140,
+                "percentage": 80.05747985839844,
+                "rank": "33/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 35120,
+                "percentage": 39.58521270751953,
+                "rank": "25/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 276740,
+                "percentage": 77.33624267578125,
+                "rank": "44/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 493920,
+                "percentage": 71.47901916503906,
+                "rank": "35/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 680760,
+                "percentage": 43.685508728027344,
+                "rank": "45/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 883940,
+                "percentage": 56.72391128540039,
+                "rank": "24/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 453300,
+                "percentage": 29.089017868041992,
+                "rank": "47/64"
+            },
+            "secondary_ education": {
+                "mumber": 176820,
+                "national_average": 12.836710929870605,
+                "percentage": 11.346835136413574,
+                "rank": "24/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 44260,
+                "percentage": 2.840238332748413,
+                "rank": "20/64"
+            }
+        }
+    },
+    {
+        "_id": "51",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 67440,
+                "percentage": 71.88232421875,
+                "rank": "3/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 134100,
+                "percentage": 84.81973266601562,
+                "rank": "5/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 47780,
+                "percentage": 48.527320861816406,
+                "rank": "2/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 268160,
+                "percentage": 81.7212142944336,
+                "rank": "16/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 517480,
+                "percentage": 76.2659912109375,
+                "rank": "7/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 839140,
+                "percentage": 50.08056640625,
+                "rank": "22/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 811740,
+                "percentage": 48.4453125,
+                "rank": "47/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 553280,
+                "percentage": 33.020206451416016,
+                "rank": "32/64"
+            },
+            "secondary_ education": {
+                "mumber": 225500,
+                "national_average": 12.836710929870605,
+                "percentage": 13.458026885986328,
+                "rank": "11/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 85060,
+                "percentage": 5.076451301574707,
+                "rank": "4/64"
+            }
+        }
+    },
+    {
+        "_id": "52",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 62040,
+                "percentage": 58.917381286621094,
+                "rank": "39/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 153680,
+                "percentage": 77.6632308959961,
+                "rank": "44/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 36380,
+                "percentage": 34.48341369628906,
+                "rank": "38/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 360780,
+                "percentage": 74.44595336914062,
+                "rank": "58/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 612880,
+                "percentage": 68.60852813720703,
+                "rank": "47/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 718500,
+                "percentage": 38.884918212890625,
+                "rank": "55/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1125540,
+                "percentage": 60.913753509521484,
+                "rank": "12/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 502660,
+                "percentage": 27.203750610351562,
+                "rank": "55/64"
+            },
+            "secondary_ education": {
+                "mumber": 178960,
+                "national_average": 12.836710929870605,
+                "percentage": 9.685240745544434,
+                "rank": "45/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 40600,
+                "percentage": 2.1972548961639404,
+                "rank": "45/64"
+            }
+        }
+    },
+    {
+        "_id": "53",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 68860,
+                "percentage": 66.8543701171875,
+                "rank": "17/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 156400,
+                "percentage": 83.94161224365234,
+                "rank": "9/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 46760,
+                "percentage": 42.84405517578125,
+                "rank": "7/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 334640,
+                "percentage": 82.23729705810547,
+                "rank": "12/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 606660,
+                "percentage": 75.32593536376953,
+                "rank": "14/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 925840,
+                "percentage": 49.77848434448242,
+                "rank": "23/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 937460,
+                "percentage": 50.40324401855469,
+                "rank": "43/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 615100,
+                "percentage": 33.07131576538086,
+                "rank": "31/64"
+            },
+            "secondary_ education": {
+                "mumber": 243300,
+                "national_average": 12.836710929870605,
+                "percentage": 13.081208229064941,
+                "rank": "13/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 64060,
+                "percentage": 3.4442343711853027,
+                "rank": "10/64"
+            }
+        }
+    },
+    {
+        "_id": "54",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 45520,
+                "percentage": 63.36302947998047,
+                "rank": "28/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 117600,
+                "percentage": 80.95828247070312,
+                "rank": "30/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 27880,
+                "percentage": 37.36263656616211,
+                "rank": "32/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 272860,
+                "percentage": 75.03162384033203,
+                "rank": "56/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 463860,
+                "percentage": 70.77725982666016,
+                "rank": "40/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 551260,
+                "percentage": 38.31227493286133,
+                "rank": "57/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 905360,
+                "percentage": 62.922035217285156,
+                "rank": "7/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 343640,
+                "percentage": 23.882795333862305,
+                "rank": "61/64"
+            },
+            "secondary_ education": {
+                "mumber": 153620,
+                "national_average": 12.836710929870605,
+                "percentage": 10.676507949829102,
+                "rank": "35/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 36240,
+                "percentage": 2.518660545349121,
+                "rank": "31/64"
+            }
+        }
+    },
+    {
+        "_id": "55",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 41220,
+                "percentage": 65.15966033935547,
+                "rank": "21/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 114300,
+                "percentage": 83.44284057617188,
+                "rank": "15/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 25940,
+                "percentage": 39.712188720703125,
+                "rank": "23/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 246720,
+                "percentage": 76.5118179321289,
+                "rank": "49/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 428180,
+                "percentage": 72.81725311279297,
+                "rank": "27/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 471460,
+                "percentage": 38.00993347167969,
+                "rank": "59/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 787840,
+                "percentage": 63.51704406738281,
+                "rank": "6/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 307840,
+                "percentage": 24.818601608276367,
+                "rank": "60/64"
+            },
+            "secondary_ education": {
+                "mumber": 116460,
+                "national_average": 12.836710929870605,
+                "percentage": 9.389209747314453,
+                "rank": "47/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 28220,
+                "percentage": 2.275146007537842,
+                "rank": "42/64"
+            }
+        }
+    },
+    {
+        "_id": "56",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 28160,
+                "percentage": 66.63511657714844,
+                "rank": "18/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 69220,
+                "percentage": 82.48331451416016,
+                "rank": "22/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 17160,
+                "percentage": 42.22441101074219,
+                "rank": "10/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 158140,
+                "percentage": 79.5392837524414,
+                "rank": "27/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 272680,
+                "percentage": 74.57608795166016,
+                "rank": "18/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 311000,
+                "percentage": 41.96917724609375,
+                "rank": "49/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 440560,
+                "percentage": 59.453182220458984,
+                "rank": "16/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 214620,
+                "percentage": 28.96278190612793,
+                "rank": "50/64"
+            },
+            "secondary_ education": {
+                "mumber": 68800,
+                "national_average": 12.836710929870605,
+                "percentage": 9.284500122070312,
+                "rank": "49/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 17040,
+                "percentage": 2.2995331287384033,
+                "rank": "40/64"
+            }
+        }
+    },
+    {
+        "_id": "57",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 39060,
+                "percentage": 59.110172271728516,
+                "rank": "38/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 97640,
+                "percentage": 78.36276245117188,
+                "rank": "40/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 24860,
+                "percentage": 37.96579360961914,
+                "rank": "30/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 227560,
+                "percentage": 79.2450180053711,
+                "rank": "32/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 389120,
+                "percentage": 71.61893463134766,
+                "rank": "33/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 422520,
+                "percentage": 39.70008087158203,
+                "rank": "53/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 652000,
+                "percentage": 61.26206970214844,
+                "rank": "11/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 277780,
+                "percentage": 26.10027503967285,
+                "rank": "58/64"
+            },
+            "secondary_ education": {
+                "mumber": 107800,
+                "national_average": 12.836710929870605,
+                "percentage": 10.128912925720215,
+                "rank": "39/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 26700,
+                "percentage": 2.5087382793426514,
+                "rank": "33/64"
+            }
+        }
+    },
+    {
+        "_id": "58",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 25480,
+                "percentage": 65.06639862060547,
+                "rank": "22/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 55440,
+                "percentage": 81.52941131591797,
+                "rank": "27/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 15460,
+                "percentage": 42.19432067871094,
+                "rank": "11/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 122220,
+                "percentage": 83.13154602050781,
+                "rank": "9/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 218600,
+                "percentage": 75.1667709350586,
+                "rank": "15/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 274920,
+                "percentage": 46.839542388916016,
+                "rank": "30/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 316100,
+                "percentage": 53.8555908203125,
+                "rank": "35/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 194680,
+                "percentage": 33.168636322021484,
+                "rank": "29/64"
+            },
+            "secondary_ education": {
+                "mumber": 60560,
+                "national_average": 12.836710929870605,
+                "percentage": 10.317919731140137,
+                "rank": "37/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15600,
+                "percentage": 2.6578524112701416,
+                "rank": "24/64"
+            }
+        }
+    },
+    {
+        "_id": "59",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 58700,
+                "percentage": 62.63337707519531,
+                "rank": "32/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 146340,
+                "percentage": 81.4266586303711,
+                "rank": "28/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 39800,
+                "percentage": 40.921241760253906,
+                "rank": "20/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 319260,
+                "percentage": 76.91899871826172,
+                "rank": "47/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 564100,
+                "percentage": 71.79036712646484,
+                "rank": "32/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 791920,
+                "percentage": 44.7144660949707,
+                "rank": "39/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 1004020,
+                "percentage": 56.69034194946289,
+                "rank": "25/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 485600,
+                "percentage": 27.418607711791992,
+                "rank": "54/64"
+            },
+            "secondary_ education": {
+                "mumber": 218460,
+                "national_average": 12.836710929870605,
+                "percentage": 12.334985733032227,
+                "rank": "18/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 62980,
+                "percentage": 3.556062698364258,
+                "rank": "7/64"
+            }
+        }
+    },
+    {
+        "_id": "60",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 34300,
+                "percentage": 64.44945526123047,
+                "rank": "25/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 78600,
+                "percentage": 82.63246154785156,
+                "rank": "18/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 20760,
+                "percentage": 42.09245681762695,
+                "rank": "13/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 167500,
+                "percentage": 80.92568969726562,
+                "rank": "22/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 301160,
+                "percentage": 74.42665100097656,
+                "rank": "20/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 371040,
+                "percentage": 44.496681213378906,
+                "rank": "40/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 458660,
+                "percentage": 55.00443649291992,
+                "rank": "29/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 253720,
+                "percentage": 30.427169799804688,
+                "rank": "40/64"
+            },
+            "secondary_ education": {
+                "mumber": 94520,
+                "national_average": 12.836710929870605,
+                "percentage": 11.335235595703125,
+                "rank": "26/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 26960,
+                "percentage": 3.233156681060791,
+                "rank": "11/64"
+            }
+        }
+    },
+    {
+        "_id": "61",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 32060,
+                "percentage": 39.96509552001953,
+                "rank": "62/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 85860,
+                "percentage": 62.407325744628906,
+                "rank": "62/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 19100,
+                "percentage": 22.598201751708984,
+                "rank": "61/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 267120,
+                "percentage": 74.0313720703125,
+                "rank": "59/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 404140,
+                "percentage": 60.943389892578125,
+                "rank": "61/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 449120,
+                "percentage": 39.21828842163086,
+                "rank": "54/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 705880,
+                "percentage": 61.63922119140625,
+                "rank": "10/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 345440,
+                "percentage": 30.164688110351562,
+                "rank": "41/64"
+            },
+            "secondary_ education": {
+                "mumber": 78500,
+                "national_average": 12.836710929870605,
+                "percentage": 6.8548173904418945,
+                "rank": "63/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 15360,
+                "percentage": 1.3412737846374512,
+                "rank": "63/64"
+            }
+        }
+    },
+    {
+        "_id": "62",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 39060,
+                "percentage": 47.333980560302734,
+                "rank": "58/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 94660,
+                "percentage": 69.94236755371094,
+                "rank": "57/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 21660,
+                "percentage": 25.958772659301758,
+                "rank": "58/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 240880,
+                "percentage": 78.3502426147461,
+                "rank": "38/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 396260,
+                "percentage": 65.0951156616211,
+                "rank": "55/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 531260,
+                "percentage": 49.0834846496582,
+                "rank": "26/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 583400,
+                "percentage": 53.90073776245117,
+                "rank": "34/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 385520,
+                "percentage": 35.61846160888672,
+                "rank": "19/64"
+            },
+            "secondary_ education": {
+                "mumber": 93860,
+                "national_average": 12.836710929870605,
+                "percentage": 8.671791076660156,
+                "rank": "55/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 19580,
+                "percentage": 1.8090099096298218,
+                "rank": "57/64"
+            }
+        }
+    },
+    {
+        "_id": "63",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 33300,
+                "percentage": 36.577327728271484,
+                "rank": "64/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 102560,
+                "percentage": 60.32231521606445,
+                "rank": "63/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 17300,
+                "percentage": 19.320974349975586,
+                "rank": "64/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 315640,
+                "percentage": 70.76177978515625,
+                "rank": "63/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 468800,
+                "percentage": 58.845680236816406,
+                "rank": "63/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 431040,
+                "percentage": 33.48976135253906,
+                "rank": "61/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 883940,
+                "percentage": 68.67794036865234,
+                "rank": "2/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 321980,
+                "percentage": 25.01631736755371,
+                "rank": "59/64"
+            },
+            "secondary_ education": {
+                "mumber": 67380,
+                "national_average": 12.836710929870605,
+                "percentage": 5.235105514526367,
+                "rank": "64/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 13780,
+                "percentage": 1.0706405639648438,
+                "rank": "64/64"
+            }
+        }
+    },
+    {
+        "_id": "64",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": 57.99014663696289,
+                "number": 71960,
+                "percentage": 46.86726760864258,
+                "rank": "59/64"
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": 77.2594223022461,
+                "number": 173160,
+                "percentage": 69.97494506835938,
+                "rank": "56/64"
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": 34.70724105834961,
+                "number": 46240,
+                "percentage": 28.860315322875977,
+                "rank": "53/64"
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": 78.35710906982422,
+                "number": 448940,
+                "percentage": 78.59593963623047,
+                "rank": "36/64"
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": 69.74742889404297,
+                "number": 740300,
+                "percentage": 65.3732681274414,
+                "rank": "54/64"
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": 50.519447326660156,
+                "number": 931500,
+                "percentage": 50.37749481201172,
+                "rank": "21/64"
+            },
+            "less_than_primary_education": {
+                "national_average": 50.29268264770508,
+                "number": 934520,
+                "percentage": 50.54082107543945,
+                "rank": "42/64"
+            },
+            "primary_education": {
+                "national_average": 33.05747604370117,
+                "number": 639500,
+                "percentage": 34.585514068603516,
+                "rank": "24/64"
+            },
+            "secondary_ education": {
+                "mumber": 216720,
+                "national_average": 12.836710929870605,
+                "percentage": 11.72067642211914,
+                "rank": "21/64"
+            },
+            "university_education": {
+                "national_average": 3.813133716583252,
+                "number": 58300,
+                "percentage": 3.152987480163574,
+                "rank": "12/64"
+            }
+        }
+    },
+    {
+        "_id": "65",
+        "attendance_data": {
+            "school-attendance_of_14_to_15_years": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "school_attendance_of_11_to_13_years": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "school_attendance_of_16_to_18_years": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "school_attendance_of_6_to_10_years": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "school_attendance_of_6_to_18_years": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            }
+        },
+        "literate_data": {
+            "average_data": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "less_than_primary_education": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "primary_education": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "secondary_ education": {
+                "mumber": null,
+                "national_average": null,
+                "percentage": null,
+                "rank": null
+            },
+            "university_education": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            }
+        }
+    }
+]

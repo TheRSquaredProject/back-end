@@ -1,0 +1,652 @@
+[
+    {
+        "_id": "1",
+        "location_data": {
+            "area": 1517787136,
+            "disgeocode": 1004,
+            "division": "BARISAL",
+            "length": 320746.8125,
+            "zila": "BARGUNA"
+        }
+    },
+    {
+        "_id": "2",
+        "location_data": {
+            "area": 2489303808,
+            "disgeocode": 1006,
+            "division": "BARISAL",
+            "length": 394681.03125,
+            "zila": "BARISAL"
+        }
+    },
+    {
+        "_id": "3",
+        "location_data": {
+            "area": 3175582464,
+            "disgeocode": 1009,
+            "division": "BARISAL",
+            "length": 361184.90625,
+            "zila": "BHOLA"
+        }
+    },
+    {
+        "_id": "4",
+        "location_data": {
+            "area": 738168768,
+            "disgeocode": 1042,
+            "division": "BARISAL",
+            "length": 210694.796875,
+            "zila": "JHALOKATI"
+        }
+    },
+    {
+        "_id": "5",
+        "location_data": {
+            "area": 3159387392,
+            "disgeocode": 1078,
+            "division": "BARISAL",
+            "length": 414700.1875,
+            "zila": "PATUAKHALI"
+        }
+    },
+    {
+        "_id": "6",
+        "location_data": {
+            "area": 1271725824,
+            "disgeocode": 1079,
+            "division": "BARISAL",
+            "length": 320655.28125,
+            "zila": "PIROJPUR"
+        }
+    },
+    {
+        "_id": "7",
+        "location_data": {
+            "area": 4598388736,
+            "disgeocode": 2003,
+            "division": "CHITTAGONG",
+            "length": 577215.4375,
+            "zila": "BANDARBAN"
+        }
+    },
+    {
+        "_id": "8",
+        "location_data": {
+            "area": 1921729920,
+            "disgeocode": 2012,
+            "division": "CHITTAGONG",
+            "length": 382093.96875,
+            "zila": "BRAHMANBARIA"
+        }
+    },
+    {
+        "_id": "9",
+        "location_data": {
+            "area": 1697949568,
+            "disgeocode": 2013,
+            "division": "CHITTAGONG",
+            "length": 264917.90625,
+            "zila": "CHANDPUR"
+        }
+    },
+    {
+        "_id": "10",
+        "location_data": {
+            "area": 4779564032,
+            "disgeocode": 2015,
+            "division": "CHITTAGONG",
+            "length": 695380.75,
+            "zila": "CHITTAGONG"
+        }
+    },
+    {
+        "_id": "11",
+        "location_data": {
+            "area": 3086433792,
+            "disgeocode": 2019,
+            "division": "CHITTAGONG",
+            "length": 408265.71875,
+            "zila": "COMILLA"
+        }
+    },
+    {
+        "_id": "12",
+        "location_data": {
+            "area": 2262971904,
+            "disgeocode": 2022,
+            "division": "CHITTAGONG",
+            "length": 575566.5625,
+            "zila": "COX'S BAZAR"
+        }
+    },
+    {
+        "_id": "13",
+        "location_data": {
+            "area": 932124992,
+            "disgeocode": 2030,
+            "division": "CHITTAGONG",
+            "length": 270483.03125,
+            "zila": "FENI"
+        }
+    },
+    {
+        "_id": "14",
+        "location_data": {
+            "area": 2856084736,
+            "disgeocode": 2046,
+            "division": "CHITTAGONG",
+            "length": 397671.375,
+            "zila": "KHAGRACHHARI"
+        }
+    },
+    {
+        "_id": "15",
+        "location_data": {
+            "area": 1557567232,
+            "disgeocode": 2051,
+            "division": "CHITTAGONG",
+            "length": 289637.3125,
+            "zila": "LAKSHMIPUR"
+        }
+    },
+    {
+        "_id": "16",
+        "location_data": {
+            "area": 3147693312,
+            "disgeocode": 2075,
+            "division": "CHITTAGONG",
+            "length": 538777.0625,
+            "zila": "NOAKHALI"
+        }
+    },
+    {
+        "_id": "17",
+        "location_data": {
+            "area": 5766179840,
+            "disgeocode": 2084,
+            "division": "CHITTAGONG",
+            "length": 742573.5625,
+            "zila": "RANGAMATI"
+        }
+    },
+    {
+        "_id": "18",
+        "location_data": {
+            "area": 1474930432,
+            "disgeocode": 3026,
+            "division": "DHAKA",
+            "length": 339001.5,
+            "zila": "DHAKA"
+        }
+    },
+    {
+        "_id": "19",
+        "location_data": {
+            "area": 2042080768,
+            "disgeocode": 3029,
+            "division": "DHAKA",
+            "length": 355360.03125,
+            "zila": "FARIDPUR"
+        }
+    },
+    {
+        "_id": "20",
+        "location_data": {
+            "area": 1815784704,
+            "disgeocode": 3033,
+            "division": "DHAKA",
+            "length": 261155.734375,
+            "zila": "GAZIPUR"
+        }
+    },
+    {
+        "_id": "21",
+        "location_data": {
+            "area": 1474752000,
+            "disgeocode": 3035,
+            "division": "DHAKA",
+            "length": 288302.46875,
+            "zila": "GOPALGANJ"
+        }
+    },
+    {
+        "_id": "22",
+        "location_data": {
+            "area": 2064043392,
+            "disgeocode": 3039,
+            "division": "DHAKA",
+            "length": 377783.0625,
+            "zila": "JAMALPUR"
+        }
+    },
+    {
+        "_id": "23",
+        "location_data": {
+            "area": 2563462656,
+            "disgeocode": 3048,
+            "division": "DHAKA",
+            "length": 360726.375,
+            "zila": "KISHOREGANJ"
+        }
+    },
+    {
+        "_id": "24",
+        "location_data": {
+            "area": 1134375808,
+            "disgeocode": 3054,
+            "division": "DHAKA",
+            "length": 268226.84375,
+            "zila": "MADARIPUR"
+        }
+    },
+    {
+        "_id": "25",
+        "location_data": {
+            "area": 1373184384,
+            "disgeocode": 3056,
+            "division": "DHAKA",
+            "length": 263315.78125,
+            "zila": "MANIKGANJ"
+        }
+    },
+    {
+        "_id": "26",
+        "location_data": {
+            "area": 931978816,
+            "disgeocode": 3059,
+            "division": "DHAKA",
+            "length": 186949.953125,
+            "zila": "MUNSHIGANJ"
+        }
+    },
+    {
+        "_id": "27",
+        "location_data": {
+            "area": 4345228288,
+            "disgeocode": 3061,
+            "division": "DHAKA",
+            "length": 549315.625,
+            "zila": "MYMENSINGH"
+        }
+    },
+    {
+        "_id": "28",
+        "location_data": {
+            "area": 703045184,
+            "disgeocode": 3067,
+            "division": "DHAKA",
+            "length": 185247.96875,
+            "zila": "NARAYANGANJ"
+        }
+    },
+    {
+        "_id": "29",
+        "location_data": {
+            "area": 1167035904,
+            "disgeocode": 3068,
+            "division": "DHAKA",
+            "length": 226183.9375,
+            "zila": "NARSINGDI"
+        }
+    },
+    {
+        "_id": "30",
+        "location_data": {
+            "area": 2802644480,
+            "disgeocode": 3072,
+            "division": "DHAKA",
+            "length": 469322.6875,
+            "zila": "NETRAKONA"
+        }
+    },
+    {
+        "_id": "31",
+        "location_data": {
+            "area": 1138386560,
+            "disgeocode": 3082,
+            "division": "DHAKA",
+            "length": 217190.671875,
+            "zila": "RAJBARI"
+        }
+    },
+    {
+        "_id": "32",
+        "location_data": {
+            "area": 1250900480,
+            "disgeocode": 3086,
+            "division": "DHAKA",
+            "length": 196541.84375,
+            "zila": "SHARIATPUR"
+        }
+    },
+    {
+        "_id": "33",
+        "location_data": {
+            "area": 1324981248,
+            "disgeocode": 3089,
+            "division": "DHAKA",
+            "length": 197565.609375,
+            "zila": "SHERPUR"
+        }
+    },
+    {
+        "_id": "34",
+        "location_data": {
+            "area": 3363695104,
+            "disgeocode": 3093,
+            "division": "DHAKA",
+            "length": 387813.15625,
+            "zila": "TANGAIL"
+        }
+    },
+    {
+        "_id": "35",
+        "location_data": {
+            "area": 3948955136,
+            "disgeocode": 4001,
+            "division": "KHULNA",
+            "length": 451041.25,
+            "zila": "BAGERHAT"
+        }
+    },
+    {
+        "_id": "36",
+        "location_data": {
+            "area": 1164569472,
+            "disgeocode": 4018,
+            "division": "KHULNA",
+            "length": 248278.875,
+            "zila": "CHUADANGA"
+        }
+    },
+    {
+        "_id": "37",
+        "location_data": {
+            "area": 2583337472,
+            "disgeocode": 4041,
+            "division": "KHULNA",
+            "length": 462841.375,
+            "zila": "JESSORE"
+        }
+    },
+    {
+        "_id": "38",
+        "location_data": {
+            "area": 1954972160,
+            "disgeocode": 4044,
+            "division": "KHULNA",
+            "length": 389200.03125,
+            "zila": "JHENAIDAH"
+        }
+    },
+    {
+        "_id": "39",
+        "location_data": {
+            "area": 4204035840,
+            "disgeocode": 4047,
+            "division": "KHULNA",
+            "length": 520366.6875,
+            "zila": "KHULNA"
+        }
+    },
+    {
+        "_id": "40",
+        "location_data": {
+            "area": 1613841920,
+            "disgeocode": 4050,
+            "division": "KHULNA",
+            "length": 330131.1875,
+            "zila": "KUSHTIA"
+        }
+    },
+    {
+        "_id": "41",
+        "location_data": {
+            "area": 1048014144,
+            "disgeocode": 4055,
+            "division": "KHULNA",
+            "length": 206580.03125,
+            "zila": "MAGURA"
+        }
+    },
+    {
+        "_id": "42",
+        "location_data": {
+            "area": 722257536,
+            "disgeocode": 4057,
+            "division": "KHULNA",
+            "length": 193336,
+            "zila": "MEHERPUR"
+        }
+    },
+    {
+        "_id": "43",
+        "location_data": {
+            "area": 994994624,
+            "disgeocode": 4065,
+            "division": "KHULNA",
+            "length": 228372.84375,
+            "zila": "NARAIL"
+        }
+    },
+    {
+        "_id": "44",
+        "location_data": {
+            "area": 3890415360,
+            "disgeocode": 4087,
+            "division": "KHULNA",
+            "length": 513889.90625,
+            "zila": "SATKHIRA"
+        }
+    },
+    {
+        "_id": "45",
+        "location_data": {
+            "area": 2910568192,
+            "disgeocode": 5010,
+            "division": "RAJSHAHI",
+            "length": 453632.84375,
+            "zila": "BOGRA"
+        }
+    },
+    {
+        "_id": "46",
+        "location_data": {
+            "area": 1685414016,
+            "disgeocode": 5070,
+            "division": "RAJSHAHI",
+            "length": 352355.40625,
+            "zila": "CHAPAI NABABGANJ"
+        }
+    },
+    {
+        "_id": "47",
+        "location_data": {
+            "area": 959685888,
+            "disgeocode": 5038,
+            "division": "RAJSHAHI",
+            "length": 234273.40625,
+            "zila": "JOYPURHAT"
+        }
+    },
+    {
+        "_id": "48",
+        "location_data": {
+            "area": 3442526976,
+            "disgeocode": 5064,
+            "division": "RAJSHAHI",
+            "length": 539128.1875,
+            "zila": "NAOGAON"
+        }
+    },
+    {
+        "_id": "49",
+        "location_data": {
+            "area": 1903251840,
+            "disgeocode": 5069,
+            "division": "RAJSHAHI",
+            "length": 366334.46875,
+            "zila": "NATORE"
+        }
+    },
+    {
+        "_id": "50",
+        "location_data": {
+            "area": 2387729920,
+            "disgeocode": 5076,
+            "division": "RAJSHAHI",
+            "length": 325972.40625,
+            "zila": "PABNA"
+        }
+    },
+    {
+        "_id": "51",
+        "location_data": {
+            "area": 2437618688,
+            "disgeocode": 5081,
+            "division": "RAJSHAHI",
+            "length": 370344.9375,
+            "zila": "RAJSHAHI"
+        }
+    },
+    {
+        "_id": "52",
+        "location_data": {
+            "area": 2492419072,
+            "disgeocode": 5088,
+            "division": "RAJSHAHI",
+            "length": 381620.59375,
+            "zila": "SIRAJGANJ"
+        }
+    },
+    {
+        "_id": "53",
+        "location_data": {
+            "area": 3458701568,
+            "disgeocode": 5527,
+            "division": "RANGPUR",
+            "length": 532655.875,
+            "zila": "DINAJPUR"
+        }
+    },
+    {
+        "_id": "54",
+        "location_data": {
+            "area": 2164991232,
+            "disgeocode": 5532,
+            "division": "RANGPUR",
+            "length": 339894.78125,
+            "zila": "GAIBANDHA"
+        }
+    },
+    {
+        "_id": "55",
+        "location_data": {
+            "area": 2273961472,
+            "disgeocode": 5549,
+            "division": "RANGPUR",
+            "length": 535138.125,
+            "zila": "KURIGRAM"
+        }
+    },
+    {
+        "_id": "56",
+        "location_data": {
+            "area": 1275334272,
+            "disgeocode": 5552,
+            "division": "RANGPUR",
+            "length": 563338.6875,
+            "zila": "LALMONIRHAT"
+        }
+    },
+    {
+        "_id": "57",
+        "location_data": {
+            "area": 1587083264,
+            "disgeocode": 5573,
+            "division": "RANGPUR",
+            "length": 269425.4375,
+            "zila": "NILPHAMARI"
+        }
+    },
+    {
+        "_id": "58",
+        "location_data": {
+            "area": 1362715648,
+            "disgeocode": 5577,
+            "division": "RANGPUR",
+            "length": 432655.3125,
+            "zila": "PANCHAGARH"
+        }
+    },
+    {
+        "_id": "59",
+        "location_data": {
+            "area": 2342459136,
+            "disgeocode": 5585,
+            "division": "RANGPUR",
+            "length": 374184.375,
+            "zila": "RANGPUR"
+        }
+    },
+    {
+        "_id": "60",
+        "location_data": {
+            "area": 1813990528,
+            "disgeocode": 5594,
+            "division": "RANGPUR",
+            "length": 341231.625,
+            "zila": "THAKURGAON"
+        }
+    },
+    {
+        "_id": "61",
+        "location_data": {
+            "area": 2581719040,
+            "disgeocode": 6036,
+            "division": "SYLHET",
+            "length": 446169.34375,
+            "zila": "HABIGANJ"
+        }
+    },
+    {
+        "_id": "62",
+        "location_data": {
+            "area": 2679181312,
+            "disgeocode": 6058,
+            "division": "SYLHET",
+            "length": 470238.65625,
+            "zila": "MAULVIBAZAR"
+        }
+    },
+    {
+        "_id": "63",
+        "location_data": {
+            "area": 3692350208,
+            "disgeocode": 6090,
+            "division": "SYLHET",
+            "length": 499216.46875,
+            "zila": "SUNAMGANJ"
+        }
+    },
+    {
+        "_id": "64",
+        "location_data": {
+            "area": 3418625280,
+            "disgeocode": 6091,
+            "division": "SYLHET",
+            "length": 455889.375,
+            "zila": "SYLHET"
+        }
+    },
+    {
+        "_id": "65",
+        "location_data": {
+            "area": null,
+            "disgeocode": null,
+            "division": null,
+            "length": null,
+            "zila": null
+        }
+    }
+]

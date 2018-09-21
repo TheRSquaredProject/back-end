@@ -1,0 +1,2992 @@
+[
+    {
+        "_id": "1",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 62500,
+                "percentage": 28.953950881958008,
+                "rank": "59/64"
+            },
+            "number_of_household": 215860,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 55520,
+                    "percentage": 25.720375061035156,
+                    "rank": "24/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 104160,
+                    "percentage": 48.25349807739258,
+                    "rank": "50/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 5580,
+                    "percentage": 2.5850086212158203,
+                    "rank": "17/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 4020,
+                    "percentage": 1.8623182773590088,
+                    "rank": "39/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 186660,
+                    "percentage": 86.47271728515625,
+                    "rank": "51/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "2",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 277680,
+                "percentage": 54.048583984375,
+                "rank": "22/64"
+            },
+            "number_of_household": 513760,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 166000,
+                    "percentage": 32.31080627441406,
+                    "rank": "12/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 258060,
+                    "percentage": 50.229679107666016,
+                    "rank": "52/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 7220,
+                    "percentage": 1.4053254127502441,
+                    "rank": "3/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 9020,
+                    "percentage": 1.7556835412979126,
+                    "rank": "40/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 482440,
+                    "percentage": 93.90377044677734,
+                    "rank": "29/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "3",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 98460,
+                "percentage": 26.41377830505371,
+                "rank": "62/64"
+            },
+            "number_of_household": 372760,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 34960,
+                    "percentage": 9.37868881225586,
+                    "rank": "60/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 189000,
+                    "percentage": 50.70286560058594,
+                    "rank": "53/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 23180,
+                    "percentage": 6.218478679656982,
+                    "rank": "36/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 1020,
+                    "percentage": 0.27363452315330505,
+                    "rank": "64/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 358460,
+                    "percentage": 96.16374969482422,
+                    "rank": "12/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "4",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 76580,
+                "percentage": 48.628395080566406,
+                "rank": "33/64"
+            },
+            "number_of_household": 157480,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 71700,
+                    "percentage": 45.52959060668945,
+                    "rank": "2/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 65180,
+                    "percentage": 41.389381408691406,
+                    "rank": "37/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 2000,
+                    "percentage": 1.2700024843215942,
+                    "rank": "2/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 1020,
+                    "percentage": 0.6477012634277344,
+                    "rank": "61/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 147420,
+                    "percentage": 93.61189270019531,
+                    "rank": "34/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "5",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 110540,
+                "percentage": 31.89451026916504,
+                "rank": "56/64"
+            },
+            "number_of_household": 346580,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 83120,
+                    "percentage": 23.98291778564453,
+                    "rank": "28/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 164760,
+                    "percentage": 47.5388069152832,
+                    "rank": "49/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 11120,
+                    "percentage": 3.2084946632385254,
+                    "rank": "22/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 2980,
+                    "percentage": 0.8598303198814392,
+                    "rank": "53/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 335640,
+                    "percentage": 96.84343719482422,
+                    "rank": "3/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "6",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 109120,
+                "percentage": 42.60835647583008,
+                "rank": "40/64"
+            },
+            "number_of_household": 256100,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 78480,
+                    "percentage": 30.64427947998047,
+                    "rank": "14/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 112920,
+                    "percentage": 44.0921516418457,
+                    "rank": "46/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 3640,
+                    "percentage": 1.421319842338562,
+                    "rank": "5/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 11620,
+                    "percentage": 4.537290096282959,
+                    "rank": "17/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 191120,
+                    "percentage": 74.6270980834961,
+                    "rank": "56/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "7",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 23020,
+                "percentage": 28.739076614379883,
+                "rank": "60/64"
+            },
+            "number_of_household": 80100,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 6940,
+                    "percentage": 8.664170265197754,
+                    "rank": "62/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 14680,
+                    "percentage": 18.327091217041016,
+                    "rank": "5/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 29480,
+                    "percentage": 36.803993225097656,
+                    "rank": "64/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 8740,
+                    "percentage": 10.911360740661621,
+                    "rank": "6/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 32600,
+                    "percentage": 40.699127197265625,
+                    "rank": "62/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "8",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 385940,
+                "percentage": 71.61360168457031,
+                "rank": "9/64"
+            },
+            "number_of_household": 538920,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 115640,
+                    "percentage": 21.45772933959961,
+                    "rank": "32/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 260800,
+                    "percentage": 48.39308166503906,
+                    "rank": "51/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 18160,
+                    "percentage": 3.3697023391723633,
+                    "rank": "24/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 11980,
+                    "percentage": 2.2229645252227783,
+                    "rank": "32/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 504640,
+                    "percentage": 93.63912963867188,
+                    "rank": "32/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "9",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 281140,
+                "percentage": 55.49327087402344,
+                "rank": "21/64"
+            },
+            "number_of_household": 506620,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 68020,
+                    "percentage": 13.426237106323242,
+                    "rank": "50/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 283440,
+                    "percentage": 55.94725799560547,
+                    "rank": "60/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 12940,
+                    "percentage": 2.554182767868042,
+                    "rank": "16/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 30460,
+                    "percentage": 6.012395858764648,
+                    "rank": "12/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 447380,
+                    "percentage": 88.30682373046875,
+                    "rank": "45/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "10",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 1214760,
+                "percentage": 79.3131332397461,
+                "rank": "5/64"
+            },
+            "number_of_household": 1531600,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 486060,
+                    "percentage": 31.735441207885742,
+                    "rank": "13/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 694740,
+                    "percentage": 45.360408782958984,
+                    "rank": "47/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 38180,
+                    "percentage": 2.4928181171417236,
+                    "rank": "15/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 356760,
+                    "percentage": 23.29328727722168,
+                    "rank": "3/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 1090160,
+                    "percentage": 71.17784881591797,
+                    "rank": "57/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "11",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 788560,
+                "percentage": 74.855712890625,
+                "rank": "6/64"
+            },
+            "number_of_household": 1053440,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 231940,
+                    "percentage": 22.017391204833984,
+                    "rank": "31/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 578420,
+                    "percentage": 54.90773391723633,
+                    "rank": "59/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 32080,
+                    "percentage": 3.0452613830566406,
+                    "rank": "19/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 59880,
+                    "percentage": 5.684234619140625,
+                    "rank": "14/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 940260,
+                    "percentage": 89.25614929199219,
+                    "rank": "42/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "12",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 133560,
+                "percentage": 32.101139068603516,
+                "rank": "55/64"
+            },
+            "number_of_household": 416060,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 59760,
+                    "percentage": 14.363312721252441,
+                    "rank": "49/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 157360,
+                    "percentage": 37.821468353271484,
+                    "rank": "31/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 49280,
+                    "percentage": 11.844446182250977,
+                    "rank": "51/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 10200,
+                    "percentage": 2.4515693187713623,
+                    "rank": "30/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 367320,
+                    "percentage": 88.28534698486328,
+                    "rank": "46/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "13",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 203640,
+                "percentage": 73.35206604003906,
+                "rank": "7/64"
+            },
+            "number_of_household": 277620,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 23580,
+                    "percentage": 8.493624687194824,
+                    "rank": "63/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 183080,
+                    "percentage": 65.94625854492188,
+                    "rank": "64/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 5000,
+                    "percentage": 1.8010231256484985,
+                    "rank": "7/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 15300,
+                    "percentage": 5.511130332946777,
+                    "rank": "15/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 250260,
+                    "percentage": 90.1447982788086,
+                    "rank": "40/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "14",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 44280,
+                "percentage": 33.099117279052734,
+                "rank": "54/64"
+            },
+            "number_of_household": 133780,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 12340,
+                    "percentage": 9.224099159240723,
+                    "rank": "61/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 38900,
+                    "percentage": 29.07758903503418,
+                    "rank": "17/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 11940,
+                    "percentage": 8.925101280212402,
+                    "rank": "42/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 980,
+                    "percentage": 0.7325459718704224,
+                    "rank": "56/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 90060,
+                    "percentage": 67.3194808959961,
+                    "rank": "58/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "15",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 161560,
+                "percentage": 44.21940231323242,
+                "rank": "38/64"
+            },
+            "number_of_household": 365360,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 61740,
+                    "percentage": 16.898401260375977,
+                    "rank": "45/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 209960,
+                    "percentage": 57.466609954833984,
+                    "rank": "61/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 15320,
+                    "percentage": 4.193124771118164,
+                    "rank": "27/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 12760,
+                    "percentage": 3.492445945739746,
+                    "rank": "19/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 321280,
+                    "percentage": 87.93518829345703,
+                    "rank": "49/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "16",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 304360,
+                "percentage": 51.24595642089844,
+                "rank": "26/64"
+            },
+            "number_of_household": 593920,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 119540,
+                    "percentage": 20.127290725708008,
+                    "rank": "37/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 304040,
+                    "percentage": 51.192081451416016,
+                    "rank": "54/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 32480,
+                    "percentage": 5.46875,
+                    "rank": "31/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 17000,
+                    "percentage": 2.8623383045196533,
+                    "rank": "28/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 526400,
+                    "percentage": 88.63146209716797,
+                    "rank": "43/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "17",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 54600,
+                "percentage": 42.490272521972656,
+                "rank": "41/64"
+            },
+            "number_of_household": 128500,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 12900,
+                    "percentage": 10.038910865783691,
+                    "rank": "58/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 35060,
+                    "percentage": 27.284046173095703,
+                    "rank": "13/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 10920,
+                    "percentage": 8.498054504394531,
+                    "rank": "40/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 9840,
+                    "percentage": 7.65758752822876,
+                    "rank": "9/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 49640,
+                    "percentage": 38.63035202026367,
+                    "rank": "63/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "18",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 2702700,
+                "percentage": 97.03721618652344,
+                "rank": "1/64"
+            },
+            "number_of_household": 2785220,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 1446440,
+                    "percentage": 51.93270492553711,
+                    "rank": "1/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 1159160,
+                    "percentage": 41.61825942993164,
+                    "rank": "40/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 11720,
+                    "percentage": 0.4207926392555237,
+                    "rank": "1/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 1868800,
+                    "percentage": 67.09703063964844,
+                    "rank": "1/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 867180,
+                    "percentage": 31.13506507873535,
+                    "rank": "64/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "19",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 206320,
+                "percentage": 49.08641052246094,
+                "rank": "30/64"
+            },
+            "number_of_household": 420320,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 138400,
+                    "percentage": 32.92729187011719,
+                    "rank": "10/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 197840,
+                    "percentage": 47.06890106201172,
+                    "rank": "48/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 10120,
+                    "percentage": 2.407689332962036,
+                    "rank": "14/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 12520,
+                    "percentage": 2.9786829948425293,
+                    "rank": "26/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 396500,
+                    "percentage": 94.33289337158203,
+                    "rank": "24/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "20",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 695600,
+                "percentage": 84.16620635986328,
+                "rank": "4/64"
+            },
+            "number_of_household": 826460,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 247160,
+                    "percentage": 29.905864715576172,
+                    "rank": "17/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 428160,
+                    "percentage": 51.806495666503906,
+                    "rank": "55/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 16920,
+                    "percentage": 2.047286033630371,
+                    "rank": "10/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 309180,
+                    "percentage": 37.41015625,
+                    "rank": "2/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 497720,
+                    "percentage": 60.223121643066406,
+                    "rank": "60/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "21",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 121940,
+                "percentage": 48.7916145324707,
+                "rank": "32/64"
+            },
+            "number_of_household": 249920,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 109780,
+                    "percentage": 43.926055908203125,
+                    "rank": "3/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 103580,
+                    "percentage": 41.44526290893555,
+                    "rank": "39/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 5600,
+                    "percentage": 2.2407169342041016,
+                    "rank": "12/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 14960,
+                    "percentage": 5.985915660858154,
+                    "rank": "13/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 225980,
+                    "percentage": 90.42093658447266,
+                    "rank": "38/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "22",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 221320,
+                "percentage": 39.28431701660156,
+                "rank": "49/64"
+            },
+            "number_of_household": 563380,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 83460,
+                    "percentage": 14.814157485961914,
+                    "rank": "48/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 208580,
+                    "percentage": 37.02296829223633,
+                    "rank": "29/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 52340,
+                    "percentage": 9.29035472869873,
+                    "rank": "43/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 4240,
+                    "percentage": 0.752600371837616,
+                    "rank": "55/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 541880,
+                    "percentage": 96.18374633789062,
+                    "rank": "11/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "23",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 312640,
+                "percentage": 49.84217071533203,
+                "rank": "28/64"
+            },
+            "number_of_household": 627260,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 81860,
+                    "percentage": 13.050410270690918,
+                    "rank": "51/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 200980,
+                    "percentage": 32.04093933105469,
+                    "rank": "23/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 65080,
+                    "percentage": 10.375283241271973,
+                    "rank": "49/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 7440,
+                    "percentage": 1.1861109733581543,
+                    "rank": "46/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 589900,
+                    "percentage": 94.04393768310547,
+                    "rank": "28/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "24",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 148780,
+                "percentage": 58.99754333496094,
+                "rank": "18/64"
+            },
+            "number_of_household": 252180,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 31980,
+                    "percentage": 12.681418418884277,
+                    "rank": "53/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 144980,
+                    "percentage": 57.490684509277344,
+                    "rank": "62/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 3560,
+                    "percentage": 1.41169011592865,
+                    "rank": "4/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 2540,
+                    "percentage": 1.0072170495986938,
+                    "rank": "51/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 241960,
+                    "percentage": 95.94733428955078,
+                    "rank": "13/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "25",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 171460,
+                "percentage": 52.78615951538086,
+                "rank": "23/64"
+            },
+            "number_of_household": 324820,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 63460,
+                    "percentage": 19.536975860595703,
+                    "rank": "39/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 171860,
+                    "percentage": 52.9093017578125,
+                    "rank": "56/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 6780,
+                    "percentage": 2.0873098373413086,
+                    "rank": "11/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 11040,
+                    "percentage": 3.3988053798675537,
+                    "rank": "20/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 305560,
+                    "percentage": 94.070556640625,
+                    "rank": "27/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "26",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 280980,
+                "percentage": 89.60392761230469,
+                "rank": "3/64"
+            },
+            "number_of_household": 313580,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 73220,
+                    "percentage": 23.34970474243164,
+                    "rank": "29/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 182140,
+                    "percentage": 58.08406066894531,
+                    "rank": "63/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 5440,
+                    "percentage": 1.7348045110702515,
+                    "rank": "6/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 9620,
+                    "percentage": 3.0677976608276367,
+                    "rank": "24/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 292640,
+                    "percentage": 93.32228088378906,
+                    "rank": "36/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "27",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 475020,
+                "percentage": 41.113746643066406,
+                "rank": "45/64"
+            },
+            "number_of_household": 1155380,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 147840,
+                    "percentage": 12.79578971862793,
+                    "rank": "52/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 358320,
+                    "percentage": 31.013172149658203,
+                    "rank": "19/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 159000,
+                    "percentage": 13.761706352233887,
+                    "rank": "54/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 33100,
+                    "percentage": 2.864858388900757,
+                    "rank": "27/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 1054620,
+                    "percentage": 91.27906036376953,
+                    "rank": "37/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "28",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 644080,
+                "percentage": 95.31758117675781,
+                "rank": "2/64"
+            },
+            "number_of_household": 675720,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 162940,
+                    "percentage": 24.11353874206543,
+                    "rank": "26/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 363900,
+                    "percentage": 53.853668212890625,
+                    "rank": "58/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 12220,
+                    "percentage": 1.808441400527954,
+                    "rank": "8/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 122180,
+                    "percentage": 18.081453323364258,
+                    "rank": "4/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 532440,
+                    "percentage": 78.79595184326172,
+                    "rank": "54/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "29",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 349620,
+                "percentage": 73.16368865966797,
+                "rank": "8/64"
+            },
+            "number_of_household": 477860,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 95380,
+                    "percentage": 19.959821701049805,
+                    "rank": "38/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 196960,
+                    "percentage": 41.21709060668945,
+                    "rank": "36/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 40760,
+                    "percentage": 8.529695510864258,
+                    "rank": "41/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 15320,
+                    "percentage": 3.2059597969055176,
+                    "rank": "21/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 450900,
+                    "percentage": 94.35818481445312,
+                    "rank": "23/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "30",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 144000,
+                "percentage": 30.04631996154785,
+                "rank": "57/64"
+            },
+            "number_of_household": 479260,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 46340,
+                    "percentage": 9.669073104858398,
+                    "rank": "59/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 139240,
+                    "percentage": 29.053125381469727,
+                    "rank": "16/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 68880,
+                    "percentage": 14.372156143188477,
+                    "rank": "56/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 3360,
+                    "percentage": 0.7010807991027832,
+                    "rank": "57/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 432320,
+                    "percentage": 90.20573425292969,
+                    "rank": "39/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "31",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 110220,
+                "percentage": 46.27981185913086,
+                "rank": "36/64"
+            },
+            "number_of_household": 238160,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 94320,
+                    "percentage": 39.6036262512207,
+                    "rank": "6/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 92520,
+                    "percentage": 38.847835540771484,
+                    "rank": "34/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 7360,
+                    "percentage": 3.0903594493865967,
+                    "rank": "20/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 2060,
+                    "percentage": 0.8649647235870361,
+                    "rank": "52/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 230100,
+                    "percentage": 96.61572265625,
+                    "rank": "6/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "32",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 108060,
+                "percentage": 43.57960891723633,
+                "rank": "39/64"
+            },
+            "number_of_household": 247960,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 71180,
+                    "percentage": 28.70624351501465,
+                    "rank": "20/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 131940,
+                    "percentage": 53.2101936340332,
+                    "rank": "57/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 5680,
+                    "percentage": 2.290692090988159,
+                    "rank": "13/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 1720,
+                    "percentage": 0.6936602592468262,
+                    "rank": "59/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 236000,
+                    "percentage": 95.17664337158203,
+                    "rank": "18/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "33",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 142600,
+                "percentage": 41.76673889160156,
+                "rank": "43/64"
+            },
+            "number_of_household": 341420,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 39500,
+                    "percentage": 11.569328308105469,
+                    "rank": "55/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 129600,
+                    "percentage": 37.959110260009766,
+                    "rank": "32/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 33840,
+                    "percentage": 9.911545753479004,
+                    "rank": "47/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 2060,
+                    "percentage": 0.6033623814582825,
+                    "rank": "62/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 321620,
+                    "percentage": 94.20069122314453,
+                    "rank": "25/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "34",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 488100,
+                "percentage": 56.103450775146484,
+                "rank": "20/64"
+            },
+            "number_of_household": 870000,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 176660,
+                    "percentage": 20.30574607849121,
+                    "rank": "34/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 374080,
+                    "percentage": 42.99769973754883,
+                    "rank": "44/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 52620,
+                    "percentage": 6.048275947570801,
+                    "rank": "35/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 20940,
+                    "percentage": 2.4068963527679443,
+                    "rank": "31/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 819520,
+                    "percentage": 94.19770050048828,
+                    "rank": "26/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "35",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 144080,
+                "percentage": 40.66610336303711,
+                "rank": "46/64"
+            },
+            "number_of_household": 354300,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 124740,
+                    "percentage": 35.20745086669922,
+                    "rank": "8/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 151620,
+                    "percentage": 42.79424285888672,
+                    "rank": "42/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 6840,
+                    "percentage": 1.9305672645568848,
+                    "rank": "9/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 22420,
+                    "percentage": 6.327970504760742,
+                    "rank": "10/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 210320,
+                    "percentage": 59.362125396728516,
+                    "rank": "61/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "36",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 168300,
+                "percentage": 60.66176223754883,
+                "rank": "16/64"
+            },
+            "number_of_household": 277440,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 53980,
+                    "percentage": 19.456459045410156,
+                    "rank": "40/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 73240,
+                    "percentage": 26.398500442504883,
+                    "rank": "12/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 18440,
+                    "percentage": 6.646481990814209,
+                    "rank": "37/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 8520,
+                    "percentage": 3.070934295654297,
+                    "rank": "23/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 262120,
+                    "percentage": 94.47808074951172,
+                    "rank": "22/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "37",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 401560,
+                "percentage": 61.179840087890625,
+                "rank": "14/64"
+            },
+            "number_of_household": 656360,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 189800,
+                    "percentage": 28.917057037353516,
+                    "rank": "19/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 208900,
+                    "percentage": 31.82704734802246,
+                    "rank": "22/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 29280,
+                    "percentage": 4.46096658706665,
+                    "rank": "29/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 7720,
+                    "percentage": 1.176183819770813,
+                    "rank": "47/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 636920,
+                    "percentage": 97.0382080078125,
+                    "rank": "2/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "38",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 246400,
+                "percentage": 58.3388557434082,
+                "rank": "19/64"
+            },
+            "number_of_household": 422360,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 101460,
+                    "percentage": 24.022159576416016,
+                    "rank": "27/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 139620,
+                    "percentage": 33.05710983276367,
+                    "rank": "24/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 24140,
+                    "percentage": 5.715503692626953,
+                    "rank": "33/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 10400,
+                    "percentage": 2.4623541831970215,
+                    "rank": "29/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 402160,
+                    "percentage": 95.21735382080078,
+                    "rank": "17/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "39",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 351780,
+                "percentage": 64.27787780761719,
+                "rank": "11/64"
+            },
+            "number_of_household": 547280,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 228040,
+                    "percentage": 41.667884826660156,
+                    "rank": "5/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 198580,
+                    "percentage": 36.2849006652832,
+                    "rank": "28/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 20560,
+                    "percentage": 3.756760835647583,
+                    "rank": "25/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 11100,
+                    "percentage": 2.028212308883667,
+                    "rank": "37/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 458360,
+                    "percentage": 83.75237274169922,
+                    "rank": "52/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "40",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 307080,
+                "percentage": 64.33689880371094,
+                "rank": "10/64"
+            },
+            "number_of_household": 477300,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 122840,
+                    "percentage": 25.736433029174805,
+                    "rank": "23/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 159800,
+                    "percentage": 33.4799919128418,
+                    "rank": "25/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 21200,
+                    "percentage": 4.441650867462158,
+                    "rank": "28/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 7220,
+                    "percentage": 1.512675404548645,
+                    "rank": "41/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 457700,
+                    "percentage": 95.89356994628906,
+                    "rank": "14/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "41",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 85340,
+                "percentage": 41.43523025512695,
+                "rank": "44/64"
+            },
+            "number_of_household": 205960,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 88200,
+                    "percentage": 42.823848724365234,
+                    "rank": "4/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 71180,
+                    "percentage": 34.56010818481445,
+                    "rank": "26/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 6500,
+                    "percentage": 3.1559526920318604,
+                    "rank": "21/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 2700,
+                    "percentage": 1.310934066772461,
+                    "rank": "45/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 198320,
+                    "percentage": 96.29054260253906,
+                    "rank": "10/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "42",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 101200,
+                "percentage": 60.846561431884766,
+                "rank": "15/64"
+            },
+            "number_of_household": 166320,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 33720,
+                    "percentage": 20.274169921875,
+                    "rank": "35/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 42280,
+                    "percentage": 25.420873641967773,
+                    "rank": "11/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 13280,
+                    "percentage": 7.984607696533203,
+                    "rank": "39/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 5040,
+                    "percentage": 3.0303030014038086,
+                    "rank": "25/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 155700,
+                    "percentage": 93.6147232055664,
+                    "rank": "33/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "43",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 74700,
+                "percentage": 45.92966079711914,
+                "rank": "37/64"
+            },
+            "number_of_household": 162640,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 48780,
+                    "percentage": 29.99262237548828,
+                    "rank": "16/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 67340,
+                    "percentage": 41.404327392578125,
+                    "rank": "38/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 4660,
+                    "percentage": 2.8652238845825195,
+                    "rank": "18/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 1900,
+                    "percentage": 1.1682243347167969,
+                    "rank": "48/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 156940,
+                    "percentage": 96.49532318115234,
+                    "rank": "7/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "44",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 198040,
+                "percentage": 42.152313232421875,
+                "rank": "42/64"
+            },
+            "number_of_household": 469820,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 97280,
+                    "percentage": 20.70580291748047,
+                    "rank": "33/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 175820,
+                    "percentage": 37.4228401184082,
+                    "rank": "30/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 17800,
+                    "percentage": 3.7886850833892822,
+                    "rank": "26/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 28320,
+                    "percentage": 6.027840614318848,
+                    "rank": "11/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 371460,
+                    "percentage": 79.06432342529297,
+                    "rank": "53/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "45",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 455540,
+                "percentage": 52.536041259765625,
+                "rank": "24/64"
+            },
+            "number_of_household": 867100,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 291500,
+                    "percentage": 33.61780548095703,
+                    "rank": "9/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 275400,
+                    "percentage": 31.76104164123535,
+                    "rank": "21/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 89560,
+                    "percentage": 10.328681945800781,
+                    "rank": "48/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 36960,
+                    "percentage": 4.262484073638916,
+                    "rank": "18/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 810280,
+                    "percentage": 93.44712829589844,
+                    "rank": "35/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "46",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 174760,
+                "percentage": 48.815643310546875,
+                "rank": "31/64"
+            },
+            "number_of_household": 358000,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 57320,
+                    "percentage": 16.011173248291016,
+                    "rank": "46/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 65220,
+                    "percentage": 18.217876434326172,
+                    "rank": "4/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 44840,
+                    "percentage": 12.525139808654785,
+                    "rank": "53/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 29940,
+                    "percentage": 8.363128662109375,
+                    "rank": "7/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 315680,
+                    "percentage": 88.17877197265625,
+                    "rank": "47/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "47",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 126640,
+                "percentage": 52.2054557800293,
+                "rank": "25/64"
+            },
+            "number_of_household": 242580,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 73820,
+                    "percentage": 30.431198120117188,
+                    "rank": "15/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 50060,
+                    "percentage": 20.636491775512695,
+                    "rank": "8/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 49780,
+                    "percentage": 20.52106475830078,
+                    "rank": "57/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 5080,
+                    "percentage": 2.0941543579101562,
+                    "rank": "36/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 230080,
+                    "percentage": 94.84706115722656,
+                    "rank": "20/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "48",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 258980,
+                "percentage": 39.491905212402344,
+                "rank": "48/64"
+            },
+            "number_of_household": 655780,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 118100,
+                    "percentage": 18.00908851623535,
+                    "rank": "43/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 122960,
+                    "percentage": 18.75019073486328,
+                    "rank": "6/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 204280,
+                    "percentage": 31.15069007873535,
+                    "rank": "63/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 21000,
+                    "percentage": 3.2022933959960938,
+                    "rank": "22/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 588420,
+                    "percentage": 89.72825622558594,
+                    "rank": "41/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "49",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 209600,
+                "percentage": 49.44795608520508,
+                "rank": "29/64"
+            },
+            "number_of_household": 423880,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 113620,
+                    "percentage": 26.80475616455078,
+                    "rank": "21/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 181620,
+                    "percentage": 42.84703063964844,
+                    "rank": "43/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 24680,
+                    "percentage": 5.822402477264404,
+                    "rank": "34/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 8980,
+                    "percentage": 2.1185240745544434,
+                    "rank": "35/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 397000,
+                    "percentage": 93.65858459472656,
+                    "rank": "31/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "50",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 354340,
+                "percentage": 59.978336334228516,
+                "rank": "17/64"
+            },
+            "number_of_household": 590780,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 157860,
+                    "percentage": 26.72060775756836,
+                    "rank": "22/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 254780,
+                    "percentage": 43.12603759765625,
+                    "rank": "45/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 19620,
+                    "percentage": 3.321033239364624,
+                    "rank": "23/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 12580,
+                    "percentage": 2.1293883323669434,
+                    "rank": "34/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 553580,
+                    "percentage": 93.70323944091797,
+                    "rank": "30/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "51",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 393060,
+                "percentage": 62.02815246582031,
+                "rank": "13/64"
+            },
+            "number_of_household": 633680,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 155960,
+                    "percentage": 24.611791610717773,
+                    "rank": "25/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 180240,
+                    "percentage": 28.443378448486328,
+                    "rank": "15/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 59320,
+                    "percentage": 9.361191749572754,
+                    "rank": "44/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 51680,
+                    "percentage": 8.155535697937012,
+                    "rank": "8/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 560380,
+                    "percentage": 88.43264770507812,
+                    "rank": "44/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "52",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 338260,
+                "percentage": 47.31306076049805,
+                "rank": "35/64"
+            },
+            "number_of_household": 714940,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 129480,
+                    "percentage": 18.110610961914062,
+                    "rank": "42/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 304240,
+                    "percentage": 42.55461883544922,
+                    "rank": "41/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 32820,
+                    "percentage": 4.590595245361328,
+                    "rank": "30/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 9680,
+                    "percentage": 1.3539597988128662,
+                    "rank": "44/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 682260,
+                    "percentage": 95.42898559570312,
+                    "rank": "16/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "53",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 283900,
+                "percentage": 39.66413497924805,
+                "rank": "47/64"
+            },
+            "number_of_household": 715760,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 232660,
+                    "percentage": 32.50531005859375,
+                    "rank": "11/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 110120,
+                    "percentage": 15.385045051574707,
+                    "rank": "1/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 169020,
+                    "percentage": 23.61406135559082,
+                    "rank": "60/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 10700,
+                    "percentage": 1.4949145317077637,
+                    "rank": "42/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 689460,
+                    "percentage": 96.3255844116211,
+                    "rank": "8/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "54",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 179860,
+                "percentage": 29.374488830566406,
+                "rank": "58/64"
+            },
+            "number_of_household": 612300,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 65740,
+                    "percentage": 10.736566543579102,
+                    "rank": "57/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 122340,
+                    "percentage": 19.98040199279785,
+                    "rank": "7/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 160120,
+                    "percentage": 26.15058135986328,
+                    "rank": "61/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 6700,
+                    "percentage": 1.094234824180603,
+                    "rank": "49/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 580840,
+                    "percentage": 94.86199951171875,
+                    "rank": "19/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "55",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 106760,
+                "percentage": 21.011611938476562,
+                "rank": "63/64"
+            },
+            "number_of_household": 508100,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 92080,
+                    "percentage": 18.122417449951172,
+                    "rank": "41/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 202440,
+                    "percentage": 39.842552185058594,
+                    "rank": "35/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 55700,
+                    "percentage": 10.962409019470215,
+                    "rank": "50/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 3380,
+                    "percentage": 0.6652233600616455,
+                    "rank": "60/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 491360,
+                    "percentage": 96.70536804199219,
+                    "rank": "5/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "56",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 58740,
+                "percentage": 20.221702575683594,
+                "rank": "64/64"
+            },
+            "number_of_household": 290480,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 85420,
+                    "percentage": 29.4064998626709,
+                    "rank": "18/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 87600,
+                    "percentage": 30.156982421875,
+                    "rank": "18/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 27680,
+                    "percentage": 9.52905559539795,
+                    "rank": "45/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 2020,
+                    "percentage": 0.6954007148742676,
+                    "rank": "58/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 281080,
+                    "percentage": 96.76397705078125,
+                    "rank": "4/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "57",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 146800,
+                "percentage": 34.82469177246094,
+                "rank": "51/64"
+            },
+            "number_of_household": 421540,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 63400,
+                    "percentage": 15.040090560913086,
+                    "rank": "47/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 75520,
+                    "percentage": 17.915264129638672,
+                    "rank": "3/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 92520,
+                    "percentage": 21.948095321655273,
+                    "rank": "59/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 3200,
+                    "percentage": 0.759121298789978,
+                    "rank": "54/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 405940,
+                    "percentage": 96.29928588867188,
+                    "rank": "9/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "58",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 62240,
+                "percentage": 27.22421646118164,
+                "rank": "61/64"
+            },
+            "number_of_household": 228620,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 85980,
+                    "percentage": 37.60825729370117,
+                    "rank": "7/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 62440,
+                    "percentage": 27.311697006225586,
+                    "rank": "14/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 32440,
+                    "percentage": 14.189484596252441,
+                    "rank": "55/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 3140,
+                    "percentage": 1.3734581470489502,
+                    "rank": "43/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 216040,
+                    "percentage": 94.49742126464844,
+                    "rank": "21/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "59",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 274680,
+                "percentage": 38.13834762573242,
+                "rank": "50/64"
+            },
+            "number_of_household": 720220,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 125600,
+                    "percentage": 17.439117431640625,
+                    "rank": "44/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 179600,
+                    "percentage": 24.936824798583984,
+                    "rank": "9/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 153100,
+                    "percentage": 21.25739288330078,
+                    "rank": "58/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 14100,
+                    "percentage": 1.9577350616455078,
+                    "rank": "38/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 689060,
+                    "percentage": 95.67354583740234,
+                    "rank": "15/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "60",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 111420,
+                "percentage": 34.72975540161133,
+                "rank": "52/64"
+            },
+            "number_of_household": 320820,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 38880,
+                    "percentage": 12.118945121765137,
+                    "rank": "54/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 50440,
+                    "percentage": 15.722211837768555,
+                    "rank": "2/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 86600,
+                    "percentage": 26.993328094482422,
+                    "rank": "62/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 1320,
+                    "percentage": 0.41144564747810364,
+                    "rank": "63/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 313140,
+                    "percentage": 97.60613250732422,
+                    "rank": "1/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "61",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 187340,
+                "percentage": 47.62074279785156,
+                "rank": "34/64"
+            },
+            "number_of_household": 393400,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 45220,
+                    "percentage": 11.494662284851074,
+                    "rank": "56/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 139740,
+                    "percentage": 35.52109909057617,
+                    "rank": "27/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 31360,
+                    "percentage": 7.971530437469482,
+                    "rank": "38/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 8600,
+                    "percentage": 2.186070203781128,
+                    "rank": "33/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 343980,
+                    "percentage": 87.43772888183594,
+                    "rank": "50/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "62",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 182500,
+                "percentage": 50.526023864746094,
+                "rank": "27/64"
+            },
+            "number_of_household": 361200,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 73220,
+                    "percentage": 20.271318435668945,
+                    "rank": "36/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 113780,
+                    "percentage": 31.500553131103516,
+                    "rank": "20/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 34920,
+                    "percentage": 9.667774200439453,
+                    "rank": "46/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 17700,
+                    "percentage": 4.900331974029541,
+                    "rank": "16/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 270240,
+                    "percentage": 74.81727600097656,
+                    "rank": "55/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "63",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 149280,
+                "percentage": 33.89645767211914,
+                "rank": "53/64"
+            },
+            "number_of_household": 440400,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 33820,
+                    "percentage": 7.679382801055908,
+                    "rank": "64/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 110100,
+                    "percentage": 25,
+                    "rank": "10/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 53000,
+                    "percentage": 12.034513473510742,
+                    "rank": "52/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 4660,
+                    "percentage": 1.0581289529800415,
+                    "rank": "50/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 388080,
+                    "percentage": 88.11988830566406,
+                    "rank": "48/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "64",
+        "household_info": {
+            "electricity": {
+                "national_average": 56.4530029296875,
+                "number": 375580,
+                "percentage": 63.01043701171875,
+                "rank": "12/64"
+            },
+            "number_of_household": 596060,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": 25.06646728515625,
+                    "number": 137900,
+                    "percentage": 23.135255813598633,
+                    "rank": "30/64"
+                },
+                "without_flush_toilet": {
+                    "national_average": 38.68394088745117,
+                    "number": 230280,
+                    "percentage": 38.63369369506836,
+                    "rank": "33/64"
+                },
+                "without_toilet": {
+                    "national_average": 7.720252990722656,
+                    "number": 33320,
+                    "percentage": 5.590041160583496,
+                    "rank": "32/64"
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": 10.677162170410156,
+                    "number": 73720,
+                    "percentage": 12.36788272857666,
+                    "rank": "5/64"
+                },
+                "tubewell_water": {
+                    "national_average": 83.48734283447266,
+                    "number": 384720,
+                    "percentage": 64.54383850097656,
+                    "rank": "59/64"
+                }
+            }
+        }
+    },
+    {
+        "_id": "65",
+        "household_info": {
+            "electricity": {
+                "national_average": null,
+                "number": null,
+                "percentage": null,
+                "rank": null
+            },
+            "number_of_household": null,
+            "toilet": {
+                "flush_toilet": {
+                    "national_average": null,
+                    "number": null,
+                    "percentage": null,
+                    "rank": null
+                },
+                "without_flush_toilet": {
+                    "national_average": null,
+                    "number": null,
+                    "percentage": null,
+                    "rank": null
+                },
+                "without_toilet": {
+                    "national_average": null,
+                    "number": null,
+                    "percentage": null,
+                    "rank": null
+                }
+            },
+            "water": {
+                "tapwater": {
+                    "national_average": null,
+                    "number": null,
+                    "percentage": null,
+                    "rank": null
+                },
+                "tubewell_water": {
+                    "national_average": null,
+                    "number": null,
+                    "percentage": null,
+                    "rank": null
+                }
+            }
+        }
+    }
+]
