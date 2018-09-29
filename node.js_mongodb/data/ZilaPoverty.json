@@ -1,0 +1,1346 @@
+[
+    {
+        "_id": "1",
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARGUNA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 87253.3203125,
+                "percentage": 9.800000190734863,
+                "rank": "12/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 169164.59375,
+                "percentage": 19,
+                "rank": "9/64"
+            }
+        }
+    },
+    {
+        "_id": "2",
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARISAL"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 921107.4375,
+                "percentage": 39.89999771118164,
+                "rank": "63/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1265079.875,
+                "percentage": 54.79999923706055,
+                "rank": "63/64"
+            }
+        }
+    },
+    {
+        "_id": "3",
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BHOLA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 362724.21875,
+                "percentage": 20.399999618530273,
+                "rank": "40/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 590315.875,
+                "percentage": 33.19999694824219,
+                "rank": "36/64"
+            }
+        }
+    },
+    {
+        "_id": "4",
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "JHALOKATI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 179338.546875,
+                "percentage": 26.69999885559082,
+                "rank": "52/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 272030.40625,
+                "percentage": 40.5,
+                "rank": "49/64"
+            }
+        }
+    },
+    {
+        "_id": "5",
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PATUAKHALI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 224918.8125,
+                "percentage": 14.699999809265137,
+                "rank": "23/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 394755.46875,
+                "percentage": 25.799999237060547,
+                "rank": "20/64"
+            }
+        }
+    },
+    {
+        "_id": "6",
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PIROJPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 341370.8125,
+                "percentage": 30.89999771118164,
+                "rank": "59/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 487199.1875,
+                "percentage": 44.10000228881836,
+                "rank": "53/64"
+            }
+        }
+    },
+    {
+        "_id": "7",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BANDARBAN"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 84641.765625,
+                "percentage": 21.600000381469727,
+                "rank": "47/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 157135.859375,
+                "percentage": 40.099998474121094,
+                "rank": "48/64"
+            }
+        }
+    },
+    {
+        "_id": "8",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BRAHMANBARIA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 427239.03125,
+                "percentage": 15.000000953674316,
+                "rank": "24/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 854478.0625,
+                "percentage": 30.000001907348633,
+                "rank": "30/64"
+            }
+        }
+    },
+    {
+        "_id": "9",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHANDPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 729290.6875,
+                "percentage": 30.30000114440918,
+                "rank": "57/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1227519,
+                "percentage": 51,
+                "rank": "60/64"
+            }
+        }
+    },
+    {
+        "_id": "10",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHITTAGONG"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 305350.40625,
+                "percentage": 4,
+                "rank": "3/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 877882.4375,
+                "percentage": 11.5,
+                "rank": "3/64"
+            }
+        }
+    },
+    {
+        "_id": "11",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COMILLA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 1137492.5,
+                "percentage": 21.100000381469727,
+                "rank": "43/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 2043173.875,
+                "percentage": 37.900001525878906,
+                "rank": "44/64"
+            }
+        }
+    },
+    {
+        "_id": "12",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COX'S BAZAR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 370221.84375,
+                "percentage": 16.200000762939453,
+                "rank": "26/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 747299.6875,
+                "percentage": 32.70000076293945,
+                "rank": "35/64"
+            }
+        }
+    },
+    {
+        "_id": "13",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "FENI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 210473.59375,
+                "percentage": 14.59999942779541,
+                "rank": "22/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 373374.40625,
+                "percentage": 25.899999618530273,
+                "rank": "21/64"
+            }
+        }
+    },
+    {
+        "_id": "14",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "KHAGRACHHARI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 61921.08203125,
+                "percentage": 10.100000381469727,
+                "rank": "14/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 156335.390625,
+                "percentage": 25.5,
+                "rank": "18/64"
+            }
+        }
+    },
+    {
+        "_id": "15",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "LAKSHMIPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 312547.15625,
+                "percentage": 18.099998474121094,
+                "rank": "33/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 538755.375,
+                "percentage": 31.200000762939453,
+                "rank": "32/64"
+            }
+        }
+    },
+    {
+        "_id": "16",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "NOAKHALI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 105733.8828125,
+                "percentage": 3.4000000953674316,
+                "rank": "2/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 298542.71875,
+                "percentage": 9.600000381469727,
+                "rank": "2/64"
+            }
+        }
+    },
+    {
+        "_id": "17",
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "RANGAMATI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 40986.3203125,
+                "percentage": 6.800000190734863,
+                "rank": "7/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 122356.21875,
+                "percentage": 20.299999237060547,
+                "rank": "12/64"
+            }
+        }
+    },
+    {
+        "_id": "18",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "DHAKA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 592672.625,
+                "percentage": 4.900000095367432,
+                "rank": "4/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1898971.625,
+                "percentage": 15.700000762939453,
+                "rank": "5/64"
+            }
+        }
+    },
+    {
+        "_id": "19",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "FARIDPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 378726.46875,
+                "percentage": 19.799999237060547,
+                "rank": "38/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 694331.875,
+                "percentage": 36.29999923706055,
+                "rank": "42/64"
+            }
+        }
+    },
+    {
+        "_id": "20",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GAZIPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 279478.96875,
+                "percentage": 8.199999809265137,
+                "rank": "11/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 661206.375,
+                "percentage": 19.400001525878906,
+                "rank": "10/64"
+            }
+        }
+    },
+    {
+        "_id": "21",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GOPALGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 314004.875,
+                "percentage": 26.80000114440918,
+                "rank": "53/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 500298.78125,
+                "percentage": 42.69999694824219,
+                "rank": "51/64"
+            }
+        }
+    },
+    {
+        "_id": "22",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "JAMALPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 783966.625,
+                "percentage": 34.20000076293945,
+                "rank": "61/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1171365.25,
+                "percentage": 51.099998474121094,
+                "rank": "61/64"
+            }
+        }
+    },
+    {
+        "_id": "23",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "KISHOREGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 476830,
+                "percentage": 16.399999618530273,
+                "rank": "27/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 880972.5,
+                "percentage": 30.30000114440918,
+                "rank": "31/64"
+            }
+        }
+    },
+    {
+        "_id": "24",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MADARIPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 202807.4375,
+                "percentage": 17.399999618530273,
+                "rank": "31/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 406780.4375,
+                "percentage": 34.900001525878906,
+                "rank": "39/64"
+            }
+        }
+    },
+    {
+        "_id": "25",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MANIKGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 111769.59375,
+                "percentage": 8,
+                "rank": "10/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 258467.203125,
+                "percentage": 18.5,
+                "rank": "8/64"
+            }
+        }
+    },
+    {
+        "_id": "26",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MUNSHIGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 224699.28125,
+                "percentage": 15.600000381469727,
+                "rank": "25/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 413389.0625,
+                "percentage": 28.700000762939453,
+                "rank": "28/64"
+            }
+        }
+    },
+    {
+        "_id": "27",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MYMENSINGH"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 1653172.25,
+                "percentage": 32.30000305175781,
+                "rank": "60/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 2584681,
+                "percentage": 50.5,
+                "rank": "59/64"
+            }
+        }
+    },
+    {
+        "_id": "28",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARAYANGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 308231.03125,
+                "percentage": 10.40000057220459,
+                "rank": "15/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 773541.375,
+                "percentage": 26.100000381469727,
+                "rank": "23/64"
+            }
+        }
+    },
+    {
+        "_id": "29",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARSINGDI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 269529.90625,
+                "percentage": 12.100000381469727,
+                "rank": "18/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 527922.25,
+                "percentage": 23.700000762939453,
+                "rank": "13/64"
+            }
+        }
+    },
+    {
+        "_id": "30",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NETRAKONA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 434225.96875,
+                "percentage": 19.5,
+                "rank": "36/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 786060.375,
+                "percentage": 35.29999923706055,
+                "rank": "41/64"
+            }
+        }
+    },
+    {
+        "_id": "31",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "RAJBARI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 269706.09375,
+                "percentage": 25.700000762939453,
+                "rank": "50/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 439715.40625,
+                "percentage": 41.900001525878906,
+                "rank": "50/64"
+            }
+        }
+    },
+    {
+        "_id": "32",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHARIATPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 398049.28125,
+                "percentage": 34.400001525878906,
+                "rank": "62/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 608645.125,
+                "percentage": 52.60000228881836,
+                "rank": "62/64"
+            }
+        }
+    },
+    {
+        "_id": "33",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHERPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 405518.40625,
+                "percentage": 29.80000114440918,
+                "rank": "55/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 658627.25,
+                "percentage": 48.400001525878906,
+                "rank": "58/64"
+            }
+        }
+    },
+    {
+        "_id": "34",
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "TANGAIL"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 649778.4375,
+                "percentage": 18,
+                "rank": "32/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1072134.375,
+                "percentage": 29.69999885559082,
+                "rank": "29/64"
+            }
+        }
+    },
+    {
+        "_id": "35",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "BAGERHAT"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 353937.59375,
+                "percentage": 24,
+                "rank": "49/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 631188.75,
+                "percentage": 42.79999923706055,
+                "rank": "52/64"
+            }
+        }
+    },
+    {
+        "_id": "36",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "CHUADANGA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 122109.125,
+                "percentage": 10.800000190734863,
+                "rank": "16/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 313187.28125,
+                "percentage": 27.700000762939453,
+                "rank": "27/64"
+            }
+        }
+    },
+    {
+        "_id": "37",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JESSORE"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 511045.28125,
+                "percentage": 18.399999618530273,
+                "rank": "34/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1083193.75,
+                "percentage": 39,
+                "rank": "47/64"
+            }
+        }
+    },
+    {
+        "_id": "38",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JHENAIDAH"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 176854,
+                "percentage": 10,
+                "rank": "13/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 436829.375,
+                "percentage": 24.69999885559082,
+                "rank": "15/64"
+            }
+        }
+    },
+    {
+        "_id": "39",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KHULNA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 490016.78125,
+                "percentage": 21.19999885559082,
+                "rank": "44/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 896823.3125,
+                "percentage": 38.80000305175781,
+                "rank": "46/64"
+            }
+        }
+    },
+    {
+        "_id": "40",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KUSHTIA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 15517.4404296875,
+                "percentage": 0.800000011920929,
+                "rank": "1/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 69828.4765625,
+                "percentage": 3.5999999046325684,
+                "rank": "1/64"
+            }
+        }
+    },
+    {
+        "_id": "41",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MAGURA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 238373.25,
+                "percentage": 25.899999618530273,
+                "rank": "51/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 417843.46875,
+                "percentage": 45.400001525878906,
+                "rank": "54/64"
+            }
+        }
+    },
+    {
+        "_id": "42",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MEHERPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 33197.9375,
+                "percentage": 5.099999904632568,
+                "rank": "5/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 98942.875,
+                "percentage": 15.199999809265137,
+                "rank": "4/64"
+            }
+        }
+    },
+    {
+        "_id": "43",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "NARAIL"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 55632.5,
+                "percentage": 7.699999809265137,
+                "rank": "9/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 144500,
+                "percentage": 20,
+                "rank": "11/64"
+            }
+        }
+    },
+    {
+        "_id": "44",
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "SATKHIRA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 594005.9375,
+                "percentage": 29.69999885559082,
+                "rank": "54/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 926009.25,
+                "percentage": 46.29999923706055,
+                "rank": "56/64"
+            }
+        }
+    },
+    {
+        "_id": "45",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "BOGRA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 228487.421875,
+                "percentage": 6.700000286102295,
+                "rank": "6/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 566103.0625,
+                "percentage": 16.599998474121094,
+                "rank": "6/64"
+            }
+        }
+    },
+    {
+        "_id": "46",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "CHAPAI NABABGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 199611.28125,
+                "percentage": 12.100000381469727,
+                "rank": "17/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 417369.03125,
+                "percentage": 25.299999237060547,
+                "rank": "17/64"
+            }
+        }
+    },
+    {
+        "_id": "47",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "JOYPURHAT"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 118213.015625,
+                "percentage": 12.899999618530273,
+                "rank": "20/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 244673.453125,
+                "percentage": 26.69999885559082,
+                "rank": "25/64"
+            }
+        }
+    },
+    {
+        "_id": "48",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NAOGAON"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 181451.203125,
+                "percentage": 7,
+                "rank": "8/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 438075.03125,
+                "percentage": 16.899999618530273,
+                "rank": "7/64"
+            }
+        }
+    },
+    {
+        "_id": "49",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NATORE"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 363007.375,
+                "percentage": 21.299999237060547,
+                "rank": "46/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 598195.25,
+                "percentage": 35.10000228881836,
+                "rank": "40/64"
+            }
+        }
+    },
+    {
+        "_id": "50",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "PABNA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 421043.71875,
+                "percentage": 16.69999885559082,
+                "rank": "29/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 794184.3125,
+                "percentage": 31.5,
+                "rank": "34/64"
+            }
+        }
+    },
+    {
+        "_id": "51",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "RAJSHAHI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 425604.3125,
+                "percentage": 16.5,
+                "rank": "28/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 809937.9375,
+                "percentage": 31.400001525878906,
+                "rank": "33/64"
+            }
+        }
+    },
+    {
+        "_id": "52",
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "SIRAJGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 707245.75,
+                "percentage": 22.700000762939453,
+                "rank": "48/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1205744.875,
+                "percentage": 38.70000076293945,
+                "rank": "45/64"
+            }
+        }
+    },
+    {
+        "_id": "53",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "DINAJPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 636077.625,
+                "percentage": 21.299999237060547,
+                "rank": "45/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1131800.125,
+                "percentage": 37.900001525878906,
+                "rank": "43/64"
+            }
+        }
+    },
+    {
+        "_id": "54",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "GAIBANDHA"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 721861.125,
+                "percentage": 30.30000114440918,
+                "rank": "58/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1143542.375,
+                "percentage": 48,
+                "rank": "57/64"
+            }
+        }
+    },
+    {
+        "_id": "55",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "KURIGRAM"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 917001.125,
+                "percentage": 44.29999923706055,
+                "rank": "64/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1318577.25,
+                "percentage": 63.70000076293945,
+                "rank": "64/64"
+            }
+        }
+    },
+    {
+        "_id": "56",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "LALMONIRHAT"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 209391.28125,
+                "percentage": 16.69999885559082,
+                "rank": "30/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 432574.8125,
+                "percentage": 34.5,
+                "rank": "37/64"
+            }
+        }
+    },
+    {
+        "_id": "57",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "NILPHAMARI"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 344246.78125,
+                "percentage": 18.799999237060547,
+                "rank": "35/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 637222.8125,
+                "percentage": 34.79999923706055,
+                "rank": "38/64"
+            }
+        }
+    },
+    {
+        "_id": "58",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "PANCHAGARH"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 121691.28125,
+                "percentage": 12.300000190734863,
+                "rank": "19/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 264159.125,
+                "percentage": 26.69999885559082,
+                "rank": "24/64"
+            }
+        }
+    },
+    {
+        "_id": "59",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "RANGPUR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 860227.875,
+                "percentage": 30.100000381469727,
+                "rank": "56/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 1320349.875,
+                "percentage": 46.20000076293945,
+                "rank": "55/64"
+            }
+        }
+    },
+    {
+        "_id": "60",
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "THAKURGAON"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 191836.5625,
+                "percentage": 13.799999237060547,
+                "rank": "21/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 375332.40625,
+                "percentage": 27.000001907348633,
+                "rank": "26/64"
+            }
+        }
+    },
+    {
+        "_id": "61",
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "HABIGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 424174.34375,
+                "percentage": 20.100000381469727,
+                "rank": "39/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 533910.9375,
+                "percentage": 25.299999237060547,
+                "rank": "16/64"
+            }
+        }
+    },
+    {
+        "_id": "62",
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "MAULVIBAZAR"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 404136.71875,
+                "percentage": 21.100000381469727,
+                "rank": "42/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 492242.375,
+                "percentage": 25.700000762939453,
+                "rank": "19/64"
+            }
+        }
+    },
+    {
+        "_id": "63",
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SUNAMGANJ"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 511942.96875,
+                "percentage": 20.600000381469727,
+                "rank": "41/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 646141.5625,
+                "percentage": 26,
+                "rank": "22/64"
+            }
+        }
+    },
+    {
+        "_id": "64",
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SYLHET"
+        },
+        "poverty_data": {
+            "extreme_poverty_data": {
+                "national_average": 17.600000381469727,
+                "number": 666595.75,
+                "percentage": 19.5,
+                "rank": "37/64"
+            },
+            "poverty": {
+                "national_average": 31.5,
+                "number": 823844,
+                "percentage": 24.100000381469727,
+                "rank": "14/64"
+            }
+        }
+    }
+]

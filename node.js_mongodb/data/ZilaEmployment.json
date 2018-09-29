@@ -1,0 +1,1730 @@
+[
+    {
+        "_id": "1",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 152440,
+                "percentage": 64.17445373535156,
+                "rank": "27/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 17180,
+                "percentage": 7.232466220855713,
+                "rank": "37/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 67920,
+                "percentage": 28.59307861328125,
+                "rank": "40/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARGUNA"
+        }
+    },
+    {
+        "_id": "2",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 305960,
+                "percentage": 51.320068359375,
+                "rank": "49/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 60580,
+                "percentage": 10.161360740661621,
+                "rank": "22/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 229640,
+                "percentage": 38.51856994628906,
+                "rank": "14/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BARISAL"
+        }
+    },
+    {
+        "_id": "3",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 309120,
+                "percentage": 67.3992691040039,
+                "rank": "15/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 30540,
+                "percentage": 6.658817291259766,
+                "rank": "43/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 118980,
+                "percentage": 25.941913604736328,
+                "rank": "52/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "BHOLA"
+        }
+    },
+    {
+        "_id": "4",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 78140,
+                "percentage": 47.50151824951172,
+                "rank": "53/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 17400,
+                "percentage": 10.577507019042969,
+                "rank": "18/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 68960,
+                "percentage": 41.92097091674805,
+                "rank": "10/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "JHALOKATI"
+        }
+    },
+    {
+        "_id": "5",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 250740,
+                "percentage": 61.600830078125,
+                "rank": "31/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 34540,
+                "percentage": 8.485652923583984,
+                "rank": "31/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 121760,
+                "percentage": 29.91352081298828,
+                "rank": "32/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PATUAKHALI"
+        }
+    },
+    {
+        "_id": "6",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 149800,
+                "percentage": 51.15770721435547,
+                "rank": "50/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 29500,
+                "percentage": 10.074448585510254,
+                "rank": "24/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 113520,
+                "percentage": 38.767845153808594,
+                "rank": "13/64"
+            }
+        },
+        "location_data": {
+            "division": "BARISAL",
+            "zila": "PIROJPUR"
+        }
+    },
+    {
+        "_id": "7",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 94720,
+                "percentage": 71.27163696289062,
+                "rank": "7/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 7840,
+                "percentage": 5.899172306060791,
+                "rank": "49/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 30340,
+                "percentage": 22.829195022583008,
+                "rank": "60/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BANDARBAN"
+        }
+    },
+    {
+        "_id": "8",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 330660,
+                "percentage": 53.010772705078125,
+                "rank": "46/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 61140,
+                "percentage": 9.801846504211426,
+                "rank": "25/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 231960,
+                "percentage": 37.1873779296875,
+                "rank": "18/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "BRAHMANBARIA"
+        }
+    },
+    {
+        "_id": "9",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 280220,
+                "percentage": 51.361854553222656,
+                "rank": "47/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 61900,
+                "percentage": 11.345724105834961,
+                "rank": "14/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 203460,
+                "percentage": 37.292423248291016,
+                "rank": "17/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHANDPUR"
+        }
+    },
+    {
+        "_id": "10",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 396420,
+                "percentage": 17.546142578125,
+                "rank": "61/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 548740,
+                "percentage": 24.288053512573242,
+                "rank": "4/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 1314140,
+                "percentage": 58.16580581665039,
+                "rank": "2/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "CHITTAGONG"
+        }
+    },
+    {
+        "_id": "11",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 571260,
+                "percentage": 46.686824798583984,
+                "rank": "54/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 128100,
+                "percentage": 10.469107627868652,
+                "rank": "19/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 524240,
+                "percentage": 42.84406661987305,
+                "rank": "8/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COMILLA"
+        }
+    },
+    {
+        "_id": "12",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 289220,
+                "percentage": 49.06857681274414,
+                "rank": "52/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 48480,
+                "percentage": 8.225034713745117,
+                "rank": "32/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 251720,
+                "percentage": 42.70638656616211,
+                "rank": "9/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "COX'S BAZAR"
+        }
+    },
+    {
+        "_id": "13",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 100380,
+                "percentage": 30.506929397583008,
+                "rank": "60/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 40460,
+                "percentage": 12.296377182006836,
+                "rank": "11/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 188200,
+                "percentage": 57.196693420410156,
+                "rank": "3/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "FENI"
+        }
+    },
+    {
+        "_id": "14",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 121900,
+                "percentage": 66.88247680664062,
+                "rank": "16/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 5200,
+                "percentage": 2.853066921234131,
+                "rank": "63/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 55160,
+                "percentage": 30.26445770263672,
+                "rank": "29/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "KHAGRACHHARI"
+        }
+    },
+    {
+        "_id": "15",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 211080,
+                "percentage": 54.3740348815918,
+                "rank": "44/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 34560,
+                "percentage": 8.902626991271973,
+                "rank": "29/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 142560,
+                "percentage": 36.72333908081055,
+                "rank": "19/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "LAKSHMIPUR"
+        }
+    },
+    {
+        "_id": "16",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 299220,
+                "percentage": 45.745296478271484,
+                "rank": "55/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 55940,
+                "percentage": 8.55220890045166,
+                "rank": "30/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 298940,
+                "percentage": 45.702491760253906,
+                "rank": "6/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "NOAKHALI"
+        }
+    },
+    {
+        "_id": "17",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 127980,
+                "percentage": 66.12586212158203,
+                "rank": "19/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 13220,
+                "percentage": 6.830628871917725,
+                "rank": "40/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 52340,
+                "percentage": 27.043506622314453,
+                "rank": "47/64"
+            }
+        },
+        "location_data": {
+            "division": "CHITTAGONG",
+            "zila": "RANGAMATI"
+        }
+    },
+    {
+        "_id": "18",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 211320,
+                "percentage": 4.1963043212890625,
+                "rank": "64/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 1489460,
+                "percentage": 29.57707405090332,
+                "rank": "3/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 3335080,
+                "percentage": 66.22662353515625,
+                "rank": "1/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "DHAKA"
+        }
+    },
+    {
+        "_id": "19",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 304140,
+                "percentage": 58.47946548461914,
+                "rank": "39/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 52540,
+                "percentage": 10.10229206085205,
+                "rank": "23/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 163400,
+                "percentage": 31.418243408203125,
+                "rank": "23/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "FARIDPUR"
+        }
+    },
+    {
+        "_id": "20",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 233840,
+                "percentage": 16.037309646606445,
+                "rank": "62/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 775460,
+                "percentage": 53.18291091918945,
+                "rank": "1/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 448800,
+                "percentage": 30.779781341552734,
+                "rank": "25/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GAZIPUR"
+        }
+    },
+    {
+        "_id": "21",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 199320,
+                "percentage": 65.3936996459961,
+                "rank": "23/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 17440,
+                "percentage": 5.721784591674805,
+                "rank": "50/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 88040,
+                "percentage": 28.8845157623291,
+                "rank": "38/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "GOPALGANJ"
+        }
+    },
+    {
+        "_id": "22",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 439460,
+                "percentage": 69.51061248779297,
+                "rank": "12/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 39040,
+                "percentage": 6.175065994262695,
+                "rank": "46/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 153720,
+                "percentage": 24.314321517944336,
+                "rank": "56/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "JAMALPUR"
+        }
+    },
+    {
+        "_id": "23",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 451800,
+                "percentage": 60.286624908447266,
+                "rank": "35/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 68200,
+                "percentage": 9.100370407104492,
+                "rank": "28/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 229420,
+                "percentage": 30.613008499145508,
+                "rank": "28/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "KISHOREGANJ"
+        }
+    },
+    {
+        "_id": "24",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 188620,
+                "percentage": 59.348060607910156,
+                "rank": "37/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 33840,
+                "percentage": 10.647536277770996,
+                "rank": "17/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 95360,
+                "percentage": 30.004405975341797,
+                "rank": "31/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MADARIPUR"
+        }
+    },
+    {
+        "_id": "25",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 234180,
+                "percentage": 60.315250396728516,
+                "rank": "34/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 37960,
+                "percentage": 9.77695369720459,
+                "rank": "26/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 116120,
+                "percentage": 29.907793045043945,
+                "rank": "33/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MANIKGANJ"
+        }
+    },
+    {
+        "_id": "26",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 172300,
+                "percentage": 41.10013961791992,
+                "rank": "56/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 76580,
+                "percentage": 18.267257690429688,
+                "rank": "7/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 170340,
+                "percentage": 40.63260269165039,
+                "rank": "12/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MUNSHIGANJ"
+        }
+    },
+    {
+        "_id": "27",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 816300,
+                "percentage": 58.57743453979492,
+                "rank": "38/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 156760,
+                "percentage": 11.249049186706543,
+                "rank": "15/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 420480,
+                "percentage": 30.17351531982422,
+                "rank": "30/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "MYMENSINGH"
+        }
+    },
+    {
+        "_id": "28",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 107000,
+                "percentage": 9.583348274230957,
+                "rank": "63/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 470060,
+                "percentage": 42.10045623779297,
+                "rank": "2/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 539460,
+                "percentage": 48.31619644165039,
+                "rank": "4/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARAYANGANJ"
+        }
+    },
+    {
+        "_id": "29",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 220040,
+                "percentage": 35.68254852294922,
+                "rank": "59/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 141840,
+                "percentage": 23.00132942199707,
+                "rank": "6/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 254780,
+                "percentage": 41.31612014770508,
+                "rank": "11/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NARSINGDI"
+        }
+    },
+    {
+        "_id": "30",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 455060,
+                "percentage": 74.92426300048828,
+                "rank": "1/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 29900,
+                "percentage": 4.922945022583008,
+                "rank": "57/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 122400,
+                "percentage": 20.15279197692871,
+                "rank": "64/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "NETRAKONA"
+        }
+    },
+    {
+        "_id": "31",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 183280,
+                "percentage": 61.211673736572266,
+                "rank": "33/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 22840,
+                "percentage": 7.62808084487915,
+                "rank": "33/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 93300,
+                "percentage": 31.16024398803711,
+                "rank": "24/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "RAJBARI"
+        }
+    },
+    {
+        "_id": "32",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 185460,
+                "percentage": 61.321250915527344,
+                "rank": "32/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 28140,
+                "percentage": 9.30432415008545,
+                "rank": "27/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 88840,
+                "percentage": 29.374420166015625,
+                "rank": "36/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHARIATPUR"
+        }
+    },
+    {
+        "_id": "33",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 261040,
+                "percentage": 69.55502319335938,
+                "rank": "11/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 26740,
+                "percentage": 7.124966621398926,
+                "rank": "39/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 87520,
+                "percentage": 23.320011138916016,
+                "rank": "59/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "SHERPUR"
+        }
+    },
+    {
+        "_id": "34",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 559100,
+                "percentage": 55.66840362548828,
+                "rank": "43/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 116820,
+                "percentage": 11.631519317626953,
+                "rank": "13/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 328420,
+                "percentage": 32.70008087158203,
+                "rank": "21/64"
+            }
+        },
+        "location_data": {
+            "division": "DHAKA",
+            "zila": "TANGAIL"
+        }
+    },
+    {
+        "_id": "35",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 234620,
+                "percentage": 56.317813873291016,
+                "rank": "42/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 21820,
+                "percentage": 5.237637996673584,
+                "rank": "53/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 160160,
+                "percentage": 38.44455337524414,
+                "rank": "15/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "BAGERHAT"
+        }
+    },
+    {
+        "_id": "36",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 234800,
+                "percentage": 66.032958984375,
+                "rank": "20/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 21860,
+                "percentage": 6.147702217102051,
+                "rank": "47/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 98920,
+                "percentage": 27.819337844848633,
+                "rank": "44/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "CHUADANGA"
+        }
+    },
+    {
+        "_id": "37",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 450980,
+                "percentage": 54.354583740234375,
+                "rank": "45/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 85220,
+                "percentage": 10.271183013916016,
+                "rank": "21/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 293500,
+                "percentage": 35.37423324584961,
+                "rank": "20/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JESSORE"
+        }
+    },
+    {
+        "_id": "38",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 355260,
+                "percentage": 66.6329116821289,
+                "rank": "18/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 39300,
+                "percentage": 7.371145248413086,
+                "rank": "36/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 138600,
+                "percentage": 25.995948791503906,
+                "rank": "51/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "JHENAIDAH"
+        }
+    },
+    {
+        "_id": "39",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 279580,
+                "percentage": 39.90579605102539,
+                "rank": "57/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 101980,
+                "percentage": 14.556095123291016,
+                "rank": "9/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 319040,
+                "percentage": 45.538108825683594,
+                "rank": "7/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KHULNA"
+        }
+    },
+    {
+        "_id": "40",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 335680,
+                "percentage": 57.191532135009766,
+                "rank": "40/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 60460,
+                "percentage": 10.300883293151855,
+                "rank": "20/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 190800,
+                "percentage": 32.5075798034668,
+                "rank": "22/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "KUSHTIA"
+        }
+    },
+    {
+        "_id": "41",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 168360,
+                "percentage": 65.98212432861328,
+                "rank": "21/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 15060,
+                "percentage": 5.902178764343262,
+                "rank": "48/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 71740,
+                "percentage": 28.115692138671875,
+                "rank": "41/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MAGURA"
+        }
+    },
+    {
+        "_id": "42",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 143080,
+                "percentage": 71.7480697631836,
+                "rank": "6/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 4220,
+                "percentage": 2.1161367893218994,
+                "rank": "64/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 52120,
+                "percentage": 26.135793685913086,
+                "rank": "50/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "MEHERPUR"
+        }
+    },
+    {
+        "_id": "43",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 125940,
+                "percentage": 65.7101058959961,
+                "rank": "22/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 12120,
+                "percentage": 6.323698043823242,
+                "rank": "44/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 53600,
+                "percentage": 27.966190338134766,
+                "rank": "43/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "NARAIL"
+        }
+    },
+    {
+        "_id": "44",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 389040,
+                "percentage": 66.66438293457031,
+                "rank": "17/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 33240,
+                "percentage": 5.6958770751953125,
+                "rank": "51/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 161300,
+                "percentage": 27.639739990234375,
+                "rank": "45/64"
+            }
+        },
+        "location_data": {
+            "division": "KHULNA",
+            "zila": "SATKHIRA"
+        }
+    },
+    {
+        "_id": "45",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 619320,
+                "percentage": 60.15385437011719,
+                "rank": "36/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 111940,
+                "percentage": 10.872605323791504,
+                "rank": "16/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 298300,
+                "percentage": 28.973541259765625,
+                "rank": "37/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "BOGRA"
+        }
+    },
+    {
+        "_id": "46",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 298780,
+                "percentage": 64.48674774169922,
+                "rank": "25/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 30860,
+                "percentage": 6.660623073577881,
+                "rank": "42/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 133680,
+                "percentage": 28.852630615234375,
+                "rank": "39/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "CHAPAI NABABGANJ"
+        }
+    },
+    {
+        "_id": "47",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 197600,
+                "percentage": 69.44541931152344,
+                "rank": "13/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 12000,
+                "percentage": 4.2173333168029785,
+                "rank": "60/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 74940,
+                "percentage": 26.33724594116211,
+                "rank": "49/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "JOYPURHAT"
+        }
+    },
+    {
+        "_id": "48",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 602680,
+                "percentage": 73.65925598144531,
+                "rank": "2/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 38660,
+                "percentage": 4.725006103515625,
+                "rank": "59/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 176860,
+                "percentage": 21.615741729736328,
+                "rank": "63/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NAOGAON"
+        }
+    },
+    {
+        "_id": "49",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 360620,
+                "percentage": 70.57142639160156,
+                "rank": "9/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 25260,
+                "percentage": 4.943248748779297,
+                "rank": "55/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 125120,
+                "percentage": 24.485322952270508,
+                "rank": "54/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "NATORE"
+        }
+    },
+    {
+        "_id": "50",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 421800,
+                "percentage": 56.996917724609375,
+                "rank": "41/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 96960,
+                "percentage": 13.101995468139648,
+                "rank": "10/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 221280,
+                "percentage": 29.901086807250977,
+                "rank": "34/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "PABNA"
+        }
+    },
+    {
+        "_id": "51",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 481060,
+                "percentage": 63.02206039428711,
+                "rank": "30/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 47960,
+                "percentage": 6.283079147338867,
+                "rank": "45/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 234300,
+                "percentage": 30.694860458374023,
+                "rank": "26/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "RAJSHAHI"
+        }
+    },
+    {
+        "_id": "52",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 456760,
+                "percentage": 51.36174392700195,
+                "rank": "48/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 210860,
+                "percentage": 23.710784912109375,
+                "rank": "5/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 221680,
+                "percentage": 24.927471160888672,
+                "rank": "53/64"
+            }
+        },
+        "location_data": {
+            "division": "RAJSHAHI",
+            "zila": "SIRAJGANJ"
+        }
+    },
+    {
+        "_id": "53",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 577120,
+                "percentage": 63.80259323120117,
+                "rank": "28/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 50460,
+                "percentage": 5.578526020050049,
+                "rank": "52/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 276960,
+                "percentage": 30.618879318237305,
+                "rank": "27/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "DINAJPUR"
+        }
+    },
+    {
+        "_id": "54",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 468540,
+                "percentage": 70.6377182006836,
+                "rank": "8/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 34280,
+                "percentage": 5.1680989265441895,
+                "rank": "54/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 160480,
+                "percentage": 24.194181442260742,
+                "rank": "57/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "GAIBANDHA"
+        }
+    },
+    {
+        "_id": "55",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 406880,
+                "percentage": 72.17768096923828,
+                "rank": "5/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 23440,
+                "percentage": 4.158092498779297,
+                "rank": "61/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 133400,
+                "percentage": 23.664230346679688,
+                "rank": "58/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "KURIGRAM"
+        }
+    },
+    {
+        "_id": "56",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 262660,
+                "percentage": 72.89631652832031,
+                "rank": "4/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 17240,
+                "percentage": 4.7846360206604,
+                "rank": "58/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 80420,
+                "percentage": 22.319049835205078,
+                "rank": "61/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "LALMONIRHAT"
+        }
+    },
+    {
+        "_id": "57",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 359880,
+                "percentage": 68.85020446777344,
+                "rank": "14/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 34920,
+                "percentage": 6.680696487426758,
+                "rank": "41/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 127900,
+                "percentage": 24.46910285949707,
+                "rank": "55/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "NILPHAMARI"
+        }
+    },
+    {
+        "_id": "58",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 188320,
+                "percentage": 65.26199340820312,
+                "rank": "24/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 21540,
+                "percentage": 7.464651584625244,
+                "rank": "34/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 78700,
+                "percentage": 27.273357391357422,
+                "rank": "46/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "PANCHAGARH"
+        }
+    },
+    {
+        "_id": "59",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 530140,
+                "percentage": 63.04735565185547,
+                "rank": "29/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 60420,
+                "percentage": 7.1855010986328125,
+                "rank": "38/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 250300,
+                "percentage": 29.76714324951172,
+                "rank": "35/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "RANGPUR"
+        }
+    },
+    {
+        "_id": "60",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 280260,
+                "percentage": 69.7893295288086,
+                "rank": "10/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 14560,
+                "percentage": 3.625678539276123,
+                "rank": "62/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 106760,
+                "percentage": 26.584989547729492,
+                "rank": "48/64"
+            }
+        },
+        "location_data": {
+            "division": "RANGPUR",
+            "zila": "THAKURGAON"
+        }
+    },
+    {
+        "_id": "61",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 358060,
+                "percentage": 64.47581481933594,
+                "rank": "26/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 41340,
+                "percentage": 7.444087982177734,
+                "rank": "35/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 155940,
+                "percentage": 28.080093383789062,
+                "rank": "42/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "HABIGANJ"
+        }
+    },
+    {
+        "_id": "62",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 259060,
+                "percentage": 49.773284912109375,
+                "rank": "51/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 62980,
+                "percentage": 12.10036849975586,
+                "rank": "12/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 198440,
+                "percentage": 38.1263427734375,
+                "rank": "16/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "MAULVIBAZAR"
+        }
+    },
+    {
+        "_id": "63",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 466500,
+                "percentage": 72.97728729248047,
+                "rank": "3/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 31580,
+                "percentage": 4.940241813659668,
+                "rank": "56/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 141160,
+                "percentage": 22.082473754882812,
+                "rank": "62/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SUNAMGANJ"
+        }
+    },
+    {
+        "_id": "64",
+        "employment_data": {
+            "agriculture_employment_info": {
+                "national_average": 47.358436584472656,
+                "number": 320680,
+                "percentage": 38.090938568115234,
+                "rank": "58/64"
+            },
+            "industrial_employment_info": {
+                "national_average": 14.91544246673584,
+                "number": 134040,
+                "percentage": 15.9215087890625,
+                "rank": "8/64"
+            },
+            "service_holders": {
+                "national_average": 37.72611999511719,
+                "number": 387160,
+                "percentage": 45.987552642822266,
+                "rank": "5/64"
+            }
+        },
+        "location_data": {
+            "division": "SYLHET",
+            "zila": "SYLHET"
+        }
+    }
+]
